@@ -1,0 +1,19 @@
+# Makefile for AutonomaX ignition
+.PHONY: bootstrap product-update self-improve ignite-all
+
+CSV?=AutonomaX_Master_Index_found.csv
+
+bootstrap:
+	@python autonomax_bootstrap.py --csv $(CSV) --project-root $(PWD)
+
+product-update:
+	@python product_update.py --project-root $(PWD)
+
+self-improve:
+	@python self_improve.py --project-root $(PWD)
+
+ignite-all: bootstrap product-update self-improve
+	@echo "All phases complete."
+printbelle:
+	@echo "▶ Printbelle (CSV→patch→images)"
+	@bash scripts/printbelle_run.sh

@@ -1,0 +1,1054 @@
+{
+  "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/Link to Local Folder": [
+    "missing"
+  ],
+  "/Volumes/psiqo/autonomax-hub/firebase_autonomax_site_v1_ready/public/commander.js": [
+    "code",
+    "js"
+  ],
+  "/Volumes/psiqo/autonomax-hub/firebase_autonomax_site_v1_ready/public/assets/banner.jpg": [
+    "media"
+  ],
+  "/Volumes/psiqo/autonomax-hub/firebase_autonomax_site_v1_ready/investor/deck-v1.pdf": [
+    "doc"
+  ],
+  "/Volumes/psiqo/autonomax-hub/firebase_autonomax_site_v1_ready/bundles/ClientPack_Demo_v1.0.zip": [
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/autonomax_ui_service_live_fixed/main.py": [
+    "code",
+    "python"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX_Studio_LazyLarry_GitHub_Ready_Fixed/AutonomaX-Studio/firebase-hosting/firebase.json": [
+    "data"
+  ],
+  "/Volumes/psiqo/autonomax-hub/scripts/setup-propulse-complete.sh": [
+    "code",
+    "video"
+  ],
+  "/Volumes/psiqo/autonomax-hub/api/firebase_functions/index.js": [
+    "code",
+    "js"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/dev.yml": [
+    "doc"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/.gitattributes": [
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Dependencies/Swift Gen/graphql_swift_gen.gemspec": [
+    "other",
+    "shopify"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Dependencies/Swift Gen/LICENSE.txt": [
+    "doc"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Dependencies/Swift Gen/codegen/test/graphql_swift_gen_test.rb": [
+    "code",
+    "shopify"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Dependencies/Swift Gen/codegen/test/test_helper.rb": [
+    "code"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Dependencies/Swift Gen/codegen/test/support/schema.rb": [
+    "code"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Dependencies/Swift Gen/codegen/lib/graphql_swift_gen.rb": [
+    "code",
+    "shopify"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Scripts/introspection.graphql": [
+    "other",
+    "shopify",
+    "video"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Scripts/update_version": [
+    "other",
+    "video"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/ShopPayInstallmentsProductVariantPricing.swift": [
+    "growth",
+    "ml",
+    "other",
+    "shopify"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/SellingPlanEdge.swift": [
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/BrandColorGroup.swift": [
+    "branding",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/ShopPayInstallmentsFinancingPlanTerm.swift": [
+    "ml",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/OrderFinancialStatus.swift": [
+    "other",
+    "shopify"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/ShopPayInstallmentsPricing.swift": [
+    "growth",
+    "ml",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/ProductVariant.swift": [
+    "other",
+    "shopify"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/PricingValue.swift": [
+    "growth",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/FulfillmentLineItem.swift": [
+    "ml",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mobile-buy-sdk-ios-2025.7/mobile-buy-sdk-ios-2025.7.0/Buy/Generated/Storefront/BrandColors.swift": [
+    "branding",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mindful_bloom_bundle/metadata.json": [
+    "data"
+  ],
+  "/Volumes/psiqo/autonomax-hub/mindful_bloom_bundle/main_visual.png": [
+    "media"
+  ],
+  "/Volumes/psiqo/autonomax-hub/propulse-backup copy/launch.py": [
+    "code",
+    "python"
+  ],
+  "/Volumes/psiqo/autonomax-hub/downloads/autonomax_commander_final_patch/scripts/upgrade_patch_v1.py": [
+    "code",
+    "python",
+    "video"
+  ],
+  "/Volumes/psiqo/autonomax-hub/downloads/autonomax_commander_final_patch/scripts/autonomax_deploy_setup.sh": [
+    "code",
+    "video"
+  ],
+  "/Volumes/psiqo/autonomax-hub/LazyLarry_Suite_v1/LazyLarrySuite/assets/avatar_2.webp": [
+    "media"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/load_feature-81c60534.js": [
+    "code",
+    "js",
+    "ml"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/preloads.js": [
+    "code",
+    "js"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/trekkie.storefront.65f130bd22133f3c2156dc46a3e7ea72ff68b5fc.min.js": [
+    "code",
+    "js"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/component-rating.css": [
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/600x800.svg": [
+    "media"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/component-volume-pricing.css": [
+    "growth",
+    "other"
+  ],
+  "/Volumes/psiqo/autonomax-hub/AutonomaX-Studio/LazyLarry_Launch_Pack/AutonomaX_files/details-modal.js": [
+    "code",
+    "js"
+  ],
+  "/Volumes/psiqo/__bopper/retrain_model.py": [
+    "code",
+    "ml",
+    "python"
+  ],
+  "/Volumes/psiqo/__bopper/main.py": [
+    "code",
+    "python"
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/worker_pools/transports/grpc.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/worker_pools/transports/rest.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/worker_pools/transports/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/worker_pools/transports/grpc_asyncio.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/worker_pools/transports/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/pagers.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/transports/grpc.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/transports/rest.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/transports/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/transports/grpc_asyncio.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/executions/transports/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/pagers.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/transports/grpc.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/transports/rest.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/transports/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/transports/grpc_asyncio.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/revisions/transports/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/pagers.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/transports/grpc.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/transports/rest.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/transports/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/transports/grpc_asyncio.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/jobs/transports/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/pagers.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/transports/grpc.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/transports/rest.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/transports/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/transports/grpc_asyncio.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/run_v2/services/services/transports/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/gapic_metadata.json": [
+    "data"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/gapic_version.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/py.typed": [
+    "other"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/types/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/types/storage.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/pagers.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/transports/grpc.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/transports/rest.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/transports/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/transports/grpc_asyncio.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_clients/storage_v2/services/storage/transports/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1/resources.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1/rest_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1beta1/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1beta1/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1beta1/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1beta1/resources.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/aiplatform/v1beta1/rest_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/storage/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/storage/v2/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/storage/v2/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/storage/v2/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/storage/v2/resources.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/storage/v2/rest_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/spanner/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/spanner/v1/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/spanner/v1/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/spanner/v1/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/spanner/v1/resources.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/spanner/v1/rest_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/run/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/run/v2/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/run/v2/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/run/v2/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/run/v2/resources.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/run/v2/rest_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/logging/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/logging/v2/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/logging/v2/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/logging/v2/async_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/logging/v2/resources.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/generated_clients/gapic_wrappers/logging/v2/rest_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/.DS_Store": [
+    "other"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/microservices/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/microservices/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/step_json.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/step_graph.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/apis.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/exceptions.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/sql_query_parameters.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/dataflow/job_display.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/iamcredentials/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/iamcredentials/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/infra_manager/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/infra_manager/configmanager_util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/privateca/request_utils.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/privateca/resource_utils.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/privateca/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/privateca/certificate_utils.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/privateca/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/privateca/locations.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/orgpolicy/service.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/orgpolicy/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/orgpolicy/utils.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/workstations/configs.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/workstations/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/workstations/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/workstations/workstations.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/private_connections.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/camel_case_utils.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/streams.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/stream_objects.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/connection_profiles.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/exceptions.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datastream/routes.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/organizations/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/beyondcorp/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/beyondcorp/app/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/beyondcorp/app/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/apigee/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/apigee/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datapipelines/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/datapipelines/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/artifacts/filter_rewriter.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/artifacts/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/artifacts/exceptions.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/artifacts/vulnerabilities.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/publicca/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/publicca/base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/netapp_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/constants.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/backup_vaults/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/backup_vaults/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/backup_vaults/backups/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/backup_vaults/backups/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/storage_pools/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/storage_pools/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/active_directories/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/active_directories/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/kms_configs/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/kms_configs/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/snapshots/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/snapshots/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/replications/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/replications/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/quota_rules/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/volumes/quota_rules/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/backup_policies/client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/netapp/backup_policies/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/error_reporting/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/error_reporting/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/queues.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/tasks.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/task_queues_convertors.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/app_deploy_migration_util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/cmek_config.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/tasks/locations.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/spectrum_access/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/spectrum_access/sas_portal_api.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/domains/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/domains/operations.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/domains/authorization_code.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/domains/registrations.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/deployment_manager/dm_labels.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/deployment_manager/dm_base.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/deployment_manager/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/deployment_manager/dm_api_util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/deployment_manager/exceptions.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/policy_intelligence/orgpolicy_simulator.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/policy_intelligence/policy_troubleshooter.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/policy_intelligence/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/policy_intelligence/policy_analyzer.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/certificate_manager/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/certificate_manager/certificates.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/certificate_manager/operations.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/certificate_manager/certificate_map_entries.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/certificate_manager/certificate_maps.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/certificate_manager/api_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/trace/util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/trace/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/network_connectivity/networkconnectivity_util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/network_connectivity/networkconnectivity_api.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/network_connectivity/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/looker/backups.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/looker/instances.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/looker/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/looker/utils.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/endpoints/services_util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/endpoints/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/endpoints/config_reporter.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/endpoints/exceptions.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/genomics/__init__.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/genomics/filter_rewrite.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/genomics/genomics_client.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/genomics/exceptions.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/genomics/genomics_util.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/bigtable/schema_bundles.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/__bopper/google-cloud-cli-darwin-arm/google-cloud-cli-darwin-arm/google-cloud-sdk/lib/googlecloudsdk/api_lib/bigtable/backups.py": [
+    "code",
+    "python"
+  ],
+  "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/data_room/blueprints/blueprint_20250917_070605.md": [
+    "doc"
+  ],
+  "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/data_room/blueprints/project_plan_20250917_070605.csv": [
+    "data",
+    "doc"
+  ],
+  "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/data_room/inventory/matrix_20250917_063524.csv": [
+    "data",
+    "doc"
+  ],
+  "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/data_room/inventory/inventory_20250917_063524.json": [
+    "data"
+  ],
+  "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/revenue_sprint_lite_payoneer/delivery/team_run_20250917_063546.log": [
+    "other"
+  ]
+}

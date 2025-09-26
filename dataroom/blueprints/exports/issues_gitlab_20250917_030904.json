@@ -1,0 +1,3587 @@
+[
+  {
+    "title": "[dev] wire BI KPIs",
+    "description": "Ref: <none>\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "dev"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Payoneer Lander Polishing",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Payoneer Lander Polishing",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for LaziestLarry Core (placeholder)",
+    "description": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for LaziestLarry Core (placeholder)",
+    "description": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Zen Printables Catalog (placeholder)",
+    "description": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Zen Printables Catalog (placeholder)",
+    "description": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Fulfillment Evidence Script",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Fulfillment Evidence Script",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Shopify\u2192BQ Orders Backfill",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Shopify\u2192BQ Orders Backfill",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[dev] wire Shopify backfills to BQ + /bi",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "dev"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for BI KPIs from BQ",
+    "description": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for BI KPIs from BQ",
+    "description": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Checkout CTA via Payoneer",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Checkout CTA via Payoneer",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Deploy + Scheduler Bootstrap",
+    "description": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Deploy + Scheduler Bootstrap",
+    "description": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Shopify\u2192BQ Products Backfill",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Shopify\u2192BQ Products Backfill",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[dev] wire Shopify backfills to BQ + /bi",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "dev"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for LaziestLarry Content (placeholder)",
+    "description": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for LaziestLarry Content (placeholder)",
+    "description": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Social Scripts (starter)",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Social Scripts (starter)",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Digital Delivery Evidence",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Digital Delivery Evidence",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Dashboard Signals",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Dashboard Signals",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for YouTube Shorts Pack (placeholder)",
+    "description": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for YouTube Shorts Pack (placeholder)",
+    "description": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for BI KPIs to Dashboard",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for BI KPIs to Dashboard",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Brand Kit (placeholder)",
+    "description": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Brand Kit (placeholder)",
+    "description": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Issue Export to Tracker",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Issue Export to Tracker",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Fiverr Gigs",
+    "description": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Fiverr Gigs",
+    "description": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Social Post + DM Pack",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Social Post + DM Pack",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for Slack/Jira Issue Export",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for Slack/Jira Issue Export",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_1",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_1",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_2",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_2",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_3",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_3",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_4",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_4",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_5",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_5",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_6",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_6",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_7",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_7",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_8",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_8",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_9",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_9",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_10",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_10",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_11",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_11",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_12",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_12",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_13",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_13",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_14",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_14",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_15",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_15",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_16",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_16",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_17",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_17",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_18",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_18",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_19",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_19",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_20",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_20",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_21",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_21",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_22",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_22",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_23",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_23",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_24",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_24",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_25",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_25",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_26",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_26",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_27",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_27",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_28",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_28",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_29",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_29",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_30",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_30",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_31",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_31",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_32",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_32",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_33",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_33",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_1",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_1",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_2",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_2",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_3",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_3",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_4",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_4",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_5",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_5",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_6",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_6",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_7",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_7",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_8",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_8",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_9",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_9",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_10",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_10",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_11",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_11",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_12",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_12",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_13",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_13",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_14",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_14",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_15",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_15",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_16",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_16",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_17",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_17",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_18",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_18",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_19",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_19",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_20",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_20",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_21",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_21",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_22",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_22",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_23",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_23",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_24",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_24",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_25",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_25",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_26",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_26",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_27",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_27",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_28",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_28",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_29",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_29",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_30",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_30",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_31",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_31",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_32",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_32",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_33",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_33",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_1",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_1",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_2",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_2",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_3",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_3",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_4",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_4",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_5",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_5",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_6",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_6",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_7",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_7",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_8",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_8",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_9",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_9",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_10",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_10",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_11",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_11",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_12",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_12",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_13",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_13",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_14",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_14",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_15",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_15",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_16",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_16",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_17",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_17",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_18",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_18",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_19",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_19",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_20",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_20",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_21",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_21",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_22",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_22",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_23",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_23",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_24",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_24",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_25",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_25",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_26",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_26",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_27",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_27",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_28",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_28",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_29",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_29",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_30",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_30",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_31",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_31",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_32",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_32",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_33",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "research"
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_33",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "analysis"
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "data"
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "growth"
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "pm"
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "description": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": "advisor"
+  }
+]

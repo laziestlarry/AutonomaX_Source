@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1 class="mb-4">All Results</h1>
+{% if items %}
+  <div class="table-responsive">
+    <table class="table table-striped table-hover">
+      <thead>
+        <tr>
+          <th>Task</th>
+          <th>Summary</th>
+          <th>Recommendation</th>
+          <th>Approved</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for res, task in items %}
+          <tr>
+            <td><a href="{{ url_for('task_detail', task_id=task.id) }}">{{ task.title }}</a></td>
+            <td>{{ res.summary[:60] }}{% if res.summary|length > 60 %}…{% endif %}</td>
+            <td>{{ res.recommendation[:60] if res.recommendation else '' }}{% if res.recommendation and res.recommendation|length > 60 %}…{% endif %}</td>
+            <td>{% if res.approved %}<span class="badge bg-success">Yes</span>{% else %}<span class="badge bg-secondary">No</span>{% endif %}</td>
+            <td>
+              {% if not res.approved %}
+                <a href="{{ url_for('approve', result_id=res.id) }}" class="btn btn-sm btn-outline-success">Approve</a>
+              {% else %}
+                <a href="{{ url_for('unapprove', result_id=res.id) }}" class="btn btn-sm btn-outline-warning">Unapprove</a>
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p>No results available yet.</p>
+{% endif %}
+{% endblock %}

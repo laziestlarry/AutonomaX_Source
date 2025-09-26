@@ -1,0 +1,13 @@
+name,path,url,desc,tags,score
+Payoneer Lander Polishing,revenue_sprint_lite_payoneer/landing/index.html,,Tighten copy/CTA and placeholders for immediate conversion,lander|commercial,95
+Fulfillment Evidence Script,ops/team_run_demo.sh,,One-click proof run for client delivery,evidence|ops,92
+Deploy + Scheduler Bootstrap,ops/deploy_ship_and_bootstrap.sh,,Cost-opt deploy and job upsert for reliable operations,devops|cloudrun|scheduler,90
+Dashboard Signals,apps/dashboard/app.py,,Add latency signals and evidence tail for transparency,dashboard|signals,88
+Commander Blueprints,apps/commander/app.py,,Import tasks, export issues, and run gh/glab for execution,pm|workflow,87
+Shopify→BQ Orders Backfill,analytics/backfill/orders_bulk.py,,Enable real orders data for KPIs,data|bq|shopify,92
+Shopify→BQ Products Backfill,analytics/backfill/products_bulk.py,,Enable products catalog for insights and merchandising,data|bq|shopify,90
+BI KPIs from BQ,analytics/bi.py,,Real KPIs for revenue/orders/AOV powering sales narrative,bi|kpi|bq,91
+Social Post + DM Pack,revenue_sprint_lite_payoneer/social/post_and_dm.txt,,Seed outreach and traction,campaign|mkt,85
+Slack/Jira Issue Export,ops/export_issues.sh,,Push tasks into trackers quickly,pm|issues,82
+LaziestLarry Core (placeholder),,https://github.com/laziestlarry/core,Core utils/prompts to accelerate agents,llm|core,93
+LaziestLarry Content (placeholder),,https://github.com/laziestlarry/content,Content assets (scripts/voiceover/thumbnails) for fast publishing,content|video,89

@@ -1,0 +1,4 @@
+Risk,Category,Impact,Likelihood,Owner,Mitigation,Trigger,Plan
+BQ cost spike,Cost,High,Med,Data Lead,Partition+BI Engine,Monthly spend > threshold,Throttle dashboards
+Webhook outage,Availability,High,Low,SRE,Retries+DLQ,5xx>1% 10m,Failover to backup endpoint
+Policy drift,AI Safety,Med,Med,AI Lead,Eval set weekly,Eval score < 0.8,Freeze model/prompts

@@ -1,0 +1,44 @@
+name: deploy-cloudrun
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+      GCP_REGION: ${{ secrets.GCP_REGION }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GOOGLE_CREDENTIALS }}
+      - uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+      - run: gcloud auth configure-docker --quiet
+      - name: Build and push API image
+        run: |
+          IMAGE_API=gcr.io/$GCP_PROJECT_ID/autonomax-api:${{ github.sha }}
+          docker build -t $IMAGE_API -f Dockerfile.api .
+          docker push $IMAGE_API
+      - name: Build and push Dashboard image
+        run: |
+          IMAGE_DASH=gcr.io/$GCP_PROJECT_ID/autonomax-dashboard:${{ github.sha }}
+          docker build -t $IMAGE_DASH -f Dockerfile.dashboard .
+          docker push $IMAGE_DASH
+      - name: Deploy API service
+        run: |
+          gcloud run deploy autonomax-api \
+            --image gcr.io/$GCP_PROJECT_ID/autonomax-api:${{ github.sha }} \
+            --region=$GCP_REGION --platform=managed --allow-unauthenticated \
+            --set-env-vars ENV=prod \
+            --concurrency=80 --min-instances=1 --max-instances=10 --cpu=1 --memory=1Gi --timeout=60
+      - name: Deploy Dashboard service
+        run: |
+          gcloud run deploy autonomax-dashboard \
+            --image gcr.io/$GCP_PROJECT_ID/autonomax-dashboard:${{ github.sha }} \
+            --region=$GCP_REGION --platform=managed --allow-unauthenticated \
+            --concurrency=10 --max-instances=3 --cpu=1 --memory=512Mi --timeout=60

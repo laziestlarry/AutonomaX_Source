@@ -1,0 +1,6 @@
+[project]
+id = "autonomax-api"
+
+[[build.env]]
+name = "BP_PYTHON_VERSION"
+value = "3.11.*"

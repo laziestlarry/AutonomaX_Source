@@ -1,0 +1,306 @@
+{
+  "project_root": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full",
+  "entries": [
+    {
+      "filename": "main.py",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/Users/pq/AutonomaX_.../app/main.py",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "commander.py",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/.../AutonomaX_Commander_ExecPack/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "server.js",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/.../autonoms_commander_app_fullstack_updated/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "analytics_dashboard_fixed.py",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/Users/pq/.../dashboard/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": ".env",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "project roots (hidden file)",
+      "chosen_path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/.env",
+      "in_repo": true,
+      "symlink": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/_staging/.env"
+    },
+    {
+      "filename": "deploy.sh",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/AutonomaX_Studio/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": ".github/workflows/deploy.yml",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "repo root",
+      "chosen_path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/.github/workflows/deploy.yml",
+      "in_repo": true,
+      "symlink": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/_staging/.github__workflows__deploy.yml"
+    },
+    {
+      "filename": "cloudbuild.yaml",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "repo root",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "firebase.json",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "repo root",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "firebase.config.js",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "repo root",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "requirements.txt",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "repo root",
+      "chosen_path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/requirements.txt",
+      "in_repo": true,
+      "symlink": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/_staging/requirements.txt"
+    },
+    {
+      "filename": "package.json",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "repo root",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "shopify_sync.py",
+      "found": "yes",
+      "candidate_paths": [
+        "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/shopify/shopify_sync.py"
+      ],
+      "probable_path_hint": "",
+      "chosen_path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/shopify/shopify_sync.py",
+      "in_repo": false,
+      "symlink": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/_staging/shopify_sync.py"
+    },
+    {
+      "filename": "shopify/products.csv",
+      "found": "yes",
+      "candidate_paths": [
+        "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/shopify/products.csv"
+      ],
+      "probable_path_hint": "",
+      "chosen_path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/shopify/products.csv",
+      "in_repo": true,
+      "symlink": null
+    },
+    {
+      "filename": "etsy_commander_bundle.zip",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archive folder",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "commander_import_samples.zip",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archive folder",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "autosync/*.py",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/autosync/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "flows/*.flow",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/flows/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "/videos/",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/AutonomaX_Studio/videos/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "/fiverr/gig.md",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/fiverr/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "/fiverr/thumbnail.png",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/fiverr/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "LeadMagnet_LazyLarry.pdf",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/fiverr/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "/landing/index.html",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/landing/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "205_strategies.json",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/knowledge_base/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "commander_knowledge_base/",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/.../commander_knowledge_base/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "analytics/looker_template.json",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/analytics/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "scripts/make_products_from_yaml.py",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/scripts/",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "scripts/scheduler_setup.sh",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "/scripts/",
+      "chosen_path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/scripts/scheduler_setup.sh",
+      "in_repo": true,
+      "symlink": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/_staging/scripts__scheduler_setup.sh"
+    },
+    {
+      "filename": "commander_intelligence_server.zip",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archives",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "commander_knowledge_base.zip",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archives",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "Brain_modules.zip",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archives",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "knowldg.zip",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archives",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    },
+    {
+      "filename": "Cognosystemized.txt",
+      "found": "unknown",
+      "candidate_paths": [],
+      "probable_path_hint": "archives",
+      "chosen_path": null,
+      "in_repo": false,
+      "symlink": null
+    }
+  ]
+}

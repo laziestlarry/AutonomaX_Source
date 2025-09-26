@@ -1,0 +1,19 @@
+
+customer_service:
+  order_confirmation:
+    tone: "warm, clear, concise"
+    body: |
+      Hi {customer_name},
+      Thanks for your order {order_id}! We’re processing it now.
+      — AutonomaX Support
+  shipping_update:
+    tone: "warm, proactive"
+    body: |
+      Hi {customer_name},
+      Your order {order_id} has shipped! Track here: {tracking_url}
+finance:
+  reconciliation_summary:
+    tone: "precise"
+    body: |
+      Reconciliation Summary – {date_range}
+      Orders: {orders_count}; Payouts: {payout_total} {currency}; Variance: {variance} {currency}

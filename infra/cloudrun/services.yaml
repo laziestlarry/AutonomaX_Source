@@ -1,0 +1,58 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: autonomax-api
+  annotations:
+    autoscaling.knative.dev/minScale: "1"
+    autoscaling.knative.dev/maxScale: "10"
+    run.googleapis.com/cpu-throttling: "true"
+spec:
+  template:
+    spec:
+      containers:
+        - image: gcr.io/$GCP_PROJECT_ID/autonomax-api:latest
+          resources:
+            limits:
+              cpu: "1"
+              memory: "1Gi"
+          env:
+            - name: PORT
+              value: "8080"
+            - name: ENV
+              value: "prod"
+          ports:
+            - containerPort: 8080
+          startupProbe:
+            httpGet: { path: /health }
+            periodSeconds: 10
+            failureThreshold: 6
+          livenessProbe:
+            httpGet: { path: /health }
+            periodSeconds: 30
+          readinessProbe:
+            httpGet: { path: /ready }
+            periodSeconds: 10
+      containerConcurrency: 80
+---
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: autonomax-dashboard
+  annotations:
+    autoscaling.knative.dev/minScale: "0"
+    autoscaling.knative.dev/maxScale: "3"
+spec:
+  template:
+    spec:
+      containers:
+        - image: gcr.io/$GCP_PROJECT_ID/autonomax-dashboard:latest
+          resources:
+            limits:
+              cpu: "1"
+              memory: "512Mi"
+          env:
+            - name: STREAMLIT_SERVER_PORT
+              value: "8501"
+          ports:
+            - containerPort: 8501
+      containerConcurrency: 10

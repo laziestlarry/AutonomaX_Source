@@ -1,0 +1,6 @@
+name,path,url,desc,tags,score
+Zen Printables Catalog (placeholder),,https://drive.google.com/drive/folders/PRINTABLES-ID,Select 3–5 best SKUs with thumbnails and price,product|printable,92
+Checkout CTA via Payoneer,revenue_sprint_lite_payoneer/landing/index.html,,Wire Buy button to send invoice or checkout,checkout|lander,90
+Digital Delivery Evidence,ops/team_run_demo.sh,,Generate log proof for client/stakeholder trust,evidence,88
+BI KPIs to Dashboard,apps/dashboard/app.py,,Display daily revenue/orders and signals,dashboard|bi,87
+Issue Export to Tracker,ops/export_issues.sh,,Create issues for execution; track done,pm|issues,86

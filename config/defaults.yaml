@@ -1,0 +1,10 @@
+staging:
+  enabled: true
+
+bootstrap:
+  prefer_repo_relative: true
+  create_symlinks: true
+
+product_update:
+  dry_run_if_missing_env: true
+  csv_fallback_name: "shopify/products.csv"

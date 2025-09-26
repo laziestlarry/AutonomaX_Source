@@ -1,0 +1,7 @@
+{
+  "title": "AutonomaX Commerce Snapshot",
+  "description": "Placeholder Looker Studio data source mapping.",
+  "dimensions": ["order_date", "product", "channel"],
+  "metrics": ["gmv", "orders", "aov"],
+  "notes": "Replace with exported Looker Studio JSON when available."
+}

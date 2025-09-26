@@ -1,0 +1,214 @@
+{
+  "total": 33,
+  "checked": 33,
+  "ok": 0,
+  "fixed_prefix": 0,
+  "fixed_search": 0,
+  "ambiguous": 1,
+  "missing": 32,
+  "details": [
+    {
+      "orig": "/Users/pq/AutonomaX_.../app/main.py",
+      "status": "ambiguous",
+      "new": "/Users/pq/AutonomaX_.../app/main.py",
+      "candidates": [
+        "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/propulse_cost_guard_kit/propulse_cost_guard_kit/budget_panic_function/main.py",
+        "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/apps/chatbot/main.py"
+      ]
+    },
+    {
+      "orig": "/.../AutonomaX_Commander_ExecPack/",
+      "status": "missing",
+      "new": "/.../AutonomaX_Commander_ExecPack/",
+      "candidates": []
+    },
+    {
+      "orig": "/.../autonoms_commander_app_fullstack_updated/",
+      "status": "missing",
+      "new": "/.../autonoms_commander_app_fullstack_updated/",
+      "candidates": []
+    },
+    {
+      "orig": "/Users/pq/.../dashboard/",
+      "status": "missing",
+      "new": "/Users/pq/.../dashboard/",
+      "candidates": []
+    },
+    {
+      "orig": "project roots (hidden file)",
+      "status": "missing",
+      "new": "project roots (hidden file)",
+      "candidates": []
+    },
+    {
+      "orig": "/AutonomaX_Studio/",
+      "status": "missing",
+      "new": "/AutonomaX_Studio/",
+      "candidates": []
+    },
+    {
+      "orig": "repo root",
+      "status": "missing",
+      "new": "repo root",
+      "candidates": []
+    },
+    {
+      "orig": "repo root",
+      "status": "missing",
+      "new": "repo root",
+      "candidates": []
+    },
+    {
+      "orig": "repo root",
+      "status": "missing",
+      "new": "repo root",
+      "candidates": []
+    },
+    {
+      "orig": "repo root",
+      "status": "missing",
+      "new": "repo root",
+      "candidates": []
+    },
+    {
+      "orig": "repo root",
+      "status": "missing",
+      "new": "repo root",
+      "candidates": []
+    },
+    {
+      "orig": "repo root",
+      "status": "missing",
+      "new": "repo root",
+      "candidates": []
+    },
+    {
+      "orig": "/AutonomaX_Studio/",
+      "status": "missing",
+      "new": "/AutonomaX_Studio/",
+      "candidates": []
+    },
+    {
+      "orig": "/shopify/",
+      "status": "missing",
+      "new": "/shopify/",
+      "candidates": []
+    },
+    {
+      "orig": "archive folder",
+      "status": "missing",
+      "new": "archive folder",
+      "candidates": []
+    },
+    {
+      "orig": "archive folder",
+      "status": "missing",
+      "new": "archive folder",
+      "candidates": []
+    },
+    {
+      "orig": "/autosync/",
+      "status": "missing",
+      "new": "/autosync/",
+      "candidates": []
+    },
+    {
+      "orig": "/flows/",
+      "status": "missing",
+      "new": "/flows/",
+      "candidates": []
+    },
+    {
+      "orig": "/AutonomaX_Studio/videos/",
+      "status": "missing",
+      "new": "/AutonomaX_Studio/videos/",
+      "candidates": []
+    },
+    {
+      "orig": "/fiverr/",
+      "status": "missing",
+      "new": "/fiverr/",
+      "candidates": []
+    },
+    {
+      "orig": "/fiverr/",
+      "status": "missing",
+      "new": "/fiverr/",
+      "candidates": []
+    },
+    {
+      "orig": "/fiverr/",
+      "status": "missing",
+      "new": "/fiverr/",
+      "candidates": []
+    },
+    {
+      "orig": "/landing/",
+      "status": "missing",
+      "new": "/landing/",
+      "candidates": []
+    },
+    {
+      "orig": "/knowledge_base/",
+      "status": "missing",
+      "new": "/knowledge_base/",
+      "candidates": []
+    },
+    {
+      "orig": "/.../commander_knowledge_base/",
+      "status": "missing",
+      "new": "/.../commander_knowledge_base/",
+      "candidates": []
+    },
+    {
+      "orig": "/analytics/",
+      "status": "missing",
+      "new": "/analytics/",
+      "candidates": []
+    },
+    {
+      "orig": "/scripts/",
+      "status": "missing",
+      "new": "/scripts/",
+      "candidates": []
+    },
+    {
+      "orig": "/scripts/",
+      "status": "missing",
+      "new": "/scripts/",
+      "candidates": []
+    },
+    {
+      "orig": "archives",
+      "status": "missing",
+      "new": "archives",
+      "candidates": []
+    },
+    {
+      "orig": "archives",
+      "status": "missing",
+      "new": "archives",
+      "candidates": []
+    },
+    {
+      "orig": "archives",
+      "status": "missing",
+      "new": "archives",
+      "candidates": []
+    },
+    {
+      "orig": "archives",
+      "status": "missing",
+      "new": "archives",
+      "candidates": []
+    },
+    {
+      "orig": "archives",
+      "status": "missing",
+      "new": "archives",
+      "candidates": []
+    }
+  ],
+  "source": "repos/AutonomaX_Master_Index.csv",
+  "output": "repos/AutonomaX_Master_Index.corrected.csv"
+}

@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1 class="mb-4">Task #{{ task.id }}</h1>
+
+<div class="card mb-4">
+  <div class="card-body">
+    <h5 class="card-title">{{ task.title }}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">{{ task.company }}</h6>
+    <p class="card-text"><strong>Score:</strong> {{ task.score }}</p>
+    <p class="card-text"><strong>Processed:</strong> {% if task.processed %}Yes{% else %}No{% endif %}</p>
+    <p class="card-text"><strong>Added:</strong> {{ task.created_at.strftime('%Y-%m-%d %H:%M') }}</p>
+    <p class="card-text"><strong>Link:</strong> <a href="{{ task.link }}" target="_blank" rel="noopener noreferrer">Open Job Listing</a></p>
+  </div>
+</div>
+
+{% if result %}
+  <h3>AI Summary & Recommendation</h3>
+  <div class="card mb-3">
+    <div class="card-body">
+      <p><strong>Summary:</strong></p>
+      <p>{{ result.summary }}</p>
+      {% if result.recommendation %}
+        <p><strong>Recommendation:</strong></p>
+        <p>{{ result.recommendation }}</p>
+      {% endif %}
+      <p><strong>Approved:</strong> {% if result.approved %}<span class="badge bg-success">Yes</span>{% else %}<span class="badge bg-secondary">No</span>{% endif %}</p>
+      <div class="mt-3">
+        {% if not result.approved %}
+          <a href="{{ url_for('approve', result_id=result.id) }}" class="btn btn-success">Approve</a>
+        {% else %}
+          <a href="{{ url_for('unapprove', result_id=result.id) }}" class="btn btn-warning">Unapprove</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% else %}
+  <p>No AI summary has been generated for this task yet.</p>
+{% endif %}
+
+<a href="{{ url_for('tasks') }}" class="btn btn-secondary">Back to Tasks</a>
+{% endblock %}

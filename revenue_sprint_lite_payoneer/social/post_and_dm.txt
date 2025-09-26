@@ -1,0 +1,10 @@
+LinkedIn/Twitter Post
+---------------------
+Shopify owners — **AI Store Ops Quickstart** (no calls): same-day backfill + health check + 3 insights for **$99**.
+Pay with Payoneer (card/bank) → {{PAYONEER_CHECKOUT_URL}}
+Or request an invoice by email → {{YOUR_PAYONEER_EMAIL}}
+
+Warm DM
+-------
+Hey {{Name}} — I’m running a **$99 Shopify AI Quickstart** today. No meetings: I deliver 3 insights by email within 2 hours.
+Payoneer checkout: {{PAYONEER_CHECKOUT_URL}}  (or email me to request a Payoneer invoice: {{YOUR_PAYONEER_EMAIL}})

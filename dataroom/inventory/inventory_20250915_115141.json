@@ -1,0 +1,2196 @@
+{
+  "generated_at": "20250915_115141",
+  "count": 219,
+  "items": [
+    {
+      "path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/\ufeffLink to Local Folder;0<rank<5;Repo Name - Source;Branch",
+      "relpath": "\ufeffLink to Local Folder;0<rank<5;Repo Name - Source;Branch",
+      "root": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/autonoms_final_secure_pack/autonoma-x;5;autonoma-x;default",
+      "relpath": "autonoma-x;5;autonoma-x;default",
+      "root": "/Users/pq/autonoms_final_secure_pack",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/autonomax-hub;5;autonomax-hub;main",
+      "relpath": "autonomax-hub;5;autonomax-hub;main",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_v2.5/fiverr_business/fiverr_business;5;boppins/fiverr_business;main",
+      "relpath": "fiverr_business;main",
+      "root": "/Users/pq/youtube_ai_app_v2.5/fiverr_business/fiverr_business;5;boppins",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_lazy/business_opportunity_platform/business-dashboard;5;business-dashboard;master",
+      "relpath": "business-dashboard;5;business-dashboard;master",
+      "root": "/Users/pq/_lazy/business_opportunity_platform",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_lazy/business-dashboard;5;business-dashboard;master",
+      "relpath": "business-dashboard;5;business-dashboard;master",
+      "root": "/Users/pq/_lazy",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full;5;laziestlarry/AutonomaX_AI_Integration_Starter;main",
+      "relpath": "AutonomaX_AI_Integration_Starter;main",
+      "root": "/Users/pq/AutonomaX_AI_Integration_Starter_v11_full;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/AutonomaX_API_Commander;5;laziestlarry/AutonomaX_API_Commander;main",
+      "relpath": "AutonomaX_API_Commander;main",
+      "root": "/Users/pq/AutonomaX_API_Commander;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/AutonomaX_Studio;5;laziestlarry/AutonomaX-Studio;master",
+      "relpath": "AutonomaX-Studio;master",
+      "root": "/Users/pq/AutonomaX_Studio;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/autonomax-hub/AutonomaX-Studio;5;laziestlarry/AutonomaX-Studio;main",
+      "relpath": "AutonomaX-Studio;main",
+      "root": "/Users/pq/autonomax-hub/AutonomaX-Studio;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/autonoms_final_secure_pack;5;laziestlarry/autonoms;master",
+      "relpath": "autonoms;master",
+      "root": "/Users/pq/autonoms_final_secure_pack;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Commander_Orchestrated_Online;5;laziestlarry/Commander;main",
+      "relpath": "Commander;main",
+      "root": "/Users/pq/Commander_Orchestrated_Online;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_v2.5/revenue-accelerator/etsy_commander;5;laziestlarry/etsy-commander;main",
+      "relpath": "etsy-commander;main",
+      "root": "/Users/pq/youtube_ai_app_v2.5/revenue-accelerator/etsy_commander;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_v2.5/revenue-accelerator/etsy_commander_backup;5;laziestlarry/etsy-commander;main",
+      "relpath": "etsy-commander;main",
+      "root": "/Users/pq/youtube_ai_app_v2.5/revenue-accelerator/etsy_commander_backup;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/propulse-app;5;laziestlarry/propulse-app;default",
+      "relpath": "propulse-app;default",
+      "root": "/Users/pq/propulse-app;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/propulse-autonomax;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/propulse-autonomax;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/propulse-autonomax-github/propulse-autonomax;5;laziestlarry/propulse-autonomax;master",
+      "relpath": "propulse-autonomax;master",
+      "root": "/Users/pq/__ProPulse_Group__/propulse-autonomax-github/propulse-autonomax;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/propulse-autonomax/propulse-autonomax;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/propulse-autonomax/propulse-autonomax;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2/app;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2/app;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2/app/services/propulse-autonomax_old;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2/app/services/propulse-autonomax_old;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2/scripts;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base copy 2/scripts;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base/app;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base/app;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base/app/services/propulse-autonomax_old;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base/app/services/propulse-autonomax_old;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base/scripts;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Final_Base/scripts;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Stable_Deployment;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Stable_Deployment;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__ProPulse_Group__/ProPulseApp_Stable_Deployment/app/services/propulse-autonomax;5;laziestlarry/propulse-autonomax;main",
+      "relpath": "propulse-autonomax;main",
+      "root": "/Users/pq/__ProPulse_Group__/ProPulseApp_Stable_Deployment/app/services/propulse-autonomax;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_v2.5;5;laziestlarry/youtube-ai-platform;main",
+      "relpath": "youtube-ai-platform;main",
+      "root": "/Users/pq/youtube_ai_app_v2.5;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_v2.5/youtube-ai-platform;5;laziestlarry/youtube-ai-platform;main",
+      "relpath": "youtube-ai-platform;main",
+      "root": "/Users/pq/youtube_ai_app_v2.5/youtube-ai-platform;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube-ai-platform;5;laziestlarry/youtube-ai-platform;main",
+      "relpath": "youtube-ai-platform;main",
+      "root": "/Users/pq/youtube-ai-platform;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_clean;5;laziestlarry/youtubing_ai;main",
+      "relpath": "youtubing_ai;main",
+      "root": "/Users/pq/youtube_ai_app_clean;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_platform_backup_edit;5;laziestlarry/youtubing_ai;main",
+      "relpath": "youtubing_ai;main",
+      "root": "/Users/pq/youtube_ai_platform_backup_edit;5;laziestlarry",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_salvage/20250810_worx/mega_all_pack;5;mega_all_pack;default",
+      "relpath": "mega_all_pack;5;mega_all_pack;default",
+      "root": "/Users/pq/_salvage/20250810_worx",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_clean copy 4;5;youtube_ai_app_clean copy 4;master",
+      "relpath": "youtube_ai_app_clean copy 4;5;youtube_ai_app_clean copy 4;master",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/youtube_ai_app_clean copy 5;5;youtube_ai_app_clean copy 5;master",
+      "relpath": "youtube_ai_app_clean copy 5;5;youtube_ai_app_clean copy 5;master",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bop;4;__bop;default",
+      "relpath": "__bop;4;__bop;default",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bop_v01;4;__bop_v01;default",
+      "relpath": "__bop_v01;4;__bop_v01;default",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bop_v01/__MACOSX;4;__MACOSX;default",
+      "relpath": "__MACOSX;4;__MACOSX;default",
+      "root": "/Users/pq/__bop_v01",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bop/__MACOSX;4;__MACOSX;default",
+      "relpath": "__MACOSX;4;__MACOSX;default",
+      "root": "/Users/pq/__bop",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/bop_final_repo copy/bop/__MACOSX;4;__MACOSX;default",
+      "relpath": "__MACOSX;4;__MACOSX;default",
+      "root": "/Users/pq/bop_final_repo copy/bop",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/bop_final_repo/bop_merged_platform/__MACOSX;4;__MACOSX;default",
+      "relpath": "__MACOSX;4;__MACOSX;default",
+      "root": "/Users/pq/bop_final_repo/bop_merged_platform",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt-engineer;4;AntonOsika/gpt-engineer;main",
+      "relpath": "gpt-engineer;main",
+      "root": "/Users/pq/gpt-engineer;4;AntonOsika",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/bop_final_repo copy/bop;4;bop;default",
+      "relpath": "bop;4;bop;default",
+      "root": "/Users/pq/bop_final_repo copy",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/bop_final_repo/bop_merged_platform;4;bop_merged_platform;default",
+      "relpath": "bop_merged_platform;4;bop_merged_platform;default",
+      "root": "/Users/pq/bop_final_repo",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/IWS/b4-code/_RichieRiched/RR-04/builder-app;4;builder-app;main",
+      "relpath": "builder-app;4;builder-app;main",
+      "root": "/Users/pq/_project_/IWS/b4-code/_RichieRiched/RR-04",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bopper/business-dashboard;4;business-dashboard;master",
+      "relpath": "business-dashboard;4;business-dashboard;master",
+      "root": "/Users/pq/__bopper",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/ACE_Framework;4;daveshap/ACE_Framework;main",
+      "relpath": "ACE_Framework;main",
+      "root": "/Users/pq/ACE_Framework;4;daveshap",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/ACE_Framework_0;4;daveshap/ACE_Framework;main",
+      "relpath": "ACE_Framework;main",
+      "root": "/Users/pq/ACE_Framework_0;4;daveshap",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/OpenAI_Agent_Swarm;4;daveshap/OpenAI_Agent_Swarm;main",
+      "relpath": "OpenAI_Agent_Swarm;main",
+      "root": "/Users/pq/OpenAI_Agent_Swarm;4;daveshap",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/__copilot/ecommerce_project;4;ecommerce_project;default",
+      "relpath": "ecommerce_project;4;ecommerce_project;default",
+      "root": "/Users/pq/_project_/__copilot",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/ecommerce_project;4;ecommerce_project;default",
+      "relpath": "ecommerce_project;4;ecommerce_project;default",
+      "root": "/Users/pq/_project_",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/app_v01_aida-actionsgpt/gpte;4;gpte;default",
+      "relpath": "gpte;4;gpte;default",
+      "root": "/Users/pq/_project_/app_v01_aida-actionsgpt",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt-eng/gpt-engineer/projects/__gpte/gpte;4;gpte;default",
+      "relpath": "gpte;4;gpte;default",
+      "root": "/Users/pq/gpt-eng/gpt-engineer/projects/__gpte",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/IWS/b4-code/gpte_rr03;4;gpte_rr03;default",
+      "relpath": "gpte_rr03;4;gpte_rr03;default",
+      "root": "/Users/pq/_project_/IWS/b4-code",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/IWS/b4-code/gpte_rr034;4;gpte_rr034;default",
+      "relpath": "gpte_rr034;4;gpte_rr034;default",
+      "root": "/Users/pq/_project_/IWS/b4-code",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/IWS/b4-code/gpte_rr036;4;gpte_rr036;default",
+      "relpath": "gpte_rr036;4;gpte_rr036;default",
+      "root": "/Users/pq/_project_/IWS/b4-code",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/IWS/b4-code/gpte_rr037;4;gpte_rr037;default",
+      "relpath": "gpte_rr037;4;gpte_rr037;default",
+      "root": "/Users/pq/_project_/IWS/b4-code",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/IWS/b4-code/gpte_rr038;4;gpte_rr038;default",
+      "relpath": "gpte_rr038;4;gpte_rr038;default",
+      "root": "/Users/pq/_project_/IWS/b4-code",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/workspace/intelliwealth_solutions;4;intelliwealth_solutions;master",
+      "relpath": "intelliwealth_solutions;4;intelliwealth_solutions;master",
+      "root": "/Users/pq/MetaGPT/workspace/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/intelliwealth_solutions_app;4;intelliwealth_solutions_app;master",
+      "relpath": "intelliwealth_solutions_app;4;intelliwealth_solutions_app;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/workspace/intelliwealth_solutions_saas;4;intelliwealth_solutions_saas;master",
+      "relpath": "intelliwealth_solutions_saas;4;intelliwealth_solutions_saas;master",
+      "root": "/Users/pq/MetaGPT/workspace/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/intelliwealth_solutions_upgrade;4;intelliwealth_solutions_upgrade;master",
+      "relpath": "intelliwealth_solutions_upgrade;4;intelliwealth_solutions_upgrade;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/workspace/intelliwealth_solutions_upgrade;4;intelliwealth_solutions_upgrade;master",
+      "relpath": "intelliwealth_solutions_upgrade;4;intelliwealth_solutions_upgrade;master",
+      "root": "/Users/pq/MetaGPT/workspace/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bopper;4;intelliWealth-Solutions/bop;my-new-feature2",
+      "relpath": "bop;my-new-feature2",
+      "root": "/Users/pq/__bopper;4;intelliWealth-Solutions",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bopper/__MACOSX;4;intelliWealth-Solutions/bop;my-new-feature2",
+      "relpath": "bop;my-new-feature2",
+      "root": "/Users/pq/__bopper/__MACOSX;4;intelliWealth-Solutions",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/bop_final_repo;4;intelliWealth-Solutions/bop;main",
+      "relpath": "bop;main",
+      "root": "/Users/pq/bop_final_repo;4;intelliWealth-Solutions",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/inference-0/dify;4;langgenius/dify;main",
+      "relpath": "dify;main",
+      "root": "/Users/pq/inference-0/dify;4;langgenius",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/workspace/modernized_codebase;4;modernized_codebase;master",
+      "relpath": "modernized_codebase;4;modernized_codebase;master",
+      "root": "/Users/pq/MetaGPT/workspace/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/pautobot;4;nrl-ai/pautobot;main",
+      "relpath": "pautobot;main",
+      "root": "/Users/pq/pautobot;4;nrl-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/erp-app;4;P4Quattro/erp-app;main",
+      "relpath": "erp-app;main",
+      "root": "/Users/pq/erp-app;4;P4Quattro",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bop_final;4;PsikoQuattro/bop_v04;default",
+      "relpath": "bop_v04;default",
+      "root": "/Users/pq/__bop_final;4;PsikoQuattro",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_salvage/20250810_worx/gpt-pilot;4;Pythagora-io/gpt-pilot;main",
+      "relpath": "gpt-pilot;main",
+      "root": "/Users/pq/_salvage/20250810_worx/gpt-pilot;4;Pythagora-io",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt-pilot;4;Pythagora-io/gpt-pilot;main",
+      "relpath": "gpt-pilot;main",
+      "root": "/Users/pq/gpt-pilot;4;Pythagora-io",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/workspace/saas_platform_upgrade;4;saas_platform_upgrade;master",
+      "relpath": "saas_platform_upgrade;4;saas_platform_upgrade;master",
+      "root": "/Users/pq/MetaGPT/workspace/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/__bopper/payoneer;4;VoxFeed/payoneer;master",
+      "relpath": "payoneer;master",
+      "root": "/Users/pq/__bopper/payoneer;4;VoxFeed",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/20240323015113;3;20240323015113;master",
+      "relpath": "20240323015113;3;20240323015113;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/20240323022145;3;20240323022145;master",
+      "relpath": "20240323022145;3;20240323022145;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/20240323022444;3;20240323022444;master",
+      "relpath": "20240323022444;3;20240323022444;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/20240323040729;3;20240323040729;master",
+      "relpath": "20240323040729;3;20240323040729;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT/workspace/20240414172212;3;20240414172212;master",
+      "relpath": "20240414172212;3;20240414172212;master",
+      "root": "/Users/pq/MetaGPT/workspace",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/anse;3;anse-app/anse;main",
+      "relpath": "anse;main",
+      "root": "/Users/pq/anse;3;anse-app",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MemGPT;3;cpacker/MemGPT;main",
+      "relpath": "MemGPT;main",
+      "root": "/Users/pq/MemGPT;3;cpacker",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/demolog;3;demolog;master",
+      "relpath": "demolog;3;demolog;master",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_depolop/depolop;3;depolop;master",
+      "relpath": "depolop;3;depolop;master",
+      "root": "/Users/pq/_depolop",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_depolop/depolop_22042024;3;depolop_22042024;master",
+      "relpath": "depolop_22042024;3;depolop_22042024;master",
+      "root": "/Users/pq/_depolop",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_salvage/20250810_worx/automata;3;emrgnt-cmplxty/automata;full-automata",
+      "relpath": "automata;full-automata",
+      "root": "/Users/pq/_salvage/20250810_worx/automata;3;emrgnt-cmplxty",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/friendlyeats-web;3;firebase/friendlyeats-web;master",
+      "relpath": "friendlyeats-web;master",
+      "root": "/Users/pq/friendlyeats-web;3;firebase",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT;3;geekan/MetaGPT;main",
+      "relpath": "MetaGPT;main",
+      "root": "/Users/pq/MetaGPT;3;geekan",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/motorhead;3;getmetal/motorhead;main",
+      "relpath": "motorhead;main",
+      "root": "/Users/pq/motorhead;3;getmetal",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt-eng/gpt-engineer;3;gpt-engineer-org/gpt-engineer;main",
+      "relpath": "gpt-engineer;main",
+      "root": "/Users/pq/gpt-eng/gpt-engineer;3;gpt-engineer-org",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/ai-money-machine-starter/hydrogen-quickstart;3;hydrogen-quickstart;main",
+      "relpath": "hydrogen-quickstart;3;hydrogen-quickstart;main",
+      "root": "/Users/pq/ai-money-machine-starter",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/privateGPT;3;imartinez/privateGPT;main",
+      "relpath": "privateGPT;main",
+      "root": "/Users/pq/privateGPT;3;imartinez",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Free-Auto-GPT;3;IntelligenzaArtificiale/Free-Auto-GPT;main",
+      "relpath": "Free-Auto-GPT;main",
+      "root": "/Users/pq/Free-Auto-GPT;3;IntelligenzaArtificiale",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/crewAI;3;joaomdmoura/crewAI;main",
+      "relpath": "crewAI;main",
+      "root": "/Users/pq/crewAI;3;joaomdmoura",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt4all;3;nomic-ai/gpt4all;main",
+      "relpath": "gpt4all;main",
+      "root": "/Users/pq/gpt4all;3;nomic-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/swarm;3;openai/swarm;main",
+      "relpath": "swarm;main",
+      "root": "/Users/pq/swarm;3;openai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Dropbox/Organization/dir/project-management-app;3;project-management-app;master",
+      "relpath": "project-management-app;3;project-management-app;master",
+      "root": "/Users/pq/Dropbox/Organization/dir",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/AgentGPT;3;reworkd/AgentGPT;main",
+      "relpath": "AgentGPT;main",
+      "root": "/Users/pq/AgentGPT;3;reworkd",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/claude-dev;3;saoudrizwan/claude-dev;main",
+      "relpath": "claude-dev;main",
+      "root": "/Users/pq/claude-dev;3;saoudrizwan",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/awesome-chatgpt;3;sindresorhus/awesome-chatgpt;main",
+      "relpath": "awesome-chatgpt;main",
+      "root": "/Users/pq/awesome-chatgpt;3;sindresorhus",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/SuperAGI_0;3;TransformerOptimus/SuperAGI;main",
+      "relpath": "SuperAGI;main",
+      "root": "/Users/pq/SuperAGI_0;3;TransformerOptimus",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/AutoGPT.js;3;zabirauf/AutoGPT.js;main",
+      "relpath": "AutoGPT.js;main",
+      "root": "/Users/pq/AutoGPT.js;3;zabirauf",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_project_/private-gpt;3;zylon-ai/private-gpt;main",
+      "relpath": "private-gpt;main",
+      "root": "/Users/pq/_project_/private-gpt;3;zylon-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/private-gpt;3;zylon-ai/private-gpt;main",
+      "relpath": "private-gpt;main",
+      "root": "/Users/pq/private-gpt;3;zylon-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/apache-maven-3.9/maven-toolchains-plugin;2;apache/maven-toolchains-plugin;master",
+      "relpath": "maven-toolchains-plugin;master",
+      "root": "/Users/pq/apache-maven-3.9/maven-toolchains-plugin;2;apache",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/maven-toolchains-plugin;2;apache/maven-toolchains-plugin;master",
+      "relpath": "maven-toolchains-plugin;master",
+      "root": "/Users/pq/maven-toolchains-plugin;2;apache",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/react-horizon-ui-chakra;2;app-generator/react-horizon-ui-chakra;main",
+      "relpath": "react-horizon-ui-chakra;main",
+      "root": "/Users/pq/react-horizon-ui-chakra;2;app-generator",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/8a6578a2-4707-4e80-aed7-ebefc8bce13b;2;appseed-projects/8a6578a2-4707-4e80-aed7-ebefc8bce13b;main",
+      "relpath": "8a6578a2-4707-4e80-aed7-ebefc8bce13b;main",
+      "root": "/Users/pq/8a6578a2-4707-4e80-aed7-ebefc8bce13b;2;appseed-projects",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/astro;2;astro;default",
+      "relpath": "astro;2;astro;default",
+      "root": "/Users/pq",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Desktop/discoveries/autopack/autopack;2;AutoPackAI/autopack;main",
+      "relpath": "autopack;main",
+      "root": "/Users/pq/Desktop/discoveries/autopack/autopack;2;AutoPackAI",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/serverless-patterns;2;aws-samples/serverless-patterns;main",
+      "relpath": "serverless-patterns;main",
+      "root": "/Users/pq/serverless-patterns;2;aws-samples",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/microagents;2;aymenfurter/microagents;main",
+      "relpath": "microagents;main",
+      "root": "/Users/pq/microagents;2;aymenfurter",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/supercharger;2;catid/supercharger;main",
+      "relpath": "supercharger;main",
+      "root": "/Users/pq/supercharger;2;catid",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_salvage/20250810_worx/crewAI;2;crewAIInc/crewAI;main",
+      "relpath": "crewAI;main",
+      "root": "/Users/pq/_salvage/20250810_worx/crewAI;2;crewAIInc",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/forge/AgentForge;2;DataBassGit/AgentForge;main",
+      "relpath": "AgentForge;main",
+      "root": "/Users/pq/forge/AgentForge;2;DataBassGit",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/langchain-experiments;2;daveebbelaar/langchain-experiments;main",
+      "relpath": "langchain-experiments;main",
+      "root": "/Users/pq/langchain-experiments;2;daveebbelaar",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Vid2Persona;2;deep-diver/Vid2Persona;main",
+      "relpath": "Vid2Persona;main",
+      "root": "/Users/pq/Vid2Persona;2;deep-diver",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/cookiecutter-data-science;2;drivendataorg/cookiecutter-data-science;master",
+      "relpath": "cookiecutter-data-science;master",
+      "root": "/Users/pq/cookiecutter-data-science;2;drivendataorg",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/python-libmagic;2;dveselov/python-libmagic;master",
+      "relpath": "python-libmagic;master",
+      "root": "/Users/pq/python-libmagic;2;dveselov",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/chromedriver;2;electron/chromedriver;main",
+      "relpath": "chromedriver;main",
+      "root": "/Users/pq/chromedriver;2;electron",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/electron;2;electron/electron;main",
+      "relpath": "electron;main",
+      "root": "/Users/pq/electron;2;electron",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/fantasy-talking;2;Fantasy-AMAP/fantasy-talking;main",
+      "relpath": "fantasy-talking;main",
+      "root": "/Users/pq/fantasy-talking;2;Fantasy-AMAP",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/llama.cpp;2;ggerganov/llama.cpp;master",
+      "relpath": "llama.cpp;master",
+      "root": "/Users/pq/llama.cpp;2;ggerganov",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/muld;2;ghomasHudson/muld;master",
+      "relpath": "muld;master",
+      "root": "/Users/pq/muld;2;ghomasHudson",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/cookbook;2;google-gemini/cookbook;main",
+      "relpath": "cookbook;main",
+      "root": "/Users/pq/cookbook;2;google-gemini",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Hexabot;2;Hexastack/Hexabot;main",
+      "relpath": "Hexabot;main",
+      "root": "/Users/pq/Hexabot;2;Hexastack",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_TotalCode/Superagent;2;homanp/Superagent;main",
+      "relpath": "Superagent;main",
+      "root": "/Users/pq/_TotalCode/Superagent;2;homanp",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/superagent;2;homanp/superagent;main",
+      "relpath": "superagent;main",
+      "root": "/Users/pq/superagent;2;homanp",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/llama_index;2;jerryjliu/llama_index;main",
+      "relpath": "llama_index;main",
+      "root": "/Users/pq/llama_index;2;jerryjliu",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/karma;2;karma-runner/karma;master",
+      "relpath": "karma;master",
+      "root": "/Users/pq/karma;2;karma-runner",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/langchain;2;langchain-ai/langchain;master",
+      "relpath": "langchain;master",
+      "root": "/Users/pq/langchain;2;langchain-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/langgraph;2;langchain-ai/langgraph;main",
+      "relpath": "langgraph;main",
+      "root": "/Users/pq/langgraph;2;langchain-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/webapp-text-generator;2;langgenius/webapp-text-generator;main",
+      "relpath": "webapp-text-generator;main",
+      "root": "/Users/pq/webapp-text-generator;2;langgenius",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/autogen;2;microsoft/autogen;main",
+      "relpath": "autogen;main",
+      "root": "/Users/pq/autogen;2;microsoft",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/jarvis;2;ngaut/jarvis;main",
+      "relpath": "jarvis;main",
+      "root": "/Users/pq/jarvis;2;ngaut",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/raftscope;2;ongardie/raftscope;master",
+      "relpath": "raftscope;master",
+      "root": "/Users/pq/raftscope;2;ongardie",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui;2;oobabooga/text-generation-webui;main",
+      "relpath": "text-generation-webui;main",
+      "root": "/Users/pq/text-generation-webui;2;oobabooga",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/SWELancer-Benchmark;2;openai/SWELancer-Benchmark;main",
+      "relpath": "SWELancer-Benchmark;main",
+      "root": "/Users/pq/SWELancer-Benchmark;2;openai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/example-typescript;2;pieces-app/example-typescript;main",
+      "relpath": "example-typescript;main",
+      "root": "/Users/pq/example-typescript;2;pieces-app",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/prefect;2;PrefectHQ/prefect;main",
+      "relpath": "prefect;main",
+      "root": "/Users/pq/prefect;2;PrefectHQ",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/SWE-agent;2;princeton-nlp/SWE-agent;main",
+      "relpath": "SWE-agent;main",
+      "root": "/Users/pq/SWE-agent;2;princeton-nlp",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/rasa;2;RasaHQ/rasa;main",
+      "relpath": "rasa;main",
+      "root": "/Users/pq/rasa;2;RasaHQ",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/LlamaIndexTS;2;run-llama/LlamaIndexTS;main",
+      "relpath": "LlamaIndexTS;main",
+      "root": "/Users/pq/LlamaIndexTS;2;run-llama",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gorilla;2;ShishirPatil/gorilla;main",
+      "relpath": "gorilla;main",
+      "root": "/Users/pq/gorilla;2;ShishirPatil",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/kdmc/app.env/Auto-GPT;2;Significant-Gravitas/Auto-GPT;master",
+      "relpath": "Auto-GPT;master",
+      "root": "/Users/pq/kdmc/app.env/Auto-GPT;2;Significant-Gravitas",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Copy-URL;2;sindresorhus/Copy-URL;main",
+      "relpath": "Copy-URL;main",
+      "root": "/Users/pq/Copy-URL;2;sindresorhus",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/webui_tavernai_charas;2;SkinnyDevi/webui_tavernai_charas;master",
+      "relpath": "webui_tavernai_charas;master",
+      "root": "/Users/pq/text-generation-webui/extensions/webui_tavernai_charas;2;SkinnyDevi",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/headlessui;2;tailwindlabs/headlessui;main",
+      "relpath": "headlessui;main",
+      "root": "/Users/pq/headlessui;2;tailwindlabs",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/tensorflow;2;tensorflow/tensorflow;master",
+      "relpath": "tensorflow;master",
+      "root": "/Users/pq/tensorflow;2;tensorflow",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/terraform-docs-samples;2;terraform-google-modules/terraform-docs-samples;main",
+      "relpath": "terraform-docs-samples;main",
+      "root": "/Users/pq/terraform-docs-samples;2;terraform-google-modules",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/SuperAGI_01;2;TransformerOptimus/SuperAGI;main",
+      "relpath": "SuperAGI;main",
+      "root": "/Users/pq/SuperAGI_01;2;TransformerOptimus",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui-stable_diffusion;2;Trojaner/text-generation-webui-stable_diffusion;main",
+      "relpath": "text-generation-webui-stable_diffusion;main",
+      "root": "/Users/pq/text-generation-webui-stable_diffusion;2;Trojaner",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/stable_diffusion;2;Trojaner/text-generation-webui-stable_diffusion;main",
+      "relpath": "text-generation-webui-stable_diffusion;main",
+      "root": "/Users/pq/text-generation-webui/extensions/stable_diffusion;2;Trojaner",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/text-generation-webui-stable_diffusion;2;Trojaner/text-generation-webui-stable_diffusion;main",
+      "relpath": "text-generation-webui-stable_diffusion;main",
+      "root": "/Users/pq/text-generation-webui/extensions/text-generation-webui-stable_diffusion;2;Trojaner",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/exllamav2;2;turboderp/exllamav2;master",
+      "relpath": "exllamav2;master",
+      "root": "/Users/pq/exllamav2;2;turboderp",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/exui;2;turboderp/exui;master",
+      "relpath": "exui;master",
+      "root": "/Users/pq/exui;2;turboderp",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/unstructured;2;Unstructured-IO/unstructured;main",
+      "relpath": "unstructured;main",
+      "root": "/Users/pq/unstructured;2;Unstructured-IO",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/weaviate;2;weaviate/weaviate;richierich",
+      "relpath": "weaviate;richierich",
+      "root": "/Users/pq/weaviate;2;weaviate",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/inference;2;xorbitsai/inference;main",
+      "relpath": "inference;main",
+      "root": "/Users/pq/inference;2;xorbitsai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/_TotalCode/gpt-researcher;1;assafelovic/gpt-researcher;master",
+      "relpath": "gpt-researcher;master",
+      "root": "/Users/pq/_TotalCode/gpt-researcher;1;assafelovic",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Desktop/discoveries/autopack/autopack/autopack.wiki;1;AutoPackAI/autopack.wiki;master",
+      "relpath": "autopack.wiki;master",
+      "root": "/Users/pq/Desktop/discoveries/autopack/autopack/autopack.wiki;1;AutoPackAI",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/beebot;1;AutoPackAI/beebot;main",
+      "relpath": "beebot;main",
+      "root": "/Users/pq/beebot;1;AutoPackAI",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/beebot-old;1;AutoPackAI/beebot;main",
+      "relpath": "beebot;main",
+      "root": "/Users/pq/beebot-old;1;AutoPackAI",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Desktop/discoveries/autopack/autopack/official;1;AutoPackAI/official;main",
+      "relpath": "official;main",
+      "root": "/Users/pq/Desktop/discoveries/autopack/autopack/official;1;AutoPackAI",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/official;1;AutoPackAI/official;main",
+      "relpath": "official;main",
+      "root": "/Users/pq/official;1;AutoPackAI",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/GPT-agents;1;avocardio/GPT-agents;main",
+      "relpath": "GPT-agents;main",
+      "root": "/Users/pq/GPT-agents;1;avocardio",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/wolverine;1;biobootloader/wolverine;main",
+      "relpath": "wolverine;main",
+      "root": "/Users/pq/wolverine;1;biobootloader",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/raftscope/bootstrap-contextmenu;1;bootstrap-contextmenu/bootstrap-contextmenu;HEAD",
+      "relpath": "bootstrap-contextmenu;HEAD",
+      "root": "/Users/pq/raftscope/bootstrap-contextmenu;1;bootstrap-contextmenu",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/raftscope/bootstrap-slider;1;bootstrap-slider/bootstrap-slider;HEAD",
+      "relpath": "bootstrap-slider;HEAD",
+      "root": "/Users/pq/raftscope/bootstrap-slider;1;bootstrap-slider",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt-crawler;1;builderio/gpt-crawler;main",
+      "relpath": "gpt-crawler;main",
+      "root": "/Users/pq/gpt-crawler;1;builderio",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/ply;1;dabeaz/ply;master",
+      "relpath": "ply;master",
+      "root": "/Users/pq/ply;1;dabeaz",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/awesome-chatgpt-store;1;devisasari/awesome-chatgpt-store;main",
+      "relpath": "awesome-chatgpt-store;main",
+      "root": "/Users/pq/awesome-chatgpt-store;1;devisasari",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/fiddle;1;electron/fiddle;main",
+      "relpath": "fiddle;main",
+      "root": "/Users/pq/fiddle;1;electron",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/dynamic_context;1;elPatrixF/dynamic_context;main",
+      "relpath": "dynamic_context;main",
+      "root": "/Users/pq/text-generation-webui/extensions/dynamic_context;1;elPatrixF",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/alltalk_tts;1;erew123/alltalk_tts;main",
+      "relpath": "alltalk_tts;main",
+      "root": "/Users/pq/text-generation-webui/extensions/alltalk_tts;1;erew123",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/autopack-demo;1;erik-megarad/autopack-demo;main",
+      "relpath": "autopack-demo;main",
+      "root": "/Users/pq/autopack-demo;1;erik-megarad",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Desktop/discoveries/autopack/autopack-demo;1;erik-megarad/autopack-demo;main",
+      "relpath": "autopack-demo;main",
+      "root": "/Users/pq/Desktop/discoveries/autopack/autopack-demo;1;erik-megarad",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Desktop/discoveries/autopack/autopack/autopack-demo;1;erik-megarad/autopack-demo;main",
+      "relpath": "autopack-demo;main",
+      "root": "/Users/pq/Desktop/discoveries/autopack/autopack/autopack-demo;1;erik-megarad",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Desktop/discoveries/autopack/autopack/autopack-demo/demo/autopack-demo;1;erik-megarad/autopack-demo;main",
+      "relpath": "autopack-demo;main",
+      "root": "/Users/pq/Desktop/discoveries/autopack/autopack/autopack-demo/demo/autopack-demo;1;erik-megarad",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/FPreloader;1;FartyPants/FPreloader;main",
+      "relpath": "FPreloader;main",
+      "root": "/Users/pq/text-generation-webui/extensions/FPreloader;1;FartyPants",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/Twinbook;1;FartyPants/Twinbook;main",
+      "relpath": "Twinbook;main",
+      "root": "/Users/pq/text-generation-webui/extensions/Twinbook;1;FartyPants",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/VirtualLora;1;FartyPants/VirtualLora;main",
+      "relpath": "VirtualLora;main",
+      "root": "/Users/pq/text-generation-webui/extensions/VirtualLora;1;FartyPants",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/MetaGPT_0;1;geekan/MetaGPT;main",
+      "relpath": "MetaGPT;main",
+      "root": "/Users/pq/MetaGPT_0;1;geekan",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/llama.cpp_0;1;ggerganov/llama.cpp;master",
+      "relpath": "llama.cpp;master",
+      "root": "/Users/pq/llama.cpp_0;1;ggerganov",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/magic-modules;1;GoogleCloudPlatform/magic-modules;main",
+      "relpath": "magic-modules;main",
+      "root": "/Users/pq/magic-modules;1;GoogleCloudPlatform",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/sd_api_pictures_tag_injection;1;GuizzyQC/sd_api_pictures_tag_injection;main",
+      "relpath": "sd_api_pictures_tag_injection;main",
+      "root": "/Users/pq/text-generation-webui/extensions/sd_api_pictures_tag_injection;1;GuizzyQC",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/oobabooga-jsonformer-plugin;1;hallucinate-games/oobabooga-jsonformer-plugin;main",
+      "relpath": "oobabooga-jsonformer-plugin;main",
+      "root": "/Users/pq/text-generation-webui/extensions/oobabooga-jsonformer-plugin;1;hallucinate-games",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/AutoSave;1;ill13/AutoSave;main",
+      "relpath": "AutoSave;main",
+      "root": "/Users/pq/text-generation-webui/extensions/AutoSave;1;ill13",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/SpeakLocal;1;ill13/SpeakLocal;main",
+      "relpath": "SpeakLocal;main",
+      "root": "/Users/pq/text-generation-webui/extensions/SpeakLocal;1;ill13",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/privateGPT-0;1;imartinez/privateGPT;main",
+      "relpath": "privateGPT;main",
+      "root": "/Users/pq/privateGPT-0;1;imartinez",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/Free-personal-AI-Assistant-with-plugin;1;IntelligenzaArtificiale/Free-personal-AI-Assistant-with-plugin;main",
+      "relpath": "Free-personal-AI-Assistant-with-plugin;main",
+      "root": "/Users/pq/Free-personal-AI-Assistant-with-plugin;1;IntelligenzaArtificiale",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/api_advanced;1;janvarev/api_advanced;main",
+      "relpath": "api_advanced;main",
+      "root": "/Users/pq/text-generation-webui/extensions/api_advanced;1;janvarev",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/multi_translate;1;janvarev/multi_translate;main",
+      "relpath": "multi_translate;main",
+      "root": "/Users/pq/text-generation-webui/extensions/multi_translate;1;janvarev",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/long_term_memory_with_qdrant;1;jason-brian-anderson/long_term_memory_with_qdrant;main",
+      "relpath": "long_term_memory_with_qdrant;main",
+      "root": "/Users/pq/text-generation-webui/extensions/long_term_memory_with_qdrant;1;jason-brian-anderson",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/FastChat;1;lm-sys/FastChat;main",
+      "relpath": "FastChat;main",
+      "root": "/Users/pq/FastChat;1;lm-sys",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/lmstudio.js/configs;1;lmstudio-ai/configs;main",
+      "relpath": "configs;main",
+      "root": "/Users/pq/lmstudio.js/configs;1;lmstudio-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/lmstudio.js;1;lmstudio-ai/lmstudio.js;main",
+      "relpath": "lmstudio.js;main",
+      "root": "/Users/pq/lmstudio.js;1;lmstudio-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/lmstudio.js/model-catalog;1;lmstudio-ai/model-catalog;main",
+      "relpath": "model-catalog;main",
+      "root": "/Users/pq/lmstudio.js/model-catalog;1;lmstudio-ai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/LLM_Web_search;1;mamei16/LLM_Web_search;main",
+      "relpath": "LLM_Web_search;main",
+      "root": "/Users/pq/text-generation-webui/extensions/LLM_Web_search;1;mamei16",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/OpenManus;1;mannaandpoem/OpenManus;main",
+      "relpath": "OpenManus;main",
+      "root": "/Users/pq/OpenManus;1;mannaandpoem",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/experts;1;metaskills/experts;main",
+      "relpath": "experts;main",
+      "root": "/Users/pq/experts;1;metaskills",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/inference-0/llama-cpp-python;1;oobabooga/llama-cpp-python;main",
+      "relpath": "llama-cpp-python;main",
+      "root": "/Users/pq/inference-0/llama-cpp-python;1;oobabooga",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/pgvector;1;pgvector/pgvector;master",
+      "relpath": "pgvector;master",
+      "root": "/Users/pq/pgvector;1;pgvector",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/pyenv;1;pyenv/pyenv;master",
+      "relpath": "pyenv;master",
+      "root": "/Users/pq/pyenv;1;pyenv",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/pyenv/plugins/pyenv-virtualenv;1;pyenv/pyenv-virtualenv;master",
+      "relpath": "pyenv-virtualenv;master",
+      "root": "/Users/pq/pyenv/plugins/pyenv-virtualenv;1;pyenv",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/pyenv/plugins/pyenv-virtualenvwrapper;1;pyenv/pyenv-virtualenvwrapper;master",
+      "relpath": "pyenv-virtualenvwrapper;master",
+      "root": "/Users/pq/pyenv/plugins/pyenv-virtualenvwrapper;1;pyenv",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/pypy;1;pypy/pypy;main",
+      "relpath": "pypy;main",
+      "root": "/Users/pq/pypy;1;pypy",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/LucidWebSearch;1;RandomInternetPreson/LucidWebSearch;main",
+      "relpath": "LucidWebSearch;main",
+      "root": "/Users/pq/text-generation-webui/extensions/LucidWebSearch;1;RandomInternetPreson",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/text-generation-webui-barktts;1;RandomInternetPreson/text-generation-webui-barktts;main",
+      "relpath": "text-generation-webui-barktts;main",
+      "root": "/Users/pq/text-generation-webui/extensions/text-generation-webui-barktts;1;RandomInternetPreson",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/gpt-code-ui;1;ricklamers/gpt-code-ui;main",
+      "relpath": "gpt-code-ui;main",
+      "root": "/Users/pq/gpt-code-ui;1;ricklamers",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/claude-dev copy;1;saoudrizwan/claude-dev;main",
+      "relpath": "claude-dev;main",
+      "root": "/Users/pq/claude-dev copy;1;saoudrizwan",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/complex_memory;1;theubie/complex_memory;master",
+      "relpath": "complex_memory;master",
+      "root": "/Users/pq/text-generation-webui/extensions/complex_memory;1;theubie",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/more_translators;1;Touch-Night/more_translators;main",
+      "relpath": "more_translators;main",
+      "root": "/Users/pq/text-generation-webui/extensions/more_translators;1;Touch-Night",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/google_translate_plus;1;Vasyanator/google_translate_plus;main",
+      "relpath": "google_translate_plus;main",
+      "root": "/Users/pq/text-generation-webui/extensions/google_translate_plus;1;Vasyanator",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/text-generation-webui/extensions/long_term_memory;1;wawawario2/long_term_memory;master",
+      "relpath": "long_term_memory;master",
+      "root": "/Users/pq/text-generation-webui/extensions/long_term_memory;1;wawawario2",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/inference-0;1;xorbitsai/inference;main",
+      "relpath": "inference;main",
+      "root": "/Users/pq/inference-0;1;xorbitsai",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    },
+    {
+      "path": "/Users/pq/libyaml;1;yaml/libyaml;master",
+      "relpath": "libyaml;master",
+      "root": "/Users/pq/libyaml;1;yaml",
+      "label": "local",
+      "kind": "missing",
+      "size": 0,
+      "mtime": 0,
+      "sha1": ""
+    }
+  ]
+}

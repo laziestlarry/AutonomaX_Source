@@ -1,0 +1,14 @@
+label: master
+blueprint:
+  top: 100
+  sources:
+    files:
+      - repos/AutonomaX_Master_Index.csv
+    dir: ""
+intake:
+  filelist: repos/AutonomaX_Master_Index.csv
+  label: master
+upload:
+  gcs_prefix: ""
+  paths: []
+

@@ -1,0 +1,40 @@
+timeout: "2700s"
+options:
+  logging: CLOUD_LOGGING_ONLY
+substitutions:
+  _REGION: "us-central1"
+  _SERVICE_API: "autonomax-api"
+  _SERVICE_DASH: "autonomax-dashboard"
+  _IMAGE_API: "gcr.io/${PROJECT_ID}/autonomax-api"
+  _IMAGE_DASH: "gcr.io/${PROJECT_ID}/autonomax-dashboard"
+steps:
+  - name: gcr.io/cloud-builders/docker
+    args: ["build", "-f", "Dockerfile.api", "-t", "${_IMAGE_API}", "."]
+  - name: gcr.io/cloud-builders/docker
+    args: ["push", "${_IMAGE_API}"]
+  - name: gcr.io/cloud-builders/docker
+    args: ["build", "-f", "Dockerfile.dashboard", "-t", "${_IMAGE_DASH}", "."]
+  - name: gcr.io/cloud-builders/docker
+    args: ["push", "${_IMAGE_DASH}"]
+  - name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    entrypoint: bash
+    args:
+      - -lc
+      - |
+        set -euo pipefail
+        gcloud run deploy ${_SERVICE_API} \
+          --image ${_IMAGE_API} \
+          --platform managed \
+          --region ${_REGION} \
+          --allow-unauthenticated \
+          --set-env-vars ENV=prod \
+          --quiet
+        gcloud run deploy ${_SERVICE_DASH} \
+          --image ${_IMAGE_DASH} \
+          --platform managed \
+          --region ${_REGION} \
+          --allow-unauthenticated \
+          --quiet
+images:
+  - "${_IMAGE_API}"
+  - "${_IMAGE_DASH}"

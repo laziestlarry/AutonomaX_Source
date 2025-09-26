@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1 class="mb-4">All Tasks</h1>
+{% if tasks %}
+  <div class="table-responsive">
+    <table class="table table-striped table-bordered">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Title</th>
+          <th>Company</th>
+          <th>Score</th>
+          <th>Processed</th>
+          <th>Created</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for task in tasks %}
+          <tr>
+            <td>{{ task.id }}</td>
+            <td>{{ task.title }}</td>
+            <td>{{ task.company }}</td>
+            <td>{{ task.score }}</td>
+            <td>{% if task.processed %}<span class="badge bg-success">Yes</span>{% else %}<span class="badge bg-secondary">No</span>{% endif %}</td>
+            <td>{{ task.created_at.strftime('%Y-%m-%d %H:%M') }}</td>
+            <td><a href="{{ url_for('task_detail', task_id=task.id) }}" class="btn btn-sm btn-outline-primary">View</a></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p>No tasks found.</p>
+{% endif %}
+{% endblock %}

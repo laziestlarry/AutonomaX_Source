@@ -1,0 +1,41 @@
+# Runbook — Master Index Sprint (2025-09-17 04:28:13)
+
+## Engineering Modules
+
+- [ ] .env — Tokens, API keys, secrets (project roots (hidden file))
+- [ ] .github/workflows/deploy.yml — GitHub Actions CI/CD (repo root)
+- [ ] /fiverr/gig.md — Fiverr gig description (/fiverr/)
+- [ ] /fiverr/thumbnail.png — Fiverr gig thumbnail (/fiverr/)
+- [ ] /landing/index.html — Funnel landing page (/landing/)
+- [ ] /videos/ — Fiverr intro, Lazy Larry, YouTube demo videos (/AutonomaX_Studio/videos/)
+- [ ] Brain_modules.zip — Neural/logic modules (archives)
+- [ ] Cognosystemized.txt — Conceptual/strategy text (archives)
+- [ ] LeadMagnet_LazyLarry.pdf — Free lead magnet PDF (/fiverr/)
+- [ ] analytics_dashboard_fixed.py — Streamlit dashboard (/Users/pq/.../dashboard/)
+- [ ] autosync/*.py — Amazon/eBay sync scripts (/autosync/)
+- [ ] cloudbuild.yaml — GCP build config (repo root)
+- [ ] commander.py — ExecPack / Commander orchestration logic (/.../AutonomaX_Commander_ExecPack/)
+- [ ] commander_import_samples.zip — Sample import data (archive folder)
+- [ ] commander_intelligence_server.zip — Intelligence server package (archives)
+- [ ] commander_knowledge_base.zip — Packaged knowledge base (archives)
+- [ ] deploy.sh — Automation CLI script (/AutonomaX_Studio/)
+- [ ] etsy_commander_bundle.zip — Etsy automation bundle (archive folder)
+- [ ] firebase.config.js — Firebase setup (repo root)
+- [ ] firebase.json — Frontend hosting config (repo root)
+- [ ] flows/*.flow — Shopify Flow automations (/flows/)
+- [ ] knowldg.zip — Knowledge dump (archives)
+- [ ] main.py — Flask entrypoint (Shopify, chatbot, analytics integrations) (/Users/pq/AutonomaX_.../app/main.py)
+- [ ] package.json — Node deps (repo root)
+- [ ] requirements.txt — Python deps (repo root)
+- [ ] server.js — Node.js Commander API server (/.../autonoms_commander_app_fullstack_updated/)
+- [ ] shopify/products.csv — Shopify import feed (/shopify/)
+- [ ] shopify_sync.py — CLI product push script (/AutonomaX_Studio/)
+
+## Data & KPIs
+
+- [ ] 205_strategies.json — AI Commander monetization strategies (/knowledge_base/)
+- [ ] analytics/looker_template.json — Looker Studio connector (/analytics/)
+- [ ] commander_knowledge_base/ — Knowledge packs (/.../commander_knowledge_base/)
+- [ ] scripts/make_products_from_yaml.py — Product generator script (/scripts/)
+- [ ] scripts/scheduler_setup.sh — GCP Scheduler setup (/scripts/)
+

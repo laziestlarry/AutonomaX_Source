@@ -1,0 +1,1708 @@
+ts,role,desc,path
+2025-09-15 17:53:16,dev,wire BI KPIs,<none>
+2025-09-17 02:50:56,research,skim + summarize objectives for Payoneer Lander Polishing,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:56,analysis,outline value props and risks for Payoneer Lander Polishing,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:56,data,define KPIs and freshness for BI,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:56,growth,prepare 3 posts + 10 DMs plan,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:56,pm,timeline + risk register,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:56,advisor,review blueprint and sign-off,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:56,research,skim + summarize objectives for LaziestLarry Core (placeholder),https://github.com/laziestlarry/core
+2025-09-17 02:50:56,analysis,outline value props and risks for LaziestLarry Core (placeholder),https://github.com/laziestlarry/core
+2025-09-17 02:50:56,data,define KPIs and freshness for BI,https://github.com/laziestlarry/core
+2025-09-17 02:50:56,growth,prepare 3 posts + 10 DMs plan,https://github.com/laziestlarry/core
+2025-09-17 02:50:56,pm,timeline + risk register,https://github.com/laziestlarry/core
+2025-09-17 02:50:56,advisor,review blueprint and sign-off,https://github.com/laziestlarry/core
+2025-09-17 02:50:56,research,skim + summarize objectives for Zen Printables Catalog (placeholder),https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 02:50:56,analysis,outline value props and risks for Zen Printables Catalog (placeholder),https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 02:50:56,data,define KPIs and freshness for BI,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 02:50:56,growth,prepare 3 posts + 10 DMs plan,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 02:50:56,pm,timeline + risk register,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 02:50:56,advisor,review blueprint and sign-off,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 02:50:56,research,skim + summarize objectives for Fulfillment Evidence Script,ops/team_run_demo.sh
+2025-09-17 02:50:56,analysis,outline value props and risks for Fulfillment Evidence Script,ops/team_run_demo.sh
+2025-09-17 02:50:57,data,define KPIs and freshness for BI,ops/team_run_demo.sh
+2025-09-17 02:50:57,growth,prepare 3 posts + 10 DMs plan,ops/team_run_demo.sh
+2025-09-17 02:50:57,pm,timeline + risk register,ops/team_run_demo.sh
+2025-09-17 02:50:57,advisor,review blueprint and sign-off,ops/team_run_demo.sh
+2025-09-17 02:50:57,research,skim + summarize objectives for Shopify→BQ Orders Backfill,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,analysis,outline value props and risks for Shopify→BQ Orders Backfill,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,dev,wire Shopify backfills to BQ + /bi,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,data,define KPIs and freshness for BI,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,growth,prepare 3 posts + 10 DMs plan,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,pm,timeline + risk register,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,advisor,review blueprint and sign-off,analytics/backfill/orders_bulk.py
+2025-09-17 02:50:57,research,skim + summarize objectives for BI KPIs from BQ,analytics/bi.py
+2025-09-17 02:50:57,analysis,outline value props and risks for BI KPIs from BQ,analytics/bi.py
+2025-09-17 02:50:57,data,define KPIs and freshness for BI,analytics/bi.py
+2025-09-17 02:50:57,growth,prepare 3 posts + 10 DMs plan,analytics/bi.py
+2025-09-17 02:50:57,pm,timeline + risk register,analytics/bi.py
+2025-09-17 02:50:57,advisor,review blueprint and sign-off,analytics/bi.py
+2025-09-17 02:50:57,research,skim + summarize objectives for Checkout CTA via Payoneer,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:57,analysis,outline value props and risks for Checkout CTA via Payoneer,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:57,data,define KPIs and freshness for BI,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:58,growth,prepare 3 posts + 10 DMs plan,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:58,pm,timeline + risk register,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:58,advisor,review blueprint and sign-off,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 02:50:58,research,skim + summarize objectives for Deploy + Scheduler Bootstrap,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 02:50:58,analysis,outline value props and risks for Deploy + Scheduler Bootstrap,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 02:50:58,data,define KPIs and freshness for BI,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 02:50:58,growth,prepare 3 posts + 10 DMs plan,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 02:50:58,pm,timeline + risk register,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 02:50:58,advisor,review blueprint and sign-off,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 02:50:58,research,skim + summarize objectives for Shopify→BQ Products Backfill,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,analysis,outline value props and risks for Shopify→BQ Products Backfill,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,dev,wire Shopify backfills to BQ + /bi,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,data,define KPIs and freshness for BI,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,growth,prepare 3 posts + 10 DMs plan,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,pm,timeline + risk register,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,advisor,review blueprint and sign-off,analytics/backfill/products_bulk.py
+2025-09-17 02:50:58,research,skim + summarize objectives for LaziestLarry Content (placeholder),https://github.com/laziestlarry/content
+2025-09-17 02:50:58,analysis,outline value props and risks for LaziestLarry Content (placeholder),https://github.com/laziestlarry/content
+2025-09-17 02:50:58,data,define KPIs and freshness for BI,https://github.com/laziestlarry/content
+2025-09-17 02:50:58,growth,prepare 3 posts + 10 DMs plan,https://github.com/laziestlarry/content
+2025-09-17 02:50:59,pm,timeline + risk register,https://github.com/laziestlarry/content
+2025-09-17 02:50:59,advisor,review blueprint and sign-off,https://github.com/laziestlarry/content
+2025-09-17 02:50:59,research,skim + summarize objectives for Social Scripts (starter),revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:50:59,analysis,outline value props and risks for Social Scripts (starter),revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:50:59,data,define KPIs and freshness for BI,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:50:59,growth,prepare 3 posts + 10 DMs plan,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:50:59,pm,timeline + risk register,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:50:59,advisor,review blueprint and sign-off,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:50:59,research,skim + summarize objectives for Digital Delivery Evidence,ops/team_run_demo.sh
+2025-09-17 02:50:59,analysis,outline value props and risks for Digital Delivery Evidence,ops/team_run_demo.sh
+2025-09-17 02:50:59,data,define KPIs and freshness for BI,ops/team_run_demo.sh
+2025-09-17 02:50:59,growth,prepare 3 posts + 10 DMs plan,ops/team_run_demo.sh
+2025-09-17 02:50:59,pm,timeline + risk register,ops/team_run_demo.sh
+2025-09-17 02:50:59,advisor,review blueprint and sign-off,ops/team_run_demo.sh
+2025-09-17 02:50:59,research,skim + summarize objectives for Dashboard Signals,apps/dashboard/app.py
+2025-09-17 02:50:59,analysis,outline value props and risks for Dashboard Signals,apps/dashboard/app.py
+2025-09-17 02:50:59,data,define KPIs and freshness for BI,apps/dashboard/app.py
+2025-09-17 02:50:59,growth,prepare 3 posts + 10 DMs plan,apps/dashboard/app.py
+2025-09-17 02:50:59,pm,timeline + risk register,apps/dashboard/app.py
+2025-09-17 02:50:59,advisor,review blueprint and sign-off,apps/dashboard/app.py
+2025-09-17 02:51:00,research,skim + summarize objectives for YouTube Shorts Pack (placeholder),https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 02:51:00,analysis,outline value props and risks for YouTube Shorts Pack (placeholder),https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 02:51:00,data,define KPIs and freshness for BI,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 02:51:00,growth,prepare 3 posts + 10 DMs plan,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 02:51:00,pm,timeline + risk register,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 02:51:00,advisor,review blueprint and sign-off,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 02:51:00,research,skim + summarize objectives for BI KPIs to Dashboard,apps/dashboard/app.py
+2025-09-17 02:51:00,analysis,outline value props and risks for BI KPIs to Dashboard,apps/dashboard/app.py
+2025-09-17 02:51:00,data,define KPIs and freshness for BI,apps/dashboard/app.py
+2025-09-17 02:51:00,growth,prepare 3 posts + 10 DMs plan,apps/dashboard/app.py
+2025-09-17 02:51:00,pm,timeline + risk register,apps/dashboard/app.py
+2025-09-17 02:51:00,advisor,review blueprint and sign-off,apps/dashboard/app.py
+2025-09-17 02:51:00,research,skim + summarize objectives for Brand Kit (placeholder),https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 02:51:00,analysis,outline value props and risks for Brand Kit (placeholder),https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 02:51:00,data,define KPIs and freshness for BI,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 02:51:00,growth,prepare 3 posts + 10 DMs plan,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 02:51:00,pm,timeline + risk register,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 02:51:00,advisor,review blueprint and sign-off,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 02:51:00,research,skim + summarize objectives for Issue Export to Tracker,ops/export_issues.sh
+2025-09-17 02:51:00,analysis,outline value props and risks for Issue Export to Tracker,ops/export_issues.sh
+2025-09-17 02:51:01,data,define KPIs and freshness for BI,ops/export_issues.sh
+2025-09-17 02:51:01,growth,prepare 3 posts + 10 DMs plan,ops/export_issues.sh
+2025-09-17 02:51:01,pm,timeline + risk register,ops/export_issues.sh
+2025-09-17 02:51:01,advisor,review blueprint and sign-off,ops/export_issues.sh
+2025-09-17 02:51:01,research,skim + summarize objectives for Fiverr Gigs,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 02:51:01,analysis,outline value props and risks for Fiverr Gigs,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 02:51:01,data,define KPIs and freshness for BI,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 02:51:01,growth,prepare 3 posts + 10 DMs plan,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 02:51:01,pm,timeline + risk register,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 02:51:01,advisor,review blueprint and sign-off,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 02:51:01,research,skim + summarize objectives for Social Post + DM Pack,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:51:01,analysis,outline value props and risks for Social Post + DM Pack,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:51:01,data,define KPIs and freshness for BI,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:51:01,growth,prepare 3 posts + 10 DMs plan,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:51:01,pm,timeline + risk register,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:51:01,advisor,review blueprint and sign-off,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 02:51:01,research,skim + summarize objectives for Slack/Jira Issue Export,ops/export_issues.sh
+2025-09-17 02:51:01,analysis,outline value props and risks for Slack/Jira Issue Export,ops/export_issues.sh
+2025-09-17 02:51:01,data,define KPIs and freshness for BI,ops/export_issues.sh
+2025-09-17 02:51:01,growth,prepare 3 posts + 10 DMs plan,ops/export_issues.sh
+2025-09-17 02:51:02,pm,timeline + risk register,ops/export_issues.sh
+2025-09-17 02:51:02,advisor,review blueprint and sign-off,ops/export_issues.sh
+2025-09-17 02:57:01,research,skim + summarize objectives for item_1,item_1
+2025-09-17 02:57:01,analysis,outline value props and risks for item_1,item_1
+2025-09-17 02:57:01,data,define KPIs and freshness for BI,item_1
+2025-09-17 02:57:01,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 02:57:01,pm,timeline + risk register,item_1
+2025-09-17 02:57:01,advisor,review blueprint and sign-off,item_1
+2025-09-17 02:57:01,research,skim + summarize objectives for item_2,item_2
+2025-09-17 02:57:01,analysis,outline value props and risks for item_2,item_2
+2025-09-17 02:57:01,data,define KPIs and freshness for BI,item_2
+2025-09-17 02:57:01,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 02:57:01,pm,timeline + risk register,item_2
+2025-09-17 02:57:01,advisor,review blueprint and sign-off,item_2
+2025-09-17 02:57:01,research,skim + summarize objectives for item_3,item_3
+2025-09-17 02:57:01,analysis,outline value props and risks for item_3,item_3
+2025-09-17 02:57:01,data,define KPIs and freshness for BI,item_3
+2025-09-17 02:57:01,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 02:57:01,pm,timeline + risk register,item_3
+2025-09-17 02:57:01,advisor,review blueprint and sign-off,item_3
+2025-09-17 02:57:01,research,skim + summarize objectives for item_4,item_4
+2025-09-17 02:57:01,analysis,outline value props and risks for item_4,item_4
+2025-09-17 02:57:02,data,define KPIs and freshness for BI,item_4
+2025-09-17 02:57:02,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 02:57:02,pm,timeline + risk register,item_4
+2025-09-17 02:57:02,advisor,review blueprint and sign-off,item_4
+2025-09-17 02:57:02,research,skim + summarize objectives for item_5,item_5
+2025-09-17 02:57:02,analysis,outline value props and risks for item_5,item_5
+2025-09-17 02:57:02,data,define KPIs and freshness for BI,item_5
+2025-09-17 02:57:02,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 02:57:02,pm,timeline + risk register,item_5
+2025-09-17 02:57:02,advisor,review blueprint and sign-off,item_5
+2025-09-17 02:57:02,research,skim + summarize objectives for item_6,item_6
+2025-09-17 02:57:02,analysis,outline value props and risks for item_6,item_6
+2025-09-17 02:57:02,data,define KPIs and freshness for BI,item_6
+2025-09-17 02:57:02,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 02:57:02,pm,timeline + risk register,item_6
+2025-09-17 02:57:02,advisor,review blueprint and sign-off,item_6
+2025-09-17 02:57:02,research,skim + summarize objectives for item_7,item_7
+2025-09-17 02:57:02,analysis,outline value props and risks for item_7,item_7
+2025-09-17 02:57:02,data,define KPIs and freshness for BI,item_7
+2025-09-17 02:57:02,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 02:57:03,pm,timeline + risk register,item_7
+2025-09-17 02:57:03,advisor,review blueprint and sign-off,item_7
+2025-09-17 02:57:03,research,skim + summarize objectives for item_8,item_8
+2025-09-17 02:57:03,analysis,outline value props and risks for item_8,item_8
+2025-09-17 02:57:03,data,define KPIs and freshness for BI,item_8
+2025-09-17 02:57:03,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 02:57:03,pm,timeline + risk register,item_8
+2025-09-17 02:57:03,advisor,review blueprint and sign-off,item_8
+2025-09-17 02:57:03,research,skim + summarize objectives for item_9,item_9
+2025-09-17 02:57:03,analysis,outline value props and risks for item_9,item_9
+2025-09-17 02:57:03,data,define KPIs and freshness for BI,item_9
+2025-09-17 02:57:03,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 02:57:03,pm,timeline + risk register,item_9
+2025-09-17 02:57:03,advisor,review blueprint and sign-off,item_9
+2025-09-17 02:57:03,research,skim + summarize objectives for item_10,item_10
+2025-09-17 02:57:03,analysis,outline value props and risks for item_10,item_10
+2025-09-17 02:57:03,data,define KPIs and freshness for BI,item_10
+2025-09-17 02:57:03,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 02:57:03,pm,timeline + risk register,item_10
+2025-09-17 02:57:03,advisor,review blueprint and sign-off,item_10
+2025-09-17 02:57:05,research,skim + summarize objectives for item_11,item_11
+2025-09-17 02:57:05,analysis,outline value props and risks for item_11,item_11
+2025-09-17 02:57:05,data,define KPIs and freshness for BI,item_11
+2025-09-17 02:57:05,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 02:57:05,pm,timeline + risk register,item_11
+2025-09-17 02:57:05,advisor,review blueprint and sign-off,item_11
+2025-09-17 02:57:05,research,skim + summarize objectives for item_12,item_12
+2025-09-17 02:57:05,analysis,outline value props and risks for item_12,item_12
+2025-09-17 02:57:05,data,define KPIs and freshness for BI,item_12
+2025-09-17 02:57:05,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 02:57:05,pm,timeline + risk register,item_12
+2025-09-17 02:57:05,advisor,review blueprint and sign-off,item_12
+2025-09-17 02:57:05,research,skim + summarize objectives for item_13,item_13
+2025-09-17 02:57:05,analysis,outline value props and risks for item_13,item_13
+2025-09-17 02:57:05,data,define KPIs and freshness for BI,item_13
+2025-09-17 02:57:05,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 02:57:05,pm,timeline + risk register,item_13
+2025-09-17 02:57:05,advisor,review blueprint and sign-off,item_13
+2025-09-17 02:57:05,research,skim + summarize objectives for item_14,item_14
+2025-09-17 02:57:05,analysis,outline value props and risks for item_14,item_14
+2025-09-17 02:57:06,data,define KPIs and freshness for BI,item_14
+2025-09-17 02:57:06,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 02:57:06,pm,timeline + risk register,item_14
+2025-09-17 02:57:06,advisor,review blueprint and sign-off,item_14
+2025-09-17 02:57:06,research,skim + summarize objectives for item_15,item_15
+2025-09-17 02:57:06,analysis,outline value props and risks for item_15,item_15
+2025-09-17 02:57:06,data,define KPIs and freshness for BI,item_15
+2025-09-17 02:57:06,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 02:57:06,pm,timeline + risk register,item_15
+2025-09-17 02:57:06,advisor,review blueprint and sign-off,item_15
+2025-09-17 02:57:06,research,skim + summarize objectives for item_16,item_16
+2025-09-17 02:57:06,analysis,outline value props and risks for item_16,item_16
+2025-09-17 02:57:06,data,define KPIs and freshness for BI,item_16
+2025-09-17 02:57:06,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 02:57:06,pm,timeline + risk register,item_16
+2025-09-17 02:57:06,advisor,review blueprint and sign-off,item_16
+2025-09-17 02:57:06,research,skim + summarize objectives for item_17,item_17
+2025-09-17 02:57:06,analysis,outline value props and risks for item_17,item_17
+2025-09-17 02:57:06,data,define KPIs and freshness for BI,item_17
+2025-09-17 02:57:06,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 02:57:07,pm,timeline + risk register,item_17
+2025-09-17 02:57:07,advisor,review blueprint and sign-off,item_17
+2025-09-17 02:57:07,research,skim + summarize objectives for item_18,item_18
+2025-09-17 02:57:07,analysis,outline value props and risks for item_18,item_18
+2025-09-17 02:57:07,data,define KPIs and freshness for BI,item_18
+2025-09-17 02:57:07,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 02:57:07,pm,timeline + risk register,item_18
+2025-09-17 02:57:07,advisor,review blueprint and sign-off,item_18
+2025-09-17 02:57:07,research,skim + summarize objectives for item_19,item_19
+2025-09-17 02:57:07,analysis,outline value props and risks for item_19,item_19
+2025-09-17 02:57:07,data,define KPIs and freshness for BI,item_19
+2025-09-17 02:57:07,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 02:57:07,pm,timeline + risk register,item_19
+2025-09-17 02:57:07,advisor,review blueprint and sign-off,item_19
+2025-09-17 02:57:07,research,skim + summarize objectives for item_20,item_20
+2025-09-17 02:57:07,analysis,outline value props and risks for item_20,item_20
+2025-09-17 02:57:07,data,define KPIs and freshness for BI,item_20
+2025-09-17 02:57:07,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 02:57:07,pm,timeline + risk register,item_20
+2025-09-17 02:57:07,advisor,review blueprint and sign-off,item_20
+2025-09-17 02:57:08,research,skim + summarize objectives for item_21,item_21
+2025-09-17 02:57:08,analysis,outline value props and risks for item_21,item_21
+2025-09-17 02:57:08,data,define KPIs and freshness for BI,item_21
+2025-09-17 02:57:08,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 02:57:08,pm,timeline + risk register,item_21
+2025-09-17 02:57:08,advisor,review blueprint and sign-off,item_21
+2025-09-17 02:57:08,research,skim + summarize objectives for item_22,item_22
+2025-09-17 02:57:08,analysis,outline value props and risks for item_22,item_22
+2025-09-17 02:57:08,data,define KPIs and freshness for BI,item_22
+2025-09-17 02:57:08,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 02:57:08,pm,timeline + risk register,item_22
+2025-09-17 02:57:08,advisor,review blueprint and sign-off,item_22
+2025-09-17 02:57:08,research,skim + summarize objectives for item_23,item_23
+2025-09-17 02:57:08,analysis,outline value props and risks for item_23,item_23
+2025-09-17 02:57:08,data,define KPIs and freshness for BI,item_23
+2025-09-17 02:57:08,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 02:57:08,pm,timeline + risk register,item_23
+2025-09-17 02:57:08,advisor,review blueprint and sign-off,item_23
+2025-09-17 02:57:08,research,skim + summarize objectives for item_24,item_24
+2025-09-17 02:57:08,analysis,outline value props and risks for item_24,item_24
+2025-09-17 02:57:09,data,define KPIs and freshness for BI,item_24
+2025-09-17 02:57:09,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 02:57:09,pm,timeline + risk register,item_24
+2025-09-17 02:57:09,advisor,review blueprint and sign-off,item_24
+2025-09-17 02:57:09,research,skim + summarize objectives for item_25,item_25
+2025-09-17 02:57:09,analysis,outline value props and risks for item_25,item_25
+2025-09-17 02:57:09,data,define KPIs and freshness for BI,item_25
+2025-09-17 02:57:09,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 02:57:09,pm,timeline + risk register,item_25
+2025-09-17 02:57:09,advisor,review blueprint and sign-off,item_25
+2025-09-17 02:57:09,research,skim + summarize objectives for item_26,item_26
+2025-09-17 02:57:09,analysis,outline value props and risks for item_26,item_26
+2025-09-17 02:57:09,data,define KPIs and freshness for BI,item_26
+2025-09-17 02:57:09,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 02:57:09,pm,timeline + risk register,item_26
+2025-09-17 02:57:09,advisor,review blueprint and sign-off,item_26
+2025-09-17 02:57:09,research,skim + summarize objectives for item_27,item_27
+2025-09-17 02:57:09,analysis,outline value props and risks for item_27,item_27
+2025-09-17 02:57:09,data,define KPIs and freshness for BI,item_27
+2025-09-17 02:57:09,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 02:57:10,pm,timeline + risk register,item_27
+2025-09-17 02:57:10,advisor,review blueprint and sign-off,item_27
+2025-09-17 02:57:10,research,skim + summarize objectives for item_28,item_28
+2025-09-17 02:57:10,analysis,outline value props and risks for item_28,item_28
+2025-09-17 02:57:10,data,define KPIs and freshness for BI,item_28
+2025-09-17 02:57:10,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 02:57:10,pm,timeline + risk register,item_28
+2025-09-17 02:57:10,advisor,review blueprint and sign-off,item_28
+2025-09-17 02:57:10,research,skim + summarize objectives for item_29,item_29
+2025-09-17 02:57:10,analysis,outline value props and risks for item_29,item_29
+2025-09-17 02:57:10,data,define KPIs and freshness for BI,item_29
+2025-09-17 02:57:10,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 02:57:10,pm,timeline + risk register,item_29
+2025-09-17 02:57:10,advisor,review blueprint and sign-off,item_29
+2025-09-17 02:57:10,research,skim + summarize objectives for item_30,item_30
+2025-09-17 02:57:10,analysis,outline value props and risks for item_30,item_30
+2025-09-17 02:57:10,data,define KPIs and freshness for BI,item_30
+2025-09-17 02:57:10,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 02:57:10,pm,timeline + risk register,item_30
+2025-09-17 02:57:10,advisor,review blueprint and sign-off,item_30
+2025-09-17 02:57:11,research,skim + summarize objectives for item_31,item_31
+2025-09-17 02:57:11,analysis,outline value props and risks for item_31,item_31
+2025-09-17 02:57:11,data,define KPIs and freshness for BI,item_31
+2025-09-17 02:57:11,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 02:57:11,pm,timeline + risk register,item_31
+2025-09-17 02:57:11,advisor,review blueprint and sign-off,item_31
+2025-09-17 02:57:11,research,skim + summarize objectives for item_32,item_32
+2025-09-17 02:57:11,analysis,outline value props and risks for item_32,item_32
+2025-09-17 02:57:11,data,define KPIs and freshness for BI,item_32
+2025-09-17 02:57:11,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 02:57:11,pm,timeline + risk register,item_32
+2025-09-17 02:57:11,advisor,review blueprint and sign-off,item_32
+2025-09-17 02:57:11,research,skim + summarize objectives for item_33,item_33
+2025-09-17 02:57:11,analysis,outline value props and risks for item_33,item_33
+2025-09-17 02:57:11,data,define KPIs and freshness for BI,item_33
+2025-09-17 02:57:11,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 02:57:11,pm,timeline + risk register,item_33
+2025-09-17 02:57:11,advisor,review blueprint and sign-off,item_33
+2025-09-17 03:03:11,research,skim + summarize objectives for item_1,item_1
+2025-09-17 03:03:11,analysis,outline value props and risks for item_1,item_1
+2025-09-17 03:03:11,data,define KPIs and freshness for BI,item_1
+2025-09-17 03:03:11,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 03:03:11,pm,timeline + risk register,item_1
+2025-09-17 03:03:11,advisor,review blueprint and sign-off,item_1
+2025-09-17 03:03:11,research,skim + summarize objectives for item_2,item_2
+2025-09-17 03:03:11,analysis,outline value props and risks for item_2,item_2
+2025-09-17 03:03:11,data,define KPIs and freshness for BI,item_2
+2025-09-17 03:03:11,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 03:03:11,pm,timeline + risk register,item_2
+2025-09-17 03:03:11,advisor,review blueprint and sign-off,item_2
+2025-09-17 03:03:11,research,skim + summarize objectives for item_3,item_3
+2025-09-17 03:03:11,analysis,outline value props and risks for item_3,item_3
+2025-09-17 03:03:11,data,define KPIs and freshness for BI,item_3
+2025-09-17 03:03:11,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 03:03:11,pm,timeline + risk register,item_3
+2025-09-17 03:03:11,advisor,review blueprint and sign-off,item_3
+2025-09-17 03:03:11,research,skim + summarize objectives for item_4,item_4
+2025-09-17 03:03:11,analysis,outline value props and risks for item_4,item_4
+2025-09-17 03:03:12,data,define KPIs and freshness for BI,item_4
+2025-09-17 03:03:12,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 03:03:12,pm,timeline + risk register,item_4
+2025-09-17 03:03:12,advisor,review blueprint and sign-off,item_4
+2025-09-17 03:03:12,research,skim + summarize objectives for item_5,item_5
+2025-09-17 03:03:12,analysis,outline value props and risks for item_5,item_5
+2025-09-17 03:03:12,data,define KPIs and freshness for BI,item_5
+2025-09-17 03:03:12,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 03:03:12,pm,timeline + risk register,item_5
+2025-09-17 03:03:12,advisor,review blueprint and sign-off,item_5
+2025-09-17 03:03:12,research,skim + summarize objectives for item_6,item_6
+2025-09-17 03:03:12,analysis,outline value props and risks for item_6,item_6
+2025-09-17 03:03:12,data,define KPIs and freshness for BI,item_6
+2025-09-17 03:03:12,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 03:03:12,pm,timeline + risk register,item_6
+2025-09-17 03:03:12,advisor,review blueprint and sign-off,item_6
+2025-09-17 03:03:12,research,skim + summarize objectives for item_7,item_7
+2025-09-17 03:03:12,analysis,outline value props and risks for item_7,item_7
+2025-09-17 03:03:12,data,define KPIs and freshness for BI,item_7
+2025-09-17 03:03:12,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 03:03:13,pm,timeline + risk register,item_7
+2025-09-17 03:03:13,advisor,review blueprint and sign-off,item_7
+2025-09-17 03:03:13,research,skim + summarize objectives for item_8,item_8
+2025-09-17 03:03:13,analysis,outline value props and risks for item_8,item_8
+2025-09-17 03:03:13,data,define KPIs and freshness for BI,item_8
+2025-09-17 03:03:13,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 03:03:13,pm,timeline + risk register,item_8
+2025-09-17 03:03:13,advisor,review blueprint and sign-off,item_8
+2025-09-17 03:03:13,research,skim + summarize objectives for item_9,item_9
+2025-09-17 03:03:13,analysis,outline value props and risks for item_9,item_9
+2025-09-17 03:03:13,data,define KPIs and freshness for BI,item_9
+2025-09-17 03:03:13,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 03:03:13,pm,timeline + risk register,item_9
+2025-09-17 03:03:13,advisor,review blueprint and sign-off,item_9
+2025-09-17 03:03:13,research,skim + summarize objectives for item_10,item_10
+2025-09-17 03:03:13,analysis,outline value props and risks for item_10,item_10
+2025-09-17 03:03:13,data,define KPIs and freshness for BI,item_10
+2025-09-17 03:03:13,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 03:03:13,pm,timeline + risk register,item_10
+2025-09-17 03:03:13,advisor,review blueprint and sign-off,item_10
+2025-09-17 03:03:14,research,skim + summarize objectives for item_11,item_11
+2025-09-17 03:03:14,analysis,outline value props and risks for item_11,item_11
+2025-09-17 03:03:14,data,define KPIs and freshness for BI,item_11
+2025-09-17 03:03:14,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 03:03:14,pm,timeline + risk register,item_11
+2025-09-17 03:03:14,advisor,review blueprint and sign-off,item_11
+2025-09-17 03:03:14,research,skim + summarize objectives for item_12,item_12
+2025-09-17 03:03:14,analysis,outline value props and risks for item_12,item_12
+2025-09-17 03:03:14,data,define KPIs and freshness for BI,item_12
+2025-09-17 03:03:14,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 03:03:14,pm,timeline + risk register,item_12
+2025-09-17 03:03:14,advisor,review blueprint and sign-off,item_12
+2025-09-17 03:03:14,research,skim + summarize objectives for item_13,item_13
+2025-09-17 03:03:14,analysis,outline value props and risks for item_13,item_13
+2025-09-17 03:03:14,data,define KPIs and freshness for BI,item_13
+2025-09-17 03:03:14,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 03:03:14,pm,timeline + risk register,item_13
+2025-09-17 03:03:14,advisor,review blueprint and sign-off,item_13
+2025-09-17 03:03:14,research,skim + summarize objectives for item_14,item_14
+2025-09-17 03:03:14,analysis,outline value props and risks for item_14,item_14
+2025-09-17 03:03:15,data,define KPIs and freshness for BI,item_14
+2025-09-17 03:03:15,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 03:03:15,pm,timeline + risk register,item_14
+2025-09-17 03:03:15,advisor,review blueprint and sign-off,item_14
+2025-09-17 03:03:15,research,skim + summarize objectives for item_15,item_15
+2025-09-17 03:03:15,analysis,outline value props and risks for item_15,item_15
+2025-09-17 03:03:15,data,define KPIs and freshness for BI,item_15
+2025-09-17 03:03:15,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 03:03:15,pm,timeline + risk register,item_15
+2025-09-17 03:03:15,advisor,review blueprint and sign-off,item_15
+2025-09-17 03:03:15,research,skim + summarize objectives for item_16,item_16
+2025-09-17 03:03:15,analysis,outline value props and risks for item_16,item_16
+2025-09-17 03:03:15,data,define KPIs and freshness for BI,item_16
+2025-09-17 03:03:15,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 03:03:15,pm,timeline + risk register,item_16
+2025-09-17 03:03:15,advisor,review blueprint and sign-off,item_16
+2025-09-17 03:03:15,research,skim + summarize objectives for item_17,item_17
+2025-09-17 03:03:15,analysis,outline value props and risks for item_17,item_17
+2025-09-17 03:03:15,data,define KPIs and freshness for BI,item_17
+2025-09-17 03:03:15,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 03:03:16,pm,timeline + risk register,item_17
+2025-09-17 03:03:16,advisor,review blueprint and sign-off,item_17
+2025-09-17 03:03:16,research,skim + summarize objectives for item_18,item_18
+2025-09-17 03:03:16,analysis,outline value props and risks for item_18,item_18
+2025-09-17 03:03:16,data,define KPIs and freshness for BI,item_18
+2025-09-17 03:03:16,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 03:03:16,pm,timeline + risk register,item_18
+2025-09-17 03:03:16,advisor,review blueprint and sign-off,item_18
+2025-09-17 03:03:16,research,skim + summarize objectives for item_19,item_19
+2025-09-17 03:03:16,analysis,outline value props and risks for item_19,item_19
+2025-09-17 03:03:16,data,define KPIs and freshness for BI,item_19
+2025-09-17 03:03:16,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 03:03:16,pm,timeline + risk register,item_19
+2025-09-17 03:03:16,advisor,review blueprint and sign-off,item_19
+2025-09-17 03:03:16,research,skim + summarize objectives for item_20,item_20
+2025-09-17 03:03:16,analysis,outline value props and risks for item_20,item_20
+2025-09-17 03:03:16,data,define KPIs and freshness for BI,item_20
+2025-09-17 03:03:16,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 03:03:16,pm,timeline + risk register,item_20
+2025-09-17 03:03:16,advisor,review blueprint and sign-off,item_20
+2025-09-17 03:03:17,research,skim + summarize objectives for item_21,item_21
+2025-09-17 03:03:17,analysis,outline value props and risks for item_21,item_21
+2025-09-17 03:03:17,data,define KPIs and freshness for BI,item_21
+2025-09-17 03:03:17,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 03:03:17,pm,timeline + risk register,item_21
+2025-09-17 03:03:17,advisor,review blueprint and sign-off,item_21
+2025-09-17 03:03:17,research,skim + summarize objectives for item_22,item_22
+2025-09-17 03:03:17,analysis,outline value props and risks for item_22,item_22
+2025-09-17 03:03:17,data,define KPIs and freshness for BI,item_22
+2025-09-17 03:03:17,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 03:03:17,pm,timeline + risk register,item_22
+2025-09-17 03:03:17,advisor,review blueprint and sign-off,item_22
+2025-09-17 03:03:17,research,skim + summarize objectives for item_23,item_23
+2025-09-17 03:03:17,analysis,outline value props and risks for item_23,item_23
+2025-09-17 03:03:17,data,define KPIs and freshness for BI,item_23
+2025-09-17 03:03:17,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 03:03:17,pm,timeline + risk register,item_23
+2025-09-17 03:03:17,advisor,review blueprint and sign-off,item_23
+2025-09-17 03:03:17,research,skim + summarize objectives for item_24,item_24
+2025-09-17 03:03:17,analysis,outline value props and risks for item_24,item_24
+2025-09-17 03:03:19,data,define KPIs and freshness for BI,item_24
+2025-09-17 03:03:19,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 03:03:19,pm,timeline + risk register,item_24
+2025-09-17 03:03:19,advisor,review blueprint and sign-off,item_24
+2025-09-17 03:03:19,research,skim + summarize objectives for item_25,item_25
+2025-09-17 03:03:19,analysis,outline value props and risks for item_25,item_25
+2025-09-17 03:03:19,data,define KPIs and freshness for BI,item_25
+2025-09-17 03:03:19,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 03:03:19,pm,timeline + risk register,item_25
+2025-09-17 03:03:19,advisor,review blueprint and sign-off,item_25
+2025-09-17 03:03:19,research,skim + summarize objectives for item_26,item_26
+2025-09-17 03:03:19,analysis,outline value props and risks for item_26,item_26
+2025-09-17 03:03:19,data,define KPIs and freshness for BI,item_26
+2025-09-17 03:03:19,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 03:03:19,pm,timeline + risk register,item_26
+2025-09-17 03:03:19,advisor,review blueprint and sign-off,item_26
+2025-09-17 03:03:19,research,skim + summarize objectives for item_27,item_27
+2025-09-17 03:03:19,analysis,outline value props and risks for item_27,item_27
+2025-09-17 03:03:19,data,define KPIs and freshness for BI,item_27
+2025-09-17 03:03:19,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 03:03:20,pm,timeline + risk register,item_27
+2025-09-17 03:03:20,advisor,review blueprint and sign-off,item_27
+2025-09-17 03:03:20,research,skim + summarize objectives for item_28,item_28
+2025-09-17 03:03:20,analysis,outline value props and risks for item_28,item_28
+2025-09-17 03:03:20,data,define KPIs and freshness for BI,item_28
+2025-09-17 03:03:20,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 03:03:20,pm,timeline + risk register,item_28
+2025-09-17 03:03:20,advisor,review blueprint and sign-off,item_28
+2025-09-17 03:03:20,research,skim + summarize objectives for item_29,item_29
+2025-09-17 03:03:20,analysis,outline value props and risks for item_29,item_29
+2025-09-17 03:03:20,data,define KPIs and freshness for BI,item_29
+2025-09-17 03:03:20,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 03:03:20,pm,timeline + risk register,item_29
+2025-09-17 03:03:20,advisor,review blueprint and sign-off,item_29
+2025-09-17 03:03:20,research,skim + summarize objectives for item_30,item_30
+2025-09-17 03:03:20,analysis,outline value props and risks for item_30,item_30
+2025-09-17 03:03:20,data,define KPIs and freshness for BI,item_30
+2025-09-17 03:03:20,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 03:03:20,pm,timeline + risk register,item_30
+2025-09-17 03:03:20,advisor,review blueprint and sign-off,item_30
+2025-09-17 03:03:21,research,skim + summarize objectives for item_31,item_31
+2025-09-17 03:03:21,analysis,outline value props and risks for item_31,item_31
+2025-09-17 03:03:21,data,define KPIs and freshness for BI,item_31
+2025-09-17 03:03:21,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 03:03:21,pm,timeline + risk register,item_31
+2025-09-17 03:03:21,advisor,review blueprint and sign-off,item_31
+2025-09-17 03:03:21,research,skim + summarize objectives for item_32,item_32
+2025-09-17 03:03:21,analysis,outline value props and risks for item_32,item_32
+2025-09-17 03:03:21,data,define KPIs and freshness for BI,item_32
+2025-09-17 03:03:21,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 03:03:21,pm,timeline + risk register,item_32
+2025-09-17 03:03:21,advisor,review blueprint and sign-off,item_32
+2025-09-17 03:03:21,research,skim + summarize objectives for item_33,item_33
+2025-09-17 03:03:21,analysis,outline value props and risks for item_33,item_33
+2025-09-17 03:03:21,data,define KPIs and freshness for BI,item_33
+2025-09-17 03:03:21,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 03:03:21,pm,timeline + risk register,item_33
+2025-09-17 03:03:21,advisor,review blueprint and sign-off,item_33
+2025-09-17 03:07:10,research,skim + summarize objectives for item_1,item_1
+2025-09-17 03:07:10,analysis,outline value props and risks for item_1,item_1
+2025-09-17 03:07:10,data,define KPIs and freshness for BI,item_1
+2025-09-17 03:07:10,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 03:07:10,pm,timeline + risk register,item_1
+2025-09-17 03:07:10,advisor,review blueprint and sign-off,item_1
+2025-09-17 03:07:10,research,skim + summarize objectives for item_2,item_2
+2025-09-17 03:07:10,analysis,outline value props and risks for item_2,item_2
+2025-09-17 03:07:10,data,define KPIs and freshness for BI,item_2
+2025-09-17 03:07:10,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 03:07:10,pm,timeline + risk register,item_2
+2025-09-17 03:07:10,advisor,review blueprint and sign-off,item_2
+2025-09-17 03:07:10,research,skim + summarize objectives for item_3,item_3
+2025-09-17 03:07:10,analysis,outline value props and risks for item_3,item_3
+2025-09-17 03:07:10,data,define KPIs and freshness for BI,item_3
+2025-09-17 03:07:10,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 03:07:10,pm,timeline + risk register,item_3
+2025-09-17 03:07:10,advisor,review blueprint and sign-off,item_3
+2025-09-17 03:07:10,research,skim + summarize objectives for item_4,item_4
+2025-09-17 03:07:10,analysis,outline value props and risks for item_4,item_4
+2025-09-17 03:07:12,data,define KPIs and freshness for BI,item_4
+2025-09-17 03:07:12,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 03:07:12,pm,timeline + risk register,item_4
+2025-09-17 03:07:12,advisor,review blueprint and sign-off,item_4
+2025-09-17 03:07:12,research,skim + summarize objectives for item_5,item_5
+2025-09-17 03:07:12,analysis,outline value props and risks for item_5,item_5
+2025-09-17 03:07:12,data,define KPIs and freshness for BI,item_5
+2025-09-17 03:07:12,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 03:07:12,pm,timeline + risk register,item_5
+2025-09-17 03:07:12,advisor,review blueprint and sign-off,item_5
+2025-09-17 03:07:12,research,skim + summarize objectives for item_6,item_6
+2025-09-17 03:07:12,analysis,outline value props and risks for item_6,item_6
+2025-09-17 03:07:12,data,define KPIs and freshness for BI,item_6
+2025-09-17 03:07:12,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 03:07:12,pm,timeline + risk register,item_6
+2025-09-17 03:07:12,advisor,review blueprint and sign-off,item_6
+2025-09-17 03:07:12,research,skim + summarize objectives for item_7,item_7
+2025-09-17 03:07:12,analysis,outline value props and risks for item_7,item_7
+2025-09-17 03:07:12,data,define KPIs and freshness for BI,item_7
+2025-09-17 03:07:12,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 03:07:13,pm,timeline + risk register,item_7
+2025-09-17 03:07:13,advisor,review blueprint and sign-off,item_7
+2025-09-17 03:07:13,research,skim + summarize objectives for item_8,item_8
+2025-09-17 03:07:13,analysis,outline value props and risks for item_8,item_8
+2025-09-17 03:07:13,data,define KPIs and freshness for BI,item_8
+2025-09-17 03:07:13,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 03:07:13,pm,timeline + risk register,item_8
+2025-09-17 03:07:13,advisor,review blueprint and sign-off,item_8
+2025-09-17 03:07:13,research,skim + summarize objectives for item_9,item_9
+2025-09-17 03:07:13,analysis,outline value props and risks for item_9,item_9
+2025-09-17 03:07:13,data,define KPIs and freshness for BI,item_9
+2025-09-17 03:07:13,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 03:07:13,pm,timeline + risk register,item_9
+2025-09-17 03:07:13,advisor,review blueprint and sign-off,item_9
+2025-09-17 03:07:13,research,skim + summarize objectives for item_10,item_10
+2025-09-17 03:07:13,analysis,outline value props and risks for item_10,item_10
+2025-09-17 03:07:13,data,define KPIs and freshness for BI,item_10
+2025-09-17 03:07:13,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 03:07:13,pm,timeline + risk register,item_10
+2025-09-17 03:07:13,advisor,review blueprint and sign-off,item_10
+2025-09-17 03:07:14,research,skim + summarize objectives for item_11,item_11
+2025-09-17 03:07:14,analysis,outline value props and risks for item_11,item_11
+2025-09-17 03:07:14,data,define KPIs and freshness for BI,item_11
+2025-09-17 03:07:14,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 03:07:14,pm,timeline + risk register,item_11
+2025-09-17 03:07:14,advisor,review blueprint and sign-off,item_11
+2025-09-17 03:07:14,research,skim + summarize objectives for item_12,item_12
+2025-09-17 03:07:14,analysis,outline value props and risks for item_12,item_12
+2025-09-17 03:07:14,data,define KPIs and freshness for BI,item_12
+2025-09-17 03:07:14,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 03:07:14,pm,timeline + risk register,item_12
+2025-09-17 03:07:14,advisor,review blueprint and sign-off,item_12
+2025-09-17 03:07:14,research,skim + summarize objectives for item_13,item_13
+2025-09-17 03:07:14,analysis,outline value props and risks for item_13,item_13
+2025-09-17 03:07:14,data,define KPIs and freshness for BI,item_13
+2025-09-17 03:07:14,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 03:07:14,pm,timeline + risk register,item_13
+2025-09-17 03:07:14,advisor,review blueprint and sign-off,item_13
+2025-09-17 03:07:14,research,skim + summarize objectives for item_14,item_14
+2025-09-17 03:07:14,analysis,outline value props and risks for item_14,item_14
+2025-09-17 03:07:15,data,define KPIs and freshness for BI,item_14
+2025-09-17 03:07:15,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 03:07:15,pm,timeline + risk register,item_14
+2025-09-17 03:07:15,advisor,review blueprint and sign-off,item_14
+2025-09-17 03:07:15,research,skim + summarize objectives for item_15,item_15
+2025-09-17 03:07:15,analysis,outline value props and risks for item_15,item_15
+2025-09-17 03:07:15,data,define KPIs and freshness for BI,item_15
+2025-09-17 03:07:15,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 03:07:15,pm,timeline + risk register,item_15
+2025-09-17 03:07:15,advisor,review blueprint and sign-off,item_15
+2025-09-17 03:07:15,research,skim + summarize objectives for item_16,item_16
+2025-09-17 03:07:15,analysis,outline value props and risks for item_16,item_16
+2025-09-17 03:07:15,data,define KPIs and freshness for BI,item_16
+2025-09-17 03:07:15,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 03:07:15,pm,timeline + risk register,item_16
+2025-09-17 03:07:15,advisor,review blueprint and sign-off,item_16
+2025-09-17 03:07:15,research,skim + summarize objectives for item_17,item_17
+2025-09-17 03:07:15,analysis,outline value props and risks for item_17,item_17
+2025-09-17 03:07:15,data,define KPIs and freshness for BI,item_17
+2025-09-17 03:07:15,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 03:07:16,pm,timeline + risk register,item_17
+2025-09-17 03:07:16,advisor,review blueprint and sign-off,item_17
+2025-09-17 03:07:16,research,skim + summarize objectives for item_18,item_18
+2025-09-17 03:07:16,analysis,outline value props and risks for item_18,item_18
+2025-09-17 03:07:16,data,define KPIs and freshness for BI,item_18
+2025-09-17 03:07:16,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 03:07:16,pm,timeline + risk register,item_18
+2025-09-17 03:07:16,advisor,review blueprint and sign-off,item_18
+2025-09-17 03:07:16,research,skim + summarize objectives for item_19,item_19
+2025-09-17 03:07:16,analysis,outline value props and risks for item_19,item_19
+2025-09-17 03:07:16,data,define KPIs and freshness for BI,item_19
+2025-09-17 03:07:16,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 03:07:16,pm,timeline + risk register,item_19
+2025-09-17 03:07:16,advisor,review blueprint and sign-off,item_19
+2025-09-17 03:07:16,research,skim + summarize objectives for item_20,item_20
+2025-09-17 03:07:16,analysis,outline value props and risks for item_20,item_20
+2025-09-17 03:07:16,data,define KPIs and freshness for BI,item_20
+2025-09-17 03:07:16,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 03:07:16,pm,timeline + risk register,item_20
+2025-09-17 03:07:16,advisor,review blueprint and sign-off,item_20
+2025-09-17 03:07:17,research,skim + summarize objectives for item_21,item_21
+2025-09-17 03:07:17,analysis,outline value props and risks for item_21,item_21
+2025-09-17 03:07:17,data,define KPIs and freshness for BI,item_21
+2025-09-17 03:07:17,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 03:07:17,pm,timeline + risk register,item_21
+2025-09-17 03:07:17,advisor,review blueprint and sign-off,item_21
+2025-09-17 03:07:17,research,skim + summarize objectives for item_22,item_22
+2025-09-17 03:07:17,analysis,outline value props and risks for item_22,item_22
+2025-09-17 03:07:17,data,define KPIs and freshness for BI,item_22
+2025-09-17 03:07:17,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 03:07:17,pm,timeline + risk register,item_22
+2025-09-17 03:07:17,advisor,review blueprint and sign-off,item_22
+2025-09-17 03:07:17,research,skim + summarize objectives for item_23,item_23
+2025-09-17 03:07:17,analysis,outline value props and risks for item_23,item_23
+2025-09-17 03:07:17,data,define KPIs and freshness for BI,item_23
+2025-09-17 03:07:17,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 03:07:17,pm,timeline + risk register,item_23
+2025-09-17 03:07:17,advisor,review blueprint and sign-off,item_23
+2025-09-17 03:07:17,research,skim + summarize objectives for item_24,item_24
+2025-09-17 03:07:17,analysis,outline value props and risks for item_24,item_24
+2025-09-17 03:07:18,data,define KPIs and freshness for BI,item_24
+2025-09-17 03:07:18,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 03:07:18,pm,timeline + risk register,item_24
+2025-09-17 03:07:18,advisor,review blueprint and sign-off,item_24
+2025-09-17 03:07:18,research,skim + summarize objectives for item_25,item_25
+2025-09-17 03:07:18,analysis,outline value props and risks for item_25,item_25
+2025-09-17 03:07:18,data,define KPIs and freshness for BI,item_25
+2025-09-17 03:07:18,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 03:07:18,pm,timeline + risk register,item_25
+2025-09-17 03:07:18,advisor,review blueprint and sign-off,item_25
+2025-09-17 03:07:18,research,skim + summarize objectives for item_26,item_26
+2025-09-17 03:07:18,analysis,outline value props and risks for item_26,item_26
+2025-09-17 03:07:18,data,define KPIs and freshness for BI,item_26
+2025-09-17 03:07:18,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 03:07:18,pm,timeline + risk register,item_26
+2025-09-17 03:07:18,advisor,review blueprint and sign-off,item_26
+2025-09-17 03:07:18,research,skim + summarize objectives for item_27,item_27
+2025-09-17 03:07:18,analysis,outline value props and risks for item_27,item_27
+2025-09-17 03:07:18,data,define KPIs and freshness for BI,item_27
+2025-09-17 03:07:18,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 03:07:19,pm,timeline + risk register,item_27
+2025-09-17 03:07:19,advisor,review blueprint and sign-off,item_27
+2025-09-17 03:07:19,research,skim + summarize objectives for item_28,item_28
+2025-09-17 03:07:19,analysis,outline value props and risks for item_28,item_28
+2025-09-17 03:07:19,data,define KPIs and freshness for BI,item_28
+2025-09-17 03:07:19,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 03:07:19,pm,timeline + risk register,item_28
+2025-09-17 03:07:19,advisor,review blueprint and sign-off,item_28
+2025-09-17 03:07:19,research,skim + summarize objectives for item_29,item_29
+2025-09-17 03:07:19,analysis,outline value props and risks for item_29,item_29
+2025-09-17 03:07:19,data,define KPIs and freshness for BI,item_29
+2025-09-17 03:07:19,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 03:07:19,pm,timeline + risk register,item_29
+2025-09-17 03:07:19,advisor,review blueprint and sign-off,item_29
+2025-09-17 03:07:19,research,skim + summarize objectives for item_30,item_30
+2025-09-17 03:07:19,analysis,outline value props and risks for item_30,item_30
+2025-09-17 03:07:19,data,define KPIs and freshness for BI,item_30
+2025-09-17 03:07:19,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 03:07:19,pm,timeline + risk register,item_30
+2025-09-17 03:07:19,advisor,review blueprint and sign-off,item_30
+2025-09-17 03:07:20,research,skim + summarize objectives for item_31,item_31
+2025-09-17 03:07:20,analysis,outline value props and risks for item_31,item_31
+2025-09-17 03:07:20,data,define KPIs and freshness for BI,item_31
+2025-09-17 03:07:20,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 03:07:20,pm,timeline + risk register,item_31
+2025-09-17 03:07:20,advisor,review blueprint and sign-off,item_31
+2025-09-17 03:07:20,research,skim + summarize objectives for item_32,item_32
+2025-09-17 03:07:20,analysis,outline value props and risks for item_32,item_32
+2025-09-17 03:07:20,data,define KPIs and freshness for BI,item_32
+2025-09-17 03:07:20,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 03:07:20,pm,timeline + risk register,item_32
+2025-09-17 03:07:20,advisor,review blueprint and sign-off,item_32
+2025-09-17 03:07:20,research,skim + summarize objectives for item_33,item_33
+2025-09-17 03:07:20,analysis,outline value props and risks for item_33,item_33
+2025-09-17 03:07:20,data,define KPIs and freshness for BI,item_33
+2025-09-17 03:07:20,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 03:07:20,pm,timeline + risk register,item_33
+2025-09-17 03:07:20,advisor,review blueprint and sign-off,item_33
+2025-09-17 03:20:39,research,skim + summarize objectives for item_1,item_1
+2025-09-17 03:20:39,analysis,outline value props and risks for item_1,item_1
+2025-09-17 03:20:39,data,define KPIs and freshness for BI,item_1
+2025-09-17 03:20:39,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 03:20:39,pm,timeline + risk register,item_1
+2025-09-17 03:20:39,advisor,review blueprint and sign-off,item_1
+2025-09-17 03:20:39,research,skim + summarize objectives for item_2,item_2
+2025-09-17 03:20:39,analysis,outline value props and risks for item_2,item_2
+2025-09-17 03:20:39,data,define KPIs and freshness for BI,item_2
+2025-09-17 03:20:39,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 03:20:39,pm,timeline + risk register,item_2
+2025-09-17 03:20:39,advisor,review blueprint and sign-off,item_2
+2025-09-17 03:20:39,research,skim + summarize objectives for item_3,item_3
+2025-09-17 03:20:39,analysis,outline value props and risks for item_3,item_3
+2025-09-17 03:20:39,data,define KPIs and freshness for BI,item_3
+2025-09-17 03:20:39,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 03:20:39,pm,timeline + risk register,item_3
+2025-09-17 03:20:39,advisor,review blueprint and sign-off,item_3
+2025-09-17 03:20:39,research,skim + summarize objectives for item_4,item_4
+2025-09-17 03:20:39,analysis,outline value props and risks for item_4,item_4
+2025-09-17 03:20:40,data,define KPIs and freshness for BI,item_4
+2025-09-17 03:20:40,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 03:20:40,pm,timeline + risk register,item_4
+2025-09-17 03:20:40,advisor,review blueprint and sign-off,item_4
+2025-09-17 03:20:40,research,skim + summarize objectives for item_5,item_5
+2025-09-17 03:20:40,analysis,outline value props and risks for item_5,item_5
+2025-09-17 03:20:40,data,define KPIs and freshness for BI,item_5
+2025-09-17 03:20:40,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 03:20:40,pm,timeline + risk register,item_5
+2025-09-17 03:20:40,advisor,review blueprint and sign-off,item_5
+2025-09-17 03:20:40,research,skim + summarize objectives for item_6,item_6
+2025-09-17 03:20:40,analysis,outline value props and risks for item_6,item_6
+2025-09-17 03:20:40,data,define KPIs and freshness for BI,item_6
+2025-09-17 03:20:40,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 03:20:40,pm,timeline + risk register,item_6
+2025-09-17 03:20:40,advisor,review blueprint and sign-off,item_6
+2025-09-17 03:20:40,research,skim + summarize objectives for item_7,item_7
+2025-09-17 03:20:40,analysis,outline value props and risks for item_7,item_7
+2025-09-17 03:20:40,data,define KPIs and freshness for BI,item_7
+2025-09-17 03:20:40,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 03:20:41,pm,timeline + risk register,item_7
+2025-09-17 03:20:41,advisor,review blueprint and sign-off,item_7
+2025-09-17 03:20:41,research,skim + summarize objectives for item_8,item_8
+2025-09-17 03:20:41,analysis,outline value props and risks for item_8,item_8
+2025-09-17 03:20:41,data,define KPIs and freshness for BI,item_8
+2025-09-17 03:20:41,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 03:20:41,pm,timeline + risk register,item_8
+2025-09-17 03:20:41,advisor,review blueprint and sign-off,item_8
+2025-09-17 03:20:41,research,skim + summarize objectives for item_9,item_9
+2025-09-17 03:20:41,analysis,outline value props and risks for item_9,item_9
+2025-09-17 03:20:41,data,define KPIs and freshness for BI,item_9
+2025-09-17 03:20:41,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 03:20:41,pm,timeline + risk register,item_9
+2025-09-17 03:20:41,advisor,review blueprint and sign-off,item_9
+2025-09-17 03:20:41,research,skim + summarize objectives for item_10,item_10
+2025-09-17 03:20:41,analysis,outline value props and risks for item_10,item_10
+2025-09-17 03:20:41,data,define KPIs and freshness for BI,item_10
+2025-09-17 03:20:41,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 03:20:41,pm,timeline + risk register,item_10
+2025-09-17 03:20:41,advisor,review blueprint and sign-off,item_10
+2025-09-17 03:20:42,research,skim + summarize objectives for item_11,item_11
+2025-09-17 03:20:42,analysis,outline value props and risks for item_11,item_11
+2025-09-17 03:20:42,data,define KPIs and freshness for BI,item_11
+2025-09-17 03:20:42,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 03:20:42,pm,timeline + risk register,item_11
+2025-09-17 03:20:42,advisor,review blueprint and sign-off,item_11
+2025-09-17 03:20:42,research,skim + summarize objectives for item_12,item_12
+2025-09-17 03:20:42,analysis,outline value props and risks for item_12,item_12
+2025-09-17 03:20:42,data,define KPIs and freshness for BI,item_12
+2025-09-17 03:20:42,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 03:20:42,pm,timeline + risk register,item_12
+2025-09-17 03:20:42,advisor,review blueprint and sign-off,item_12
+2025-09-17 03:20:42,research,skim + summarize objectives for item_13,item_13
+2025-09-17 03:20:42,analysis,outline value props and risks for item_13,item_13
+2025-09-17 03:20:42,data,define KPIs and freshness for BI,item_13
+2025-09-17 03:20:42,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 03:20:42,pm,timeline + risk register,item_13
+2025-09-17 03:20:42,advisor,review blueprint and sign-off,item_13
+2025-09-17 03:20:42,research,skim + summarize objectives for item_14,item_14
+2025-09-17 03:20:42,analysis,outline value props and risks for item_14,item_14
+2025-09-17 03:20:43,data,define KPIs and freshness for BI,item_14
+2025-09-17 03:20:43,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 03:20:43,pm,timeline + risk register,item_14
+2025-09-17 03:20:43,advisor,review blueprint and sign-off,item_14
+2025-09-17 03:20:43,research,skim + summarize objectives for item_15,item_15
+2025-09-17 03:20:43,analysis,outline value props and risks for item_15,item_15
+2025-09-17 03:20:43,data,define KPIs and freshness for BI,item_15
+2025-09-17 03:20:43,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 03:20:43,pm,timeline + risk register,item_15
+2025-09-17 03:20:43,advisor,review blueprint and sign-off,item_15
+2025-09-17 03:20:43,research,skim + summarize objectives for item_16,item_16
+2025-09-17 03:20:43,analysis,outline value props and risks for item_16,item_16
+2025-09-17 03:20:43,data,define KPIs and freshness for BI,item_16
+2025-09-17 03:20:43,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 03:20:43,pm,timeline + risk register,item_16
+2025-09-17 03:20:43,advisor,review blueprint and sign-off,item_16
+2025-09-17 03:20:43,research,skim + summarize objectives for item_17,item_17
+2025-09-17 03:20:43,analysis,outline value props and risks for item_17,item_17
+2025-09-17 03:20:43,data,define KPIs and freshness for BI,item_17
+2025-09-17 03:20:43,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 03:20:44,pm,timeline + risk register,item_17
+2025-09-17 03:20:44,advisor,review blueprint and sign-off,item_17
+2025-09-17 03:20:44,research,skim + summarize objectives for item_18,item_18
+2025-09-17 03:20:44,analysis,outline value props and risks for item_18,item_18
+2025-09-17 03:20:44,data,define KPIs and freshness for BI,item_18
+2025-09-17 03:20:44,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 03:20:44,pm,timeline + risk register,item_18
+2025-09-17 03:20:44,advisor,review blueprint and sign-off,item_18
+2025-09-17 03:20:44,research,skim + summarize objectives for item_19,item_19
+2025-09-17 03:20:44,analysis,outline value props and risks for item_19,item_19
+2025-09-17 03:20:44,data,define KPIs and freshness for BI,item_19
+2025-09-17 03:20:44,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 03:20:44,pm,timeline + risk register,item_19
+2025-09-17 03:20:44,advisor,review blueprint and sign-off,item_19
+2025-09-17 03:20:44,research,skim + summarize objectives for item_20,item_20
+2025-09-17 03:20:44,analysis,outline value props and risks for item_20,item_20
+2025-09-17 03:20:44,data,define KPIs and freshness for BI,item_20
+2025-09-17 03:20:44,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 03:20:44,pm,timeline + risk register,item_20
+2025-09-17 03:20:44,advisor,review blueprint and sign-off,item_20
+2025-09-17 03:20:45,research,skim + summarize objectives for item_21,item_21
+2025-09-17 03:20:45,analysis,outline value props and risks for item_21,item_21
+2025-09-17 03:20:45,data,define KPIs and freshness for BI,item_21
+2025-09-17 03:20:45,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 03:20:45,pm,timeline + risk register,item_21
+2025-09-17 03:20:45,advisor,review blueprint and sign-off,item_21
+2025-09-17 03:20:45,research,skim + summarize objectives for item_22,item_22
+2025-09-17 03:20:45,analysis,outline value props and risks for item_22,item_22
+2025-09-17 03:20:45,data,define KPIs and freshness for BI,item_22
+2025-09-17 03:20:45,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 03:20:45,pm,timeline + risk register,item_22
+2025-09-17 03:20:45,advisor,review blueprint and sign-off,item_22
+2025-09-17 03:20:45,research,skim + summarize objectives for item_23,item_23
+2025-09-17 03:20:45,analysis,outline value props and risks for item_23,item_23
+2025-09-17 03:20:45,data,define KPIs and freshness for BI,item_23
+2025-09-17 03:20:45,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 03:20:45,pm,timeline + risk register,item_23
+2025-09-17 03:20:45,advisor,review blueprint and sign-off,item_23
+2025-09-17 03:20:45,research,skim + summarize objectives for item_24,item_24
+2025-09-17 03:20:45,analysis,outline value props and risks for item_24,item_24
+2025-09-17 03:20:47,data,define KPIs and freshness for BI,item_24
+2025-09-17 03:20:47,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 03:20:47,pm,timeline + risk register,item_24
+2025-09-17 03:20:47,advisor,review blueprint and sign-off,item_24
+2025-09-17 03:20:47,research,skim + summarize objectives for item_25,item_25
+2025-09-17 03:20:47,analysis,outline value props and risks for item_25,item_25
+2025-09-17 03:20:47,data,define KPIs and freshness for BI,item_25
+2025-09-17 03:20:47,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 03:20:47,pm,timeline + risk register,item_25
+2025-09-17 03:20:47,advisor,review blueprint and sign-off,item_25
+2025-09-17 03:20:47,research,skim + summarize objectives for item_26,item_26
+2025-09-17 03:20:47,analysis,outline value props and risks for item_26,item_26
+2025-09-17 03:20:47,data,define KPIs and freshness for BI,item_26
+2025-09-17 03:20:47,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 03:20:47,pm,timeline + risk register,item_26
+2025-09-17 03:20:47,advisor,review blueprint and sign-off,item_26
+2025-09-17 03:20:47,research,skim + summarize objectives for item_27,item_27
+2025-09-17 03:20:47,analysis,outline value props and risks for item_27,item_27
+2025-09-17 03:20:47,data,define KPIs and freshness for BI,item_27
+2025-09-17 03:20:47,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 03:20:48,pm,timeline + risk register,item_27
+2025-09-17 03:20:48,advisor,review blueprint and sign-off,item_27
+2025-09-17 03:20:48,research,skim + summarize objectives for item_28,item_28
+2025-09-17 03:20:48,analysis,outline value props and risks for item_28,item_28
+2025-09-17 03:20:48,data,define KPIs and freshness for BI,item_28
+2025-09-17 03:20:48,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 03:20:48,pm,timeline + risk register,item_28
+2025-09-17 03:20:48,advisor,review blueprint and sign-off,item_28
+2025-09-17 03:20:48,research,skim + summarize objectives for item_29,item_29
+2025-09-17 03:20:48,analysis,outline value props and risks for item_29,item_29
+2025-09-17 03:20:48,data,define KPIs and freshness for BI,item_29
+2025-09-17 03:20:48,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 03:20:48,pm,timeline + risk register,item_29
+2025-09-17 03:20:48,advisor,review blueprint and sign-off,item_29
+2025-09-17 03:20:48,research,skim + summarize objectives for item_30,item_30
+2025-09-17 03:20:48,analysis,outline value props and risks for item_30,item_30
+2025-09-17 03:20:48,data,define KPIs and freshness for BI,item_30
+2025-09-17 03:20:48,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 03:20:48,pm,timeline + risk register,item_30
+2025-09-17 03:20:48,advisor,review blueprint and sign-off,item_30
+2025-09-17 03:20:49,research,skim + summarize objectives for item_31,item_31
+2025-09-17 03:20:49,analysis,outline value props and risks for item_31,item_31
+2025-09-17 03:20:49,data,define KPIs and freshness for BI,item_31
+2025-09-17 03:20:49,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 03:20:49,pm,timeline + risk register,item_31
+2025-09-17 03:20:49,advisor,review blueprint and sign-off,item_31
+2025-09-17 03:20:49,research,skim + summarize objectives for item_32,item_32
+2025-09-17 03:20:49,analysis,outline value props and risks for item_32,item_32
+2025-09-17 03:20:49,data,define KPIs and freshness for BI,item_32
+2025-09-17 03:20:49,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 03:20:49,pm,timeline + risk register,item_32
+2025-09-17 03:20:49,advisor,review blueprint and sign-off,item_32
+2025-09-17 03:20:49,research,skim + summarize objectives for item_33,item_33
+2025-09-17 03:20:49,analysis,outline value props and risks for item_33,item_33
+2025-09-17 03:20:49,data,define KPIs and freshness for BI,item_33
+2025-09-17 03:20:49,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 03:20:49,pm,timeline + risk register,item_33
+2025-09-17 03:20:49,advisor,review blueprint and sign-off,item_33
+2025-09-17 04:00:21,research,skim + summarize objectives for item_1,item_1
+2025-09-17 04:00:21,analysis,outline value props and risks for item_1,item_1
+2025-09-17 04:00:21,data,define KPIs and freshness for BI,item_1
+2025-09-17 04:00:21,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 04:00:21,pm,timeline + risk register,item_1
+2025-09-17 04:00:21,advisor,review blueprint and sign-off,item_1
+2025-09-17 04:00:21,research,skim + summarize objectives for item_2,item_2
+2025-09-17 04:00:21,analysis,outline value props and risks for item_2,item_2
+2025-09-17 04:00:21,data,define KPIs and freshness for BI,item_2
+2025-09-17 04:00:21,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 04:00:21,pm,timeline + risk register,item_2
+2025-09-17 04:00:21,advisor,review blueprint and sign-off,item_2
+2025-09-17 04:00:21,research,skim + summarize objectives for item_3,item_3
+2025-09-17 04:00:21,analysis,outline value props and risks for item_3,item_3
+2025-09-17 04:00:21,data,define KPIs and freshness for BI,item_3
+2025-09-17 04:00:21,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 04:00:21,pm,timeline + risk register,item_3
+2025-09-17 04:00:21,advisor,review blueprint and sign-off,item_3
+2025-09-17 04:00:21,research,skim + summarize objectives for item_4,item_4
+2025-09-17 04:00:21,analysis,outline value props and risks for item_4,item_4
+2025-09-17 04:00:23,data,define KPIs and freshness for BI,item_4
+2025-09-17 04:00:23,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 04:00:23,pm,timeline + risk register,item_4
+2025-09-17 04:00:23,advisor,review blueprint and sign-off,item_4
+2025-09-17 04:00:23,research,skim + summarize objectives for item_5,item_5
+2025-09-17 04:00:23,analysis,outline value props and risks for item_5,item_5
+2025-09-17 04:00:23,data,define KPIs and freshness for BI,item_5
+2025-09-17 04:00:23,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 04:00:23,pm,timeline + risk register,item_5
+2025-09-17 04:00:23,advisor,review blueprint and sign-off,item_5
+2025-09-17 04:00:23,research,skim + summarize objectives for item_6,item_6
+2025-09-17 04:00:23,analysis,outline value props and risks for item_6,item_6
+2025-09-17 04:00:23,data,define KPIs and freshness for BI,item_6
+2025-09-17 04:00:23,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 04:00:23,pm,timeline + risk register,item_6
+2025-09-17 04:00:23,advisor,review blueprint and sign-off,item_6
+2025-09-17 04:00:23,research,skim + summarize objectives for item_7,item_7
+2025-09-17 04:00:23,analysis,outline value props and risks for item_7,item_7
+2025-09-17 04:00:23,data,define KPIs and freshness for BI,item_7
+2025-09-17 04:00:23,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 04:00:24,pm,timeline + risk register,item_7
+2025-09-17 04:00:24,advisor,review blueprint and sign-off,item_7
+2025-09-17 04:00:24,research,skim + summarize objectives for item_8,item_8
+2025-09-17 04:00:24,analysis,outline value props and risks for item_8,item_8
+2025-09-17 04:00:24,data,define KPIs and freshness for BI,item_8
+2025-09-17 04:00:24,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 04:00:24,pm,timeline + risk register,item_8
+2025-09-17 04:00:24,advisor,review blueprint and sign-off,item_8
+2025-09-17 04:00:24,research,skim + summarize objectives for item_9,item_9
+2025-09-17 04:00:24,analysis,outline value props and risks for item_9,item_9
+2025-09-17 04:00:24,data,define KPIs and freshness for BI,item_9
+2025-09-17 04:00:24,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 04:00:24,pm,timeline + risk register,item_9
+2025-09-17 04:00:24,advisor,review blueprint and sign-off,item_9
+2025-09-17 04:00:24,research,skim + summarize objectives for item_10,item_10
+2025-09-17 04:00:24,analysis,outline value props and risks for item_10,item_10
+2025-09-17 04:00:24,data,define KPIs and freshness for BI,item_10
+2025-09-17 04:00:24,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 04:00:24,pm,timeline + risk register,item_10
+2025-09-17 04:00:24,advisor,review blueprint and sign-off,item_10
+2025-09-17 04:00:25,research,skim + summarize objectives for item_11,item_11
+2025-09-17 04:00:25,analysis,outline value props and risks for item_11,item_11
+2025-09-17 04:00:25,data,define KPIs and freshness for BI,item_11
+2025-09-17 04:00:25,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 04:00:25,pm,timeline + risk register,item_11
+2025-09-17 04:00:25,advisor,review blueprint and sign-off,item_11
+2025-09-17 04:00:25,research,skim + summarize objectives for item_12,item_12
+2025-09-17 04:00:25,analysis,outline value props and risks for item_12,item_12
+2025-09-17 04:00:25,data,define KPIs and freshness for BI,item_12
+2025-09-17 04:00:25,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 04:00:25,pm,timeline + risk register,item_12
+2025-09-17 04:00:25,advisor,review blueprint and sign-off,item_12
+2025-09-17 04:00:25,research,skim + summarize objectives for item_13,item_13
+2025-09-17 04:00:25,analysis,outline value props and risks for item_13,item_13
+2025-09-17 04:00:25,data,define KPIs and freshness for BI,item_13
+2025-09-17 04:00:25,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 04:00:25,pm,timeline + risk register,item_13
+2025-09-17 04:00:25,advisor,review blueprint and sign-off,item_13
+2025-09-17 04:00:25,research,skim + summarize objectives for item_14,item_14
+2025-09-17 04:00:25,analysis,outline value props and risks for item_14,item_14
+2025-09-17 04:00:26,data,define KPIs and freshness for BI,item_14
+2025-09-17 04:00:26,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 04:00:26,pm,timeline + risk register,item_14
+2025-09-17 04:00:26,advisor,review blueprint and sign-off,item_14
+2025-09-17 04:00:26,research,skim + summarize objectives for item_15,item_15
+2025-09-17 04:00:26,analysis,outline value props and risks for item_15,item_15
+2025-09-17 04:00:26,data,define KPIs and freshness for BI,item_15
+2025-09-17 04:00:26,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 04:00:26,pm,timeline + risk register,item_15
+2025-09-17 04:00:26,advisor,review blueprint and sign-off,item_15
+2025-09-17 04:00:26,research,skim + summarize objectives for item_16,item_16
+2025-09-17 04:00:26,analysis,outline value props and risks for item_16,item_16
+2025-09-17 04:00:26,data,define KPIs and freshness for BI,item_16
+2025-09-17 04:00:26,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 04:00:26,pm,timeline + risk register,item_16
+2025-09-17 04:00:26,advisor,review blueprint and sign-off,item_16
+2025-09-17 04:00:26,research,skim + summarize objectives for item_17,item_17
+2025-09-17 04:00:26,analysis,outline value props and risks for item_17,item_17
+2025-09-17 04:00:26,data,define KPIs and freshness for BI,item_17
+2025-09-17 04:00:26,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 04:00:27,pm,timeline + risk register,item_17
+2025-09-17 04:00:27,advisor,review blueprint and sign-off,item_17
+2025-09-17 04:00:27,research,skim + summarize objectives for item_18,item_18
+2025-09-17 04:00:27,analysis,outline value props and risks for item_18,item_18
+2025-09-17 04:00:27,data,define KPIs and freshness for BI,item_18
+2025-09-17 04:00:27,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 04:00:27,pm,timeline + risk register,item_18
+2025-09-17 04:00:27,advisor,review blueprint and sign-off,item_18
+2025-09-17 04:00:27,research,skim + summarize objectives for item_19,item_19
+2025-09-17 04:00:27,analysis,outline value props and risks for item_19,item_19
+2025-09-17 04:00:27,data,define KPIs and freshness for BI,item_19
+2025-09-17 04:00:27,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 04:00:27,pm,timeline + risk register,item_19
+2025-09-17 04:00:27,advisor,review blueprint and sign-off,item_19
+2025-09-17 04:00:27,research,skim + summarize objectives for item_20,item_20
+2025-09-17 04:00:27,analysis,outline value props and risks for item_20,item_20
+2025-09-17 04:00:27,data,define KPIs and freshness for BI,item_20
+2025-09-17 04:00:27,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 04:00:27,pm,timeline + risk register,item_20
+2025-09-17 04:00:27,advisor,review blueprint and sign-off,item_20
+2025-09-17 04:00:28,research,skim + summarize objectives for item_21,item_21
+2025-09-17 04:00:28,analysis,outline value props and risks for item_21,item_21
+2025-09-17 04:00:28,data,define KPIs and freshness for BI,item_21
+2025-09-17 04:00:28,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 04:00:28,pm,timeline + risk register,item_21
+2025-09-17 04:00:28,advisor,review blueprint and sign-off,item_21
+2025-09-17 04:00:28,research,skim + summarize objectives for item_22,item_22
+2025-09-17 04:00:28,analysis,outline value props and risks for item_22,item_22
+2025-09-17 04:00:28,data,define KPIs and freshness for BI,item_22
+2025-09-17 04:00:28,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 04:00:28,pm,timeline + risk register,item_22
+2025-09-17 04:00:28,advisor,review blueprint and sign-off,item_22
+2025-09-17 04:00:28,research,skim + summarize objectives for item_23,item_23
+2025-09-17 04:00:28,analysis,outline value props and risks for item_23,item_23
+2025-09-17 04:00:28,data,define KPIs and freshness for BI,item_23
+2025-09-17 04:00:28,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 04:00:28,pm,timeline + risk register,item_23
+2025-09-17 04:00:28,advisor,review blueprint and sign-off,item_23
+2025-09-17 04:00:28,research,skim + summarize objectives for item_24,item_24
+2025-09-17 04:00:28,analysis,outline value props and risks for item_24,item_24
+2025-09-17 04:00:29,data,define KPIs and freshness for BI,item_24
+2025-09-17 04:00:29,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 04:00:29,pm,timeline + risk register,item_24
+2025-09-17 04:00:29,advisor,review blueprint and sign-off,item_24
+2025-09-17 04:00:29,research,skim + summarize objectives for item_25,item_25
+2025-09-17 04:00:29,analysis,outline value props and risks for item_25,item_25
+2025-09-17 04:00:29,data,define KPIs and freshness for BI,item_25
+2025-09-17 04:00:29,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 04:00:29,pm,timeline + risk register,item_25
+2025-09-17 04:00:29,advisor,review blueprint and sign-off,item_25
+2025-09-17 04:00:29,research,skim + summarize objectives for item_26,item_26
+2025-09-17 04:00:29,analysis,outline value props and risks for item_26,item_26
+2025-09-17 04:00:29,data,define KPIs and freshness for BI,item_26
+2025-09-17 04:00:29,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 04:00:29,pm,timeline + risk register,item_26
+2025-09-17 04:00:29,advisor,review blueprint and sign-off,item_26
+2025-09-17 04:00:29,research,skim + summarize objectives for item_27,item_27
+2025-09-17 04:00:29,analysis,outline value props and risks for item_27,item_27
+2025-09-17 04:00:29,data,define KPIs and freshness for BI,item_27
+2025-09-17 04:00:29,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 04:00:30,pm,timeline + risk register,item_27
+2025-09-17 04:00:30,advisor,review blueprint and sign-off,item_27
+2025-09-17 04:00:30,research,skim + summarize objectives for item_28,item_28
+2025-09-17 04:00:30,analysis,outline value props and risks for item_28,item_28
+2025-09-17 04:00:30,data,define KPIs and freshness for BI,item_28
+2025-09-17 04:00:30,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 04:00:30,pm,timeline + risk register,item_28
+2025-09-17 04:00:30,advisor,review blueprint and sign-off,item_28
+2025-09-17 04:00:30,research,skim + summarize objectives for item_29,item_29
+2025-09-17 04:00:30,analysis,outline value props and risks for item_29,item_29
+2025-09-17 04:00:30,data,define KPIs and freshness for BI,item_29
+2025-09-17 04:00:30,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 04:00:30,pm,timeline + risk register,item_29
+2025-09-17 04:00:30,advisor,review blueprint and sign-off,item_29
+2025-09-17 04:00:30,research,skim + summarize objectives for item_30,item_30
+2025-09-17 04:00:30,analysis,outline value props and risks for item_30,item_30
+2025-09-17 04:00:30,data,define KPIs and freshness for BI,item_30
+2025-09-17 04:00:30,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 04:00:30,pm,timeline + risk register,item_30
+2025-09-17 04:00:30,advisor,review blueprint and sign-off,item_30
+2025-09-17 04:00:31,research,skim + summarize objectives for item_31,item_31
+2025-09-17 04:00:31,analysis,outline value props and risks for item_31,item_31
+2025-09-17 04:00:31,data,define KPIs and freshness for BI,item_31
+2025-09-17 04:00:31,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 04:00:31,pm,timeline + risk register,item_31
+2025-09-17 04:00:31,advisor,review blueprint and sign-off,item_31
+2025-09-17 04:00:31,research,skim + summarize objectives for item_32,item_32
+2025-09-17 04:00:31,analysis,outline value props and risks for item_32,item_32
+2025-09-17 04:00:31,data,define KPIs and freshness for BI,item_32
+2025-09-17 04:00:31,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 04:00:31,pm,timeline + risk register,item_32
+2025-09-17 04:00:31,advisor,review blueprint and sign-off,item_32
+2025-09-17 04:00:31,research,skim + summarize objectives for item_33,item_33
+2025-09-17 04:00:31,analysis,outline value props and risks for item_33,item_33
+2025-09-17 04:00:31,data,define KPIs and freshness for BI,item_33
+2025-09-17 04:00:31,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 04:00:31,pm,timeline + risk register,item_33
+2025-09-17 04:00:31,advisor,review blueprint and sign-off,item_33
+2025-09-17 04:05:15,research,skim + summarize objectives for item_1,item_1
+2025-09-17 04:05:15,analysis,outline value props and risks for item_1,item_1
+2025-09-17 04:05:15,data,define KPIs and freshness for BI,item_1
+2025-09-17 04:05:15,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 04:05:15,pm,timeline + risk register,item_1
+2025-09-17 04:05:15,advisor,review blueprint and sign-off,item_1
+2025-09-17 04:05:15,research,skim + summarize objectives for item_2,item_2
+2025-09-17 04:05:15,analysis,outline value props and risks for item_2,item_2
+2025-09-17 04:05:15,data,define KPIs and freshness for BI,item_2
+2025-09-17 04:05:15,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 04:05:15,pm,timeline + risk register,item_2
+2025-09-17 04:05:15,advisor,review blueprint and sign-off,item_2
+2025-09-17 04:05:15,research,skim + summarize objectives for item_3,item_3
+2025-09-17 04:05:15,analysis,outline value props and risks for item_3,item_3
+2025-09-17 04:05:15,data,define KPIs and freshness for BI,item_3
+2025-09-17 04:05:15,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 04:05:15,pm,timeline + risk register,item_3
+2025-09-17 04:05:15,advisor,review blueprint and sign-off,item_3
+2025-09-17 04:05:15,research,skim + summarize objectives for item_4,item_4
+2025-09-17 04:05:15,analysis,outline value props and risks for item_4,item_4
+2025-09-17 04:05:16,data,define KPIs and freshness for BI,item_4
+2025-09-17 04:05:16,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 04:05:16,pm,timeline + risk register,item_4
+2025-09-17 04:05:16,advisor,review blueprint and sign-off,item_4
+2025-09-17 04:05:16,research,skim + summarize objectives for item_5,item_5
+2025-09-17 04:05:16,analysis,outline value props and risks for item_5,item_5
+2025-09-17 04:05:16,data,define KPIs and freshness for BI,item_5
+2025-09-17 04:05:16,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 04:05:16,pm,timeline + risk register,item_5
+2025-09-17 04:05:16,advisor,review blueprint and sign-off,item_5
+2025-09-17 04:05:16,research,skim + summarize objectives for item_6,item_6
+2025-09-17 04:05:16,analysis,outline value props and risks for item_6,item_6
+2025-09-17 04:05:16,data,define KPIs and freshness for BI,item_6
+2025-09-17 04:05:16,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 04:05:16,pm,timeline + risk register,item_6
+2025-09-17 04:05:16,advisor,review blueprint and sign-off,item_6
+2025-09-17 04:05:16,research,skim + summarize objectives for item_7,item_7
+2025-09-17 04:05:16,analysis,outline value props and risks for item_7,item_7
+2025-09-17 04:05:16,data,define KPIs and freshness for BI,item_7
+2025-09-17 04:05:16,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 04:05:17,pm,timeline + risk register,item_7
+2025-09-17 04:05:17,advisor,review blueprint and sign-off,item_7
+2025-09-17 04:05:17,research,skim + summarize objectives for item_8,item_8
+2025-09-17 04:05:17,analysis,outline value props and risks for item_8,item_8
+2025-09-17 04:05:17,data,define KPIs and freshness for BI,item_8
+2025-09-17 04:05:17,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 04:05:17,pm,timeline + risk register,item_8
+2025-09-17 04:05:17,advisor,review blueprint and sign-off,item_8
+2025-09-17 04:05:17,research,skim + summarize objectives for item_9,item_9
+2025-09-17 04:05:17,analysis,outline value props and risks for item_9,item_9
+2025-09-17 04:05:17,data,define KPIs and freshness for BI,item_9
+2025-09-17 04:05:17,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 04:05:17,pm,timeline + risk register,item_9
+2025-09-17 04:05:17,advisor,review blueprint and sign-off,item_9
+2025-09-17 04:05:17,research,skim + summarize objectives for item_10,item_10
+2025-09-17 04:05:17,analysis,outline value props and risks for item_10,item_10
+2025-09-17 04:05:17,data,define KPIs and freshness for BI,item_10
+2025-09-17 04:05:17,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 04:05:17,pm,timeline + risk register,item_10
+2025-09-17 04:05:17,advisor,review blueprint and sign-off,item_10
+2025-09-17 04:05:19,research,skim + summarize objectives for item_11,item_11
+2025-09-17 04:05:19,analysis,outline value props and risks for item_11,item_11
+2025-09-17 04:05:19,data,define KPIs and freshness for BI,item_11
+2025-09-17 04:05:19,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 04:05:19,pm,timeline + risk register,item_11
+2025-09-17 04:05:19,advisor,review blueprint and sign-off,item_11
+2025-09-17 04:05:19,research,skim + summarize objectives for item_12,item_12
+2025-09-17 04:05:19,analysis,outline value props and risks for item_12,item_12
+2025-09-17 04:05:19,data,define KPIs and freshness for BI,item_12
+2025-09-17 04:05:19,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 04:05:19,pm,timeline + risk register,item_12
+2025-09-17 04:05:19,advisor,review blueprint and sign-off,item_12
+2025-09-17 04:05:19,research,skim + summarize objectives for item_13,item_13
+2025-09-17 04:05:19,analysis,outline value props and risks for item_13,item_13
+2025-09-17 04:05:19,data,define KPIs and freshness for BI,item_13
+2025-09-17 04:05:19,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 04:05:19,pm,timeline + risk register,item_13
+2025-09-17 04:05:19,advisor,review blueprint and sign-off,item_13
+2025-09-17 04:05:19,research,skim + summarize objectives for item_14,item_14
+2025-09-17 04:05:19,analysis,outline value props and risks for item_14,item_14
+2025-09-17 04:05:20,data,define KPIs and freshness for BI,item_14
+2025-09-17 04:05:20,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 04:05:20,pm,timeline + risk register,item_14
+2025-09-17 04:05:20,advisor,review blueprint and sign-off,item_14
+2025-09-17 04:05:20,research,skim + summarize objectives for item_15,item_15
+2025-09-17 04:05:20,analysis,outline value props and risks for item_15,item_15
+2025-09-17 04:05:20,data,define KPIs and freshness for BI,item_15
+2025-09-17 04:05:20,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 04:05:20,pm,timeline + risk register,item_15
+2025-09-17 04:05:20,advisor,review blueprint and sign-off,item_15
+2025-09-17 04:05:20,research,skim + summarize objectives for item_16,item_16
+2025-09-17 04:05:20,analysis,outline value props and risks for item_16,item_16
+2025-09-17 04:05:20,data,define KPIs and freshness for BI,item_16
+2025-09-17 04:05:20,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 04:05:20,pm,timeline + risk register,item_16
+2025-09-17 04:05:20,advisor,review blueprint and sign-off,item_16
+2025-09-17 04:05:20,research,skim + summarize objectives for item_17,item_17
+2025-09-17 04:05:20,analysis,outline value props and risks for item_17,item_17
+2025-09-17 04:05:20,data,define KPIs and freshness for BI,item_17
+2025-09-17 04:05:20,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 04:05:21,pm,timeline + risk register,item_17
+2025-09-17 04:05:21,advisor,review blueprint and sign-off,item_17
+2025-09-17 04:05:21,research,skim + summarize objectives for item_18,item_18
+2025-09-17 04:05:21,analysis,outline value props and risks for item_18,item_18
+2025-09-17 04:05:21,data,define KPIs and freshness for BI,item_18
+2025-09-17 04:05:21,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 04:05:21,pm,timeline + risk register,item_18
+2025-09-17 04:05:21,advisor,review blueprint and sign-off,item_18
+2025-09-17 04:05:21,research,skim + summarize objectives for item_19,item_19
+2025-09-17 04:05:21,analysis,outline value props and risks for item_19,item_19
+2025-09-17 04:05:21,data,define KPIs and freshness for BI,item_19
+2025-09-17 04:05:21,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 04:05:21,pm,timeline + risk register,item_19
+2025-09-17 04:05:21,advisor,review blueprint and sign-off,item_19
+2025-09-17 04:05:21,research,skim + summarize objectives for item_20,item_20
+2025-09-17 04:05:21,analysis,outline value props and risks for item_20,item_20
+2025-09-17 04:05:21,data,define KPIs and freshness for BI,item_20
+2025-09-17 04:05:21,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 04:05:21,pm,timeline + risk register,item_20
+2025-09-17 04:05:21,advisor,review blueprint and sign-off,item_20
+2025-09-17 04:05:22,research,skim + summarize objectives for item_21,item_21
+2025-09-17 04:05:22,analysis,outline value props and risks for item_21,item_21
+2025-09-17 04:05:22,data,define KPIs and freshness for BI,item_21
+2025-09-17 04:05:22,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 04:05:22,pm,timeline + risk register,item_21
+2025-09-17 04:05:22,advisor,review blueprint and sign-off,item_21
+2025-09-17 04:05:22,research,skim + summarize objectives for item_22,item_22
+2025-09-17 04:05:22,analysis,outline value props and risks for item_22,item_22
+2025-09-17 04:05:22,data,define KPIs and freshness for BI,item_22
+2025-09-17 04:05:22,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 04:05:22,pm,timeline + risk register,item_22
+2025-09-17 04:05:22,advisor,review blueprint and sign-off,item_22
+2025-09-17 04:05:22,research,skim + summarize objectives for item_23,item_23
+2025-09-17 04:05:22,analysis,outline value props and risks for item_23,item_23
+2025-09-17 04:05:22,data,define KPIs and freshness for BI,item_23
+2025-09-17 04:05:22,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 04:05:22,pm,timeline + risk register,item_23
+2025-09-17 04:05:22,advisor,review blueprint and sign-off,item_23
+2025-09-17 04:05:22,research,skim + summarize objectives for item_24,item_24
+2025-09-17 04:05:22,analysis,outline value props and risks for item_24,item_24
+2025-09-17 04:05:23,data,define KPIs and freshness for BI,item_24
+2025-09-17 04:05:23,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 04:05:23,pm,timeline + risk register,item_24
+2025-09-17 04:05:23,advisor,review blueprint and sign-off,item_24
+2025-09-17 04:05:23,research,skim + summarize objectives for item_25,item_25
+2025-09-17 04:05:23,analysis,outline value props and risks for item_25,item_25
+2025-09-17 04:05:23,data,define KPIs and freshness for BI,item_25
+2025-09-17 04:05:23,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 04:05:23,pm,timeline + risk register,item_25
+2025-09-17 04:05:23,advisor,review blueprint and sign-off,item_25
+2025-09-17 04:05:23,research,skim + summarize objectives for item_26,item_26
+2025-09-17 04:05:23,analysis,outline value props and risks for item_26,item_26
+2025-09-17 04:05:23,data,define KPIs and freshness for BI,item_26
+2025-09-17 04:05:23,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 04:05:23,pm,timeline + risk register,item_26
+2025-09-17 04:05:23,advisor,review blueprint and sign-off,item_26
+2025-09-17 04:05:23,research,skim + summarize objectives for item_27,item_27
+2025-09-17 04:05:23,analysis,outline value props and risks for item_27,item_27
+2025-09-17 04:05:23,data,define KPIs and freshness for BI,item_27
+2025-09-17 04:05:23,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 04:05:24,pm,timeline + risk register,item_27
+2025-09-17 04:05:24,advisor,review blueprint and sign-off,item_27
+2025-09-17 04:05:24,research,skim + summarize objectives for item_28,item_28
+2025-09-17 04:05:24,analysis,outline value props and risks for item_28,item_28
+2025-09-17 04:05:24,data,define KPIs and freshness for BI,item_28
+2025-09-17 04:05:24,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 04:05:24,pm,timeline + risk register,item_28
+2025-09-17 04:05:24,advisor,review blueprint and sign-off,item_28
+2025-09-17 04:05:24,research,skim + summarize objectives for item_29,item_29
+2025-09-17 04:05:24,analysis,outline value props and risks for item_29,item_29
+2025-09-17 04:05:24,data,define KPIs and freshness for BI,item_29
+2025-09-17 04:05:24,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 04:05:24,pm,timeline + risk register,item_29
+2025-09-17 04:05:24,advisor,review blueprint and sign-off,item_29
+2025-09-17 04:05:24,research,skim + summarize objectives for item_30,item_30
+2025-09-17 04:05:24,analysis,outline value props and risks for item_30,item_30
+2025-09-17 04:05:24,data,define KPIs and freshness for BI,item_30
+2025-09-17 04:05:24,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 04:05:24,pm,timeline + risk register,item_30
+2025-09-17 04:05:24,advisor,review blueprint and sign-off,item_30
+2025-09-17 04:05:25,research,skim + summarize objectives for item_31,item_31
+2025-09-17 04:05:25,analysis,outline value props and risks for item_31,item_31
+2025-09-17 04:05:25,data,define KPIs and freshness for BI,item_31
+2025-09-17 04:05:25,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 04:05:25,pm,timeline + risk register,item_31
+2025-09-17 04:05:25,advisor,review blueprint and sign-off,item_31
+2025-09-17 04:05:25,research,skim + summarize objectives for item_32,item_32
+2025-09-17 04:05:25,analysis,outline value props and risks for item_32,item_32
+2025-09-17 04:05:25,data,define KPIs and freshness for BI,item_32
+2025-09-17 04:05:25,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 04:05:25,pm,timeline + risk register,item_32
+2025-09-17 04:05:25,advisor,review blueprint and sign-off,item_32
+2025-09-17 04:05:25,research,skim + summarize objectives for item_33,item_33
+2025-09-17 04:05:25,analysis,outline value props and risks for item_33,item_33
+2025-09-17 04:05:25,data,define KPIs and freshness for BI,item_33
+2025-09-17 04:05:25,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 04:05:25,pm,timeline + risk register,item_33
+2025-09-17 04:05:25,advisor,review blueprint and sign-off,item_33
+2025-09-17 04:28:01,research,skim + summarize objectives for item_1,item_1
+2025-09-17 04:28:01,analysis,outline value props and risks for item_1,item_1
+2025-09-17 04:28:01,data,define KPIs and freshness for BI,item_1
+2025-09-17 04:28:01,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 04:28:01,pm,timeline + risk register,item_1
+2025-09-17 04:28:01,advisor,review blueprint and sign-off,item_1
+2025-09-17 04:28:01,research,skim + summarize objectives for item_2,item_2
+2025-09-17 04:28:01,analysis,outline value props and risks for item_2,item_2
+2025-09-17 04:28:01,data,define KPIs and freshness for BI,item_2
+2025-09-17 04:28:01,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 04:28:01,pm,timeline + risk register,item_2
+2025-09-17 04:28:01,advisor,review blueprint and sign-off,item_2
+2025-09-17 04:28:01,research,skim + summarize objectives for item_3,item_3
+2025-09-17 04:28:01,analysis,outline value props and risks for item_3,item_3
+2025-09-17 04:28:01,data,define KPIs and freshness for BI,item_3
+2025-09-17 04:28:01,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 04:28:01,pm,timeline + risk register,item_3
+2025-09-17 04:28:01,advisor,review blueprint and sign-off,item_3
+2025-09-17 04:28:01,research,skim + summarize objectives for item_4,item_4
+2025-09-17 04:28:01,analysis,outline value props and risks for item_4,item_4
+2025-09-17 04:28:02,data,define KPIs and freshness for BI,item_4
+2025-09-17 04:28:02,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 04:28:02,pm,timeline + risk register,item_4
+2025-09-17 04:28:02,advisor,review blueprint and sign-off,item_4
+2025-09-17 04:28:02,research,skim + summarize objectives for item_5,item_5
+2025-09-17 04:28:02,analysis,outline value props and risks for item_5,item_5
+2025-09-17 04:28:02,data,define KPIs and freshness for BI,item_5
+2025-09-17 04:28:02,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 04:28:02,pm,timeline + risk register,item_5
+2025-09-17 04:28:02,advisor,review blueprint and sign-off,item_5
+2025-09-17 04:28:02,research,skim + summarize objectives for item_6,item_6
+2025-09-17 04:28:02,analysis,outline value props and risks for item_6,item_6
+2025-09-17 04:28:02,data,define KPIs and freshness for BI,item_6
+2025-09-17 04:28:02,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 04:28:02,pm,timeline + risk register,item_6
+2025-09-17 04:28:02,advisor,review blueprint and sign-off,item_6
+2025-09-17 04:28:02,research,skim + summarize objectives for item_7,item_7
+2025-09-17 04:28:02,analysis,outline value props and risks for item_7,item_7
+2025-09-17 04:28:02,data,define KPIs and freshness for BI,item_7
+2025-09-17 04:28:02,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 04:28:03,pm,timeline + risk register,item_7
+2025-09-17 04:28:03,advisor,review blueprint and sign-off,item_7
+2025-09-17 04:28:03,research,skim + summarize objectives for item_8,item_8
+2025-09-17 04:28:03,analysis,outline value props and risks for item_8,item_8
+2025-09-17 04:28:03,data,define KPIs and freshness for BI,item_8
+2025-09-17 04:28:03,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 04:28:03,pm,timeline + risk register,item_8
+2025-09-17 04:28:03,advisor,review blueprint and sign-off,item_8
+2025-09-17 04:28:03,research,skim + summarize objectives for item_9,item_9
+2025-09-17 04:28:03,analysis,outline value props and risks for item_9,item_9
+2025-09-17 04:28:03,data,define KPIs and freshness for BI,item_9
+2025-09-17 04:28:03,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 04:28:03,pm,timeline + risk register,item_9
+2025-09-17 04:28:03,advisor,review blueprint and sign-off,item_9
+2025-09-17 04:28:03,research,skim + summarize objectives for item_10,item_10
+2025-09-17 04:28:03,analysis,outline value props and risks for item_10,item_10
+2025-09-17 04:28:03,data,define KPIs and freshness for BI,item_10
+2025-09-17 04:28:03,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 04:28:03,pm,timeline + risk register,item_10
+2025-09-17 04:28:03,advisor,review blueprint and sign-off,item_10
+2025-09-17 04:28:04,research,skim + summarize objectives for item_11,item_11
+2025-09-17 04:28:04,analysis,outline value props and risks for item_11,item_11
+2025-09-17 04:28:04,data,define KPIs and freshness for BI,item_11
+2025-09-17 04:28:04,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 04:28:04,pm,timeline + risk register,item_11
+2025-09-17 04:28:04,advisor,review blueprint and sign-off,item_11
+2025-09-17 04:28:04,research,skim + summarize objectives for item_12,item_12
+2025-09-17 04:28:04,analysis,outline value props and risks for item_12,item_12
+2025-09-17 04:28:04,data,define KPIs and freshness for BI,item_12
+2025-09-17 04:28:04,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 04:28:04,pm,timeline + risk register,item_12
+2025-09-17 04:28:04,advisor,review blueprint and sign-off,item_12
+2025-09-17 04:28:04,research,skim + summarize objectives for item_13,item_13
+2025-09-17 04:28:04,analysis,outline value props and risks for item_13,item_13
+2025-09-17 04:28:04,data,define KPIs and freshness for BI,item_13
+2025-09-17 04:28:04,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 04:28:04,pm,timeline + risk register,item_13
+2025-09-17 04:28:04,advisor,review blueprint and sign-off,item_13
+2025-09-17 04:28:04,research,skim + summarize objectives for item_14,item_14
+2025-09-17 04:28:04,analysis,outline value props and risks for item_14,item_14
+2025-09-17 04:28:05,data,define KPIs and freshness for BI,item_14
+2025-09-17 04:28:05,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 04:28:05,pm,timeline + risk register,item_14
+2025-09-17 04:28:05,advisor,review blueprint and sign-off,item_14
+2025-09-17 04:28:05,research,skim + summarize objectives for item_15,item_15
+2025-09-17 04:28:05,analysis,outline value props and risks for item_15,item_15
+2025-09-17 04:28:05,data,define KPIs and freshness for BI,item_15
+2025-09-17 04:28:05,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 04:28:05,pm,timeline + risk register,item_15
+2025-09-17 04:28:05,advisor,review blueprint and sign-off,item_15
+2025-09-17 04:28:05,research,skim + summarize objectives for item_16,item_16
+2025-09-17 04:28:05,analysis,outline value props and risks for item_16,item_16
+2025-09-17 04:28:05,data,define KPIs and freshness for BI,item_16
+2025-09-17 04:28:05,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 04:28:05,pm,timeline + risk register,item_16
+2025-09-17 04:28:05,advisor,review blueprint and sign-off,item_16
+2025-09-17 04:28:05,research,skim + summarize objectives for item_17,item_17
+2025-09-17 04:28:05,analysis,outline value props and risks for item_17,item_17
+2025-09-17 04:28:05,data,define KPIs and freshness for BI,item_17
+2025-09-17 04:28:05,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 04:28:06,pm,timeline + risk register,item_17
+2025-09-17 04:28:06,advisor,review blueprint and sign-off,item_17
+2025-09-17 04:28:06,research,skim + summarize objectives for item_18,item_18
+2025-09-17 04:28:06,analysis,outline value props and risks for item_18,item_18
+2025-09-17 04:28:06,data,define KPIs and freshness for BI,item_18
+2025-09-17 04:28:06,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 04:28:06,pm,timeline + risk register,item_18
+2025-09-17 04:28:06,advisor,review blueprint and sign-off,item_18
+2025-09-17 04:28:06,research,skim + summarize objectives for item_19,item_19
+2025-09-17 04:28:06,analysis,outline value props and risks for item_19,item_19
+2025-09-17 04:28:06,data,define KPIs and freshness for BI,item_19
+2025-09-17 04:28:06,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 04:28:06,pm,timeline + risk register,item_19
+2025-09-17 04:28:06,advisor,review blueprint and sign-off,item_19
+2025-09-17 04:28:06,research,skim + summarize objectives for item_20,item_20
+2025-09-17 04:28:06,analysis,outline value props and risks for item_20,item_20
+2025-09-17 04:28:06,data,define KPIs and freshness for BI,item_20
+2025-09-17 04:28:06,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 04:28:06,pm,timeline + risk register,item_20
+2025-09-17 04:28:06,advisor,review blueprint and sign-off,item_20
+2025-09-17 04:28:07,research,skim + summarize objectives for item_21,item_21
+2025-09-17 04:28:07,analysis,outline value props and risks for item_21,item_21
+2025-09-17 04:28:07,data,define KPIs and freshness for BI,item_21
+2025-09-17 04:28:07,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 04:28:07,pm,timeline + risk register,item_21
+2025-09-17 04:28:07,advisor,review blueprint and sign-off,item_21
+2025-09-17 04:28:07,research,skim + summarize objectives for item_22,item_22
+2025-09-17 04:28:07,analysis,outline value props and risks for item_22,item_22
+2025-09-17 04:28:07,data,define KPIs and freshness for BI,item_22
+2025-09-17 04:28:07,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 04:28:07,pm,timeline + risk register,item_22
+2025-09-17 04:28:07,advisor,review blueprint and sign-off,item_22
+2025-09-17 04:28:07,research,skim + summarize objectives for item_23,item_23
+2025-09-17 04:28:07,analysis,outline value props and risks for item_23,item_23
+2025-09-17 04:28:07,data,define KPIs and freshness for BI,item_23
+2025-09-17 04:28:07,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 04:28:07,pm,timeline + risk register,item_23
+2025-09-17 04:28:07,advisor,review blueprint and sign-off,item_23
+2025-09-17 04:28:07,research,skim + summarize objectives for item_24,item_24
+2025-09-17 04:28:07,analysis,outline value props and risks for item_24,item_24
+2025-09-17 04:28:09,data,define KPIs and freshness for BI,item_24
+2025-09-17 04:28:09,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 04:28:09,pm,timeline + risk register,item_24
+2025-09-17 04:28:09,advisor,review blueprint and sign-off,item_24
+2025-09-17 04:28:09,research,skim + summarize objectives for item_25,item_25
+2025-09-17 04:28:09,analysis,outline value props and risks for item_25,item_25
+2025-09-17 04:28:09,data,define KPIs and freshness for BI,item_25
+2025-09-17 04:28:09,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 04:28:09,pm,timeline + risk register,item_25
+2025-09-17 04:28:09,advisor,review blueprint and sign-off,item_25
+2025-09-17 04:28:09,research,skim + summarize objectives for item_26,item_26
+2025-09-17 04:28:09,analysis,outline value props and risks for item_26,item_26
+2025-09-17 04:28:09,data,define KPIs and freshness for BI,item_26
+2025-09-17 04:28:09,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 04:28:09,pm,timeline + risk register,item_26
+2025-09-17 04:28:09,advisor,review blueprint and sign-off,item_26
+2025-09-17 04:28:09,research,skim + summarize objectives for item_27,item_27
+2025-09-17 04:28:09,analysis,outline value props and risks for item_27,item_27
+2025-09-17 04:28:09,data,define KPIs and freshness for BI,item_27
+2025-09-17 04:28:09,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 04:28:10,pm,timeline + risk register,item_27
+2025-09-17 04:28:10,advisor,review blueprint and sign-off,item_27
+2025-09-17 04:28:10,research,skim + summarize objectives for item_28,item_28
+2025-09-17 04:28:10,analysis,outline value props and risks for item_28,item_28
+2025-09-17 04:28:10,data,define KPIs and freshness for BI,item_28
+2025-09-17 04:28:10,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 04:28:10,pm,timeline + risk register,item_28
+2025-09-17 04:28:10,advisor,review blueprint and sign-off,item_28
+2025-09-17 04:28:10,research,skim + summarize objectives for item_29,item_29
+2025-09-17 04:28:10,analysis,outline value props and risks for item_29,item_29
+2025-09-17 04:28:10,data,define KPIs and freshness for BI,item_29
+2025-09-17 04:28:10,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 04:28:10,pm,timeline + risk register,item_29
+2025-09-17 04:28:10,advisor,review blueprint and sign-off,item_29
+2025-09-17 04:28:10,research,skim + summarize objectives for item_30,item_30
+2025-09-17 04:28:10,analysis,outline value props and risks for item_30,item_30
+2025-09-17 04:28:10,data,define KPIs and freshness for BI,item_30
+2025-09-17 04:28:10,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 04:28:10,pm,timeline + risk register,item_30
+2025-09-17 04:28:10,advisor,review blueprint and sign-off,item_30
+2025-09-17 04:28:11,research,skim + summarize objectives for item_31,item_31
+2025-09-17 04:28:11,analysis,outline value props and risks for item_31,item_31
+2025-09-17 04:28:11,data,define KPIs and freshness for BI,item_31
+2025-09-17 04:28:11,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 04:28:11,pm,timeline + risk register,item_31
+2025-09-17 04:28:11,advisor,review blueprint and sign-off,item_31
+2025-09-17 04:28:11,research,skim + summarize objectives for item_32,item_32
+2025-09-17 04:28:11,analysis,outline value props and risks for item_32,item_32
+2025-09-17 04:28:11,data,define KPIs and freshness for BI,item_32
+2025-09-17 04:28:11,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 04:28:11,pm,timeline + risk register,item_32
+2025-09-17 04:28:11,advisor,review blueprint and sign-off,item_32
+2025-09-17 04:28:11,research,skim + summarize objectives for item_33,item_33
+2025-09-17 04:28:11,analysis,outline value props and risks for item_33,item_33
+2025-09-17 04:28:11,data,define KPIs and freshness for BI,item_33
+2025-09-17 04:28:11,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 04:28:11,pm,timeline + risk register,item_33
+2025-09-17 04:28:11,advisor,review blueprint and sign-off,item_33
+2025-09-17 08:09:34,research,skim + summarize objectives for item_1,item_1
+2025-09-17 08:09:34,analysis,outline value props and risks for item_1,item_1
+2025-09-17 08:09:34,data,define KPIs and freshness for BI,item_1
+2025-09-17 08:09:34,growth,prepare 3 posts + 10 DMs plan,item_1
+2025-09-17 08:09:34,pm,timeline + risk register,item_1
+2025-09-17 08:09:34,advisor,review blueprint and sign-off,item_1
+2025-09-17 08:09:34,research,skim + summarize objectives for item_2,item_2
+2025-09-17 08:09:34,analysis,outline value props and risks for item_2,item_2
+2025-09-17 08:09:34,data,define KPIs and freshness for BI,item_2
+2025-09-17 08:09:34,growth,prepare 3 posts + 10 DMs plan,item_2
+2025-09-17 08:09:34,pm,timeline + risk register,item_2
+2025-09-17 08:09:34,advisor,review blueprint and sign-off,item_2
+2025-09-17 08:09:34,research,skim + summarize objectives for item_3,item_3
+2025-09-17 08:09:34,analysis,outline value props and risks for item_3,item_3
+2025-09-17 08:09:34,data,define KPIs and freshness for BI,item_3
+2025-09-17 08:09:34,growth,prepare 3 posts + 10 DMs plan,item_3
+2025-09-17 08:09:34,pm,timeline + risk register,item_3
+2025-09-17 08:09:34,advisor,review blueprint and sign-off,item_3
+2025-09-17 08:09:34,research,skim + summarize objectives for item_4,item_4
+2025-09-17 08:09:34,analysis,outline value props and risks for item_4,item_4
+2025-09-17 08:09:35,data,define KPIs and freshness for BI,item_4
+2025-09-17 08:09:35,growth,prepare 3 posts + 10 DMs plan,item_4
+2025-09-17 08:09:35,pm,timeline + risk register,item_4
+2025-09-17 08:09:35,advisor,review blueprint and sign-off,item_4
+2025-09-17 08:09:35,research,skim + summarize objectives for item_5,item_5
+2025-09-17 08:09:35,analysis,outline value props and risks for item_5,item_5
+2025-09-17 08:09:35,data,define KPIs and freshness for BI,item_5
+2025-09-17 08:09:35,growth,prepare 3 posts + 10 DMs plan,item_5
+2025-09-17 08:09:35,pm,timeline + risk register,item_5
+2025-09-17 08:09:35,advisor,review blueprint and sign-off,item_5
+2025-09-17 08:09:35,research,skim + summarize objectives for item_6,item_6
+2025-09-17 08:09:35,analysis,outline value props and risks for item_6,item_6
+2025-09-17 08:09:35,data,define KPIs and freshness for BI,item_6
+2025-09-17 08:09:35,growth,prepare 3 posts + 10 DMs plan,item_6
+2025-09-17 08:09:35,pm,timeline + risk register,item_6
+2025-09-17 08:09:35,advisor,review blueprint and sign-off,item_6
+2025-09-17 08:09:35,research,skim + summarize objectives for item_7,item_7
+2025-09-17 08:09:35,analysis,outline value props and risks for item_7,item_7
+2025-09-17 08:09:35,data,define KPIs and freshness for BI,item_7
+2025-09-17 08:09:35,growth,prepare 3 posts + 10 DMs plan,item_7
+2025-09-17 08:09:36,pm,timeline + risk register,item_7
+2025-09-17 08:09:36,advisor,review blueprint and sign-off,item_7
+2025-09-17 08:09:36,research,skim + summarize objectives for item_8,item_8
+2025-09-17 08:09:36,analysis,outline value props and risks for item_8,item_8
+2025-09-17 08:09:36,data,define KPIs and freshness for BI,item_8
+2025-09-17 08:09:36,growth,prepare 3 posts + 10 DMs plan,item_8
+2025-09-17 08:09:36,pm,timeline + risk register,item_8
+2025-09-17 08:09:36,advisor,review blueprint and sign-off,item_8
+2025-09-17 08:09:36,research,skim + summarize objectives for item_9,item_9
+2025-09-17 08:09:36,analysis,outline value props and risks for item_9,item_9
+2025-09-17 08:09:36,data,define KPIs and freshness for BI,item_9
+2025-09-17 08:09:36,growth,prepare 3 posts + 10 DMs plan,item_9
+2025-09-17 08:09:36,pm,timeline + risk register,item_9
+2025-09-17 08:09:36,advisor,review blueprint and sign-off,item_9
+2025-09-17 08:09:36,research,skim + summarize objectives for item_10,item_10
+2025-09-17 08:09:36,analysis,outline value props and risks for item_10,item_10
+2025-09-17 08:09:36,data,define KPIs and freshness for BI,item_10
+2025-09-17 08:09:36,growth,prepare 3 posts + 10 DMs plan,item_10
+2025-09-17 08:09:36,pm,timeline + risk register,item_10
+2025-09-17 08:09:36,advisor,review blueprint and sign-off,item_10
+2025-09-17 08:09:37,research,skim + summarize objectives for item_11,item_11
+2025-09-17 08:09:37,analysis,outline value props and risks for item_11,item_11
+2025-09-17 08:09:37,data,define KPIs and freshness for BI,item_11
+2025-09-17 08:09:37,growth,prepare 3 posts + 10 DMs plan,item_11
+2025-09-17 08:09:37,pm,timeline + risk register,item_11
+2025-09-17 08:09:37,advisor,review blueprint and sign-off,item_11
+2025-09-17 08:09:37,research,skim + summarize objectives for item_12,item_12
+2025-09-17 08:09:37,analysis,outline value props and risks for item_12,item_12
+2025-09-17 08:09:37,data,define KPIs and freshness for BI,item_12
+2025-09-17 08:09:37,growth,prepare 3 posts + 10 DMs plan,item_12
+2025-09-17 08:09:37,pm,timeline + risk register,item_12
+2025-09-17 08:09:37,advisor,review blueprint and sign-off,item_12
+2025-09-17 08:09:37,research,skim + summarize objectives for item_13,item_13
+2025-09-17 08:09:37,analysis,outline value props and risks for item_13,item_13
+2025-09-17 08:09:37,data,define KPIs and freshness for BI,item_13
+2025-09-17 08:09:37,growth,prepare 3 posts + 10 DMs plan,item_13
+2025-09-17 08:09:37,pm,timeline + risk register,item_13
+2025-09-17 08:09:37,advisor,review blueprint and sign-off,item_13
+2025-09-17 08:09:37,research,skim + summarize objectives for item_14,item_14
+2025-09-17 08:09:37,analysis,outline value props and risks for item_14,item_14
+2025-09-17 08:09:38,data,define KPIs and freshness for BI,item_14
+2025-09-17 08:09:38,growth,prepare 3 posts + 10 DMs plan,item_14
+2025-09-17 08:09:38,pm,timeline + risk register,item_14
+2025-09-17 08:09:38,advisor,review blueprint and sign-off,item_14
+2025-09-17 08:09:38,research,skim + summarize objectives for item_15,item_15
+2025-09-17 08:09:38,analysis,outline value props and risks for item_15,item_15
+2025-09-17 08:09:38,data,define KPIs and freshness for BI,item_15
+2025-09-17 08:09:38,growth,prepare 3 posts + 10 DMs plan,item_15
+2025-09-17 08:09:38,pm,timeline + risk register,item_15
+2025-09-17 08:09:38,advisor,review blueprint and sign-off,item_15
+2025-09-17 08:09:38,research,skim + summarize objectives for item_16,item_16
+2025-09-17 08:09:38,analysis,outline value props and risks for item_16,item_16
+2025-09-17 08:09:38,data,define KPIs and freshness for BI,item_16
+2025-09-17 08:09:38,growth,prepare 3 posts + 10 DMs plan,item_16
+2025-09-17 08:09:38,pm,timeline + risk register,item_16
+2025-09-17 08:09:38,advisor,review blueprint and sign-off,item_16
+2025-09-17 08:09:38,research,skim + summarize objectives for item_17,item_17
+2025-09-17 08:09:38,analysis,outline value props and risks for item_17,item_17
+2025-09-17 08:09:38,data,define KPIs and freshness for BI,item_17
+2025-09-17 08:09:38,growth,prepare 3 posts + 10 DMs plan,item_17
+2025-09-17 08:09:40,pm,timeline + risk register,item_17
+2025-09-17 08:09:40,advisor,review blueprint and sign-off,item_17
+2025-09-17 08:09:40,research,skim + summarize objectives for item_18,item_18
+2025-09-17 08:09:40,analysis,outline value props and risks for item_18,item_18
+2025-09-17 08:09:40,data,define KPIs and freshness for BI,item_18
+2025-09-17 08:09:40,growth,prepare 3 posts + 10 DMs plan,item_18
+2025-09-17 08:09:40,pm,timeline + risk register,item_18
+2025-09-17 08:09:40,advisor,review blueprint and sign-off,item_18
+2025-09-17 08:09:40,research,skim + summarize objectives for item_19,item_19
+2025-09-17 08:09:40,analysis,outline value props and risks for item_19,item_19
+2025-09-17 08:09:40,data,define KPIs and freshness for BI,item_19
+2025-09-17 08:09:40,growth,prepare 3 posts + 10 DMs plan,item_19
+2025-09-17 08:09:40,pm,timeline + risk register,item_19
+2025-09-17 08:09:40,advisor,review blueprint and sign-off,item_19
+2025-09-17 08:09:40,research,skim + summarize objectives for item_20,item_20
+2025-09-17 08:09:40,analysis,outline value props and risks for item_20,item_20
+2025-09-17 08:09:40,data,define KPIs and freshness for BI,item_20
+2025-09-17 08:09:40,growth,prepare 3 posts + 10 DMs plan,item_20
+2025-09-17 08:09:40,pm,timeline + risk register,item_20
+2025-09-17 08:09:40,advisor,review blueprint and sign-off,item_20
+2025-09-17 08:09:41,research,skim + summarize objectives for item_21,item_21
+2025-09-17 08:09:41,analysis,outline value props and risks for item_21,item_21
+2025-09-17 08:09:41,data,define KPIs and freshness for BI,item_21
+2025-09-17 08:09:41,growth,prepare 3 posts + 10 DMs plan,item_21
+2025-09-17 08:09:41,pm,timeline + risk register,item_21
+2025-09-17 08:09:41,advisor,review blueprint and sign-off,item_21
+2025-09-17 08:09:41,research,skim + summarize objectives for item_22,item_22
+2025-09-17 08:09:41,analysis,outline value props and risks for item_22,item_22
+2025-09-17 08:09:41,data,define KPIs and freshness for BI,item_22
+2025-09-17 08:09:41,growth,prepare 3 posts + 10 DMs plan,item_22
+2025-09-17 08:09:41,pm,timeline + risk register,item_22
+2025-09-17 08:09:41,advisor,review blueprint and sign-off,item_22
+2025-09-17 08:09:41,research,skim + summarize objectives for item_23,item_23
+2025-09-17 08:09:41,analysis,outline value props and risks for item_23,item_23
+2025-09-17 08:09:41,data,define KPIs and freshness for BI,item_23
+2025-09-17 08:09:41,growth,prepare 3 posts + 10 DMs plan,item_23
+2025-09-17 08:09:41,pm,timeline + risk register,item_23
+2025-09-17 08:09:41,advisor,review blueprint and sign-off,item_23
+2025-09-17 08:09:41,research,skim + summarize objectives for item_24,item_24
+2025-09-17 08:09:41,analysis,outline value props and risks for item_24,item_24
+2025-09-17 08:09:42,data,define KPIs and freshness for BI,item_24
+2025-09-17 08:09:42,growth,prepare 3 posts + 10 DMs plan,item_24
+2025-09-17 08:09:42,pm,timeline + risk register,item_24
+2025-09-17 08:09:42,advisor,review blueprint and sign-off,item_24
+2025-09-17 08:09:42,research,skim + summarize objectives for item_25,item_25
+2025-09-17 08:09:42,analysis,outline value props and risks for item_25,item_25
+2025-09-17 08:09:42,data,define KPIs and freshness for BI,item_25
+2025-09-17 08:09:42,growth,prepare 3 posts + 10 DMs plan,item_25
+2025-09-17 08:09:42,pm,timeline + risk register,item_25
+2025-09-17 08:09:42,advisor,review blueprint and sign-off,item_25
+2025-09-17 08:09:42,research,skim + summarize objectives for item_26,item_26
+2025-09-17 08:09:42,analysis,outline value props and risks for item_26,item_26
+2025-09-17 08:09:42,data,define KPIs and freshness for BI,item_26
+2025-09-17 08:09:42,growth,prepare 3 posts + 10 DMs plan,item_26
+2025-09-17 08:09:42,pm,timeline + risk register,item_26
+2025-09-17 08:09:42,advisor,review blueprint and sign-off,item_26
+2025-09-17 08:09:42,research,skim + summarize objectives for item_27,item_27
+2025-09-17 08:09:42,analysis,outline value props and risks for item_27,item_27
+2025-09-17 08:09:42,data,define KPIs and freshness for BI,item_27
+2025-09-17 08:09:42,growth,prepare 3 posts + 10 DMs plan,item_27
+2025-09-17 08:09:43,pm,timeline + risk register,item_27
+2025-09-17 08:09:43,advisor,review blueprint and sign-off,item_27
+2025-09-17 08:09:43,research,skim + summarize objectives for item_28,item_28
+2025-09-17 08:09:43,analysis,outline value props and risks for item_28,item_28
+2025-09-17 08:09:43,data,define KPIs and freshness for BI,item_28
+2025-09-17 08:09:43,growth,prepare 3 posts + 10 DMs plan,item_28
+2025-09-17 08:09:43,pm,timeline + risk register,item_28
+2025-09-17 08:09:43,advisor,review blueprint and sign-off,item_28
+2025-09-17 08:09:43,research,skim + summarize objectives for item_29,item_29
+2025-09-17 08:09:43,analysis,outline value props and risks for item_29,item_29
+2025-09-17 08:09:43,data,define KPIs and freshness for BI,item_29
+2025-09-17 08:09:43,growth,prepare 3 posts + 10 DMs plan,item_29
+2025-09-17 08:09:43,pm,timeline + risk register,item_29
+2025-09-17 08:09:43,advisor,review blueprint and sign-off,item_29
+2025-09-17 08:09:43,research,skim + summarize objectives for item_30,item_30
+2025-09-17 08:09:43,analysis,outline value props and risks for item_30,item_30
+2025-09-17 08:09:43,data,define KPIs and freshness for BI,item_30
+2025-09-17 08:09:43,growth,prepare 3 posts + 10 DMs plan,item_30
+2025-09-17 08:09:43,pm,timeline + risk register,item_30
+2025-09-17 08:09:43,advisor,review blueprint and sign-off,item_30
+2025-09-17 08:09:44,research,skim + summarize objectives for item_31,item_31
+2025-09-17 08:09:44,analysis,outline value props and risks for item_31,item_31
+2025-09-17 08:09:44,data,define KPIs and freshness for BI,item_31
+2025-09-17 08:09:44,growth,prepare 3 posts + 10 DMs plan,item_31
+2025-09-17 08:09:44,pm,timeline + risk register,item_31
+2025-09-17 08:09:44,advisor,review blueprint and sign-off,item_31
+2025-09-17 08:09:44,research,skim + summarize objectives for item_32,item_32
+2025-09-17 08:09:44,analysis,outline value props and risks for item_32,item_32
+2025-09-17 08:09:44,data,define KPIs and freshness for BI,item_32
+2025-09-17 08:09:44,growth,prepare 3 posts + 10 DMs plan,item_32
+2025-09-17 08:09:44,pm,timeline + risk register,item_32
+2025-09-17 08:09:44,advisor,review blueprint and sign-off,item_32
+2025-09-17 08:09:44,research,skim + summarize objectives for item_33,item_33
+2025-09-17 08:09:44,analysis,outline value props and risks for item_33,item_33
+2025-09-17 08:09:44,data,define KPIs and freshness for BI,item_33
+2025-09-17 08:09:44,growth,prepare 3 posts + 10 DMs plan,item_33
+2025-09-17 08:09:44,pm,timeline + risk register,item_33
+2025-09-17 08:09:44,advisor,review blueprint and sign-off,item_33

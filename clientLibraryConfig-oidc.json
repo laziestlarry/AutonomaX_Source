@@ -1,0 +1,16 @@
+{
+  "universe_domain": "googleapis.com",
+  "type": "external_account",
+  "audience": "//iam.googleapis.com/projects/71658389068/locations/global/workloadIdentityPools/github-actions/providers/oidc",
+  "subject_token_type": "urn:ietf:params:oauth:token-type:jwt",
+  "token_url": "https://sts.googleapis.com/v1/token",
+  "service_account_impersonation_url": "https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/github-actions-deployer@propulse-autonomax.iam.gserviceaccount.com:generateAccessToken",
+  "credential_source": {
+    "url": "https://github.com/laziestlarry/AutonomaX_AI_Integration_Starter/",
+    "headers": {},
+    "format": {
+      "type": "json",
+      "subject_token_field_name": "access_token"
+    }
+  }
+}

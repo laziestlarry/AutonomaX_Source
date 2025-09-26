@@ -1,0 +1,12 @@
+tasks:
+  - name: blueprint
+    cmd: ./ops/generate_blueprint.sh repos repos 20
+  - name: intake
+    cmd: ./ops/intake_inventory.sh --filelist-glob 'repos/*.csv' --label repos
+  - name: team_evidence
+    cmd: ./ops/team_run_demo.sh
+    env:
+      CLOUD_RUN_URL: https://autonomax-api-71658389068.us-central1.run.app
+  - name: export_issues
+    cmd: ./ops/export_issues.sh json data_room/inventory/tasks.csv data_room/blueprints/exports
+

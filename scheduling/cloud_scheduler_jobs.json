@@ -1,0 +1,31 @@
+[
+  {
+    "name": "orders-nightly-backfill",
+    "schedule": "0 2 * * *",
+    "httpTarget": {
+      "uri": "https://autonomax-api-71658389068.us-central1.run.app/run/backfill/orders",
+      "httpMethod": "POST",
+      "oidcToken": {"serviceAccountEmail": "scheduler@propulse-autonomax.iam.gserviceaccount.com"}
+    }
+  },
+  {
+    "name": "products-nightly-backfill",
+    "schedule": "0 3 * * *",
+    "httpTarget": {
+      "uri": "https://autonomax-api-71658389068.us-central1.run.app/run/backfill/products",
+      "httpMethod": "POST",
+      "oidcToken": {"serviceAccountEmail": "scheduler@propulse-autonomax.iam.gserviceaccount.com"}
+    }
+  },
+  {
+    "name": "growth-lifecycle-daily",
+    "schedule": "0 9 * * *",
+    "httpTarget": {
+      "uri": "https://autonomax-api-71658389068.us-central1.run.app/ops/lifecycle/batch",
+      "httpMethod": "POST",
+      "oidcToken": {"serviceAccountEmail": "scheduler@propulse-autonomax.iam.gserviceaccount.com"},
+      "body": "eyAidXNlcnMiOiBbIHsiaWQiOiAiZGVmYXVsdCIsICJzdGFnZSI6ICJjaHVybl9yaXNrIiB9IF0gfQ==",
+      "headers": {"Content-Type": "application/json"}
+    }
+  }
+]

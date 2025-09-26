@@ -1,0 +1,24 @@
+service: autonomax
+slos:
+  - name: api-availability
+    objective: 99.9
+    window_days: 30
+    indicator:
+      type: availability
+      good: http_2xx
+      bad: http_5xx
+  - name: latency-p95
+    objective: 95
+    window_days: 30
+    indicator:
+      type: latency
+      threshold_ms: 500
+  - name: data-freshness-orders
+    objective: 99
+    window_days: 30
+    indicator:
+      type: freshness
+      table: bigquery.autonomax_analytics.orders
+      warn_minutes: 30
+      page_minutes: 60
+      sev2_minutes: 120

@@ -1,0 +1,13 @@
+
+.git
+__pycache__/
+*.pyc
+.venv
+.env
+node_modules
+data/
+analytics/
+.DS_Store
+*.log
+*.tgz
+*.zip

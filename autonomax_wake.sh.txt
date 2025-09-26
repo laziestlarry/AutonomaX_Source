@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+PROJECT="propulse-autonomax"
+REGION="us-central1"
+SERVICE="autonomax-api"
+
+echo "== WAKE MODE for $PROJECT / $SERVICE =="
+
+gcloud config set project "$PROJECT" >/dev/null
+
+echo "[1/3] Restore Cloud Run to sane defaults for work sessions"
+gcloud run services update "$SERVICE" \
+  --region="$REGION" \
+  --platform=managed \
+  --cpu=1 \
+  --memory=512Mi \
+  --concurrency=120 \
+  --max-instances=3 \
+  --timeout=120 \
+  --min-instances=0 || echo "   (warn) update flags not fully supported; continue"
+
+# If you want to allow public calls again, uncomment next line:
+# gcloud run services update "$SERVICE" --region="$REGION" --platform=managed --allow-unauthenticated
+
+echo "[2/3] Unpause only the jobs you actually need"
+for job in orders-nightly-backfill products-nightly-backfill retrainAiOpsDaily syncShopifyDaily syncShortsDaily weeklyStrategyLoop; do
+  echo " - (choose manually) gcloud scheduler jobs resume $job --location=$REGION"
+done
+
+echo "[3/3] Show status"
+gcloud run services describe "$SERVICE" --region="$REGION" --platform=managed | sed -n '1,140p'
+gcloud scheduler jobs list --location="$REGION"
+echo "== Wake completed. Resume individual jobs as needed. =="

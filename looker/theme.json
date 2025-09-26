@@ -1,0 +1,18 @@
+{
+  "name": "AutonomaX Executive",
+  "palette": {
+    "primary": "#0F766E",
+    "secondary": "#1F2937",
+    "accent": "#A7F3D0",
+    "text": "#111827",
+    "muted": "#6B7280",
+    "danger": "#EF4444"
+  },
+  "layout": {
+    "page_margin": 16,
+    "card_radius": 12,
+    "grid_gap": 12,
+    "title_size": 24,
+    "label_size": 12
+  }
+}

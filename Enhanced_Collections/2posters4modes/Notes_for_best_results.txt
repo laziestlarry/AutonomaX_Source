@@ -1,0 +1,7 @@
+Notes for best results
+
+Titles/subtitles are rendered on the poster for brand feel; you can toggle that by editing title_block() (or set title="" / subtitle="" per item if you want art-only versions, then keep titles in Shopify metadata only).
+
+Exported print masters are 300 DPI at multiple aspect ratios (A4, 4×5, 3×4, 2×3, 16×20 in) with safe margins and subtle textures for a premium feel.
+
+API products are created as draft with TRY pricing (you can change --price_try per run).

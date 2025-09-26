@@ -1,0 +1,13 @@
+id,name,owner,rank,status,definition,resources,success_criteria
+T1,Secrets Setup,DevOps,1,Todo,Create secrets & bind to Cloud Run,SRE1 (4h),Meets tests + SLAs
+T2,Cloud Run Deploy,DevOps,1,Todo,Deploy API and verify /health,SRE1 (4h),Meets tests + SLAs
+T3,Webhooks Registration,Backend,2,Todo,Register Shopify webhooks,BE1 (4h),Meets tests + SLAs
+T4,Backfill Products,DataEng,2,Todo,Bulk products -> BigQuery,DE1 (6h),Meets tests + SLAs
+T5,Backfill Orders,DataEng,2,Todo,Bulk orders -> BigQuery,DE1 (6h),Meets tests + SLAs
+T6,Create Views,DataEng,2,Todo,Create v_shopify_* views,DE1 (3h),Meets tests + SLAs
+T7,Looker Report,Frontend,3,Todo,Build & share template,FE1 (6h),Meets tests + SLAs
+T8,Schedulers,DevOps,2,Todo,Nightly cron jobs,SRE1 (3h),Meets tests + SLAs
+T9,Slack/Jira Alerts,QA,2,Todo,Test HMAC + cron alerts,QA1 (3h),Meets tests + SLAs
+T10,UAT Flows,QA,3,Todo,Order→Fulfillment→Refund,QA1 (6h),Meets tests + SLAs
+T11,Go/No-Go,PM,1,Todo,Executive sign-off,PM (2h),Meets tests + SLAs
+T12,SLO Tuning,MLE,3,Todo,Adjust thresholds & alerts,MLE1 (8h),Meets tests + SLAs

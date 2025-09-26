@@ -1,0 +1,34 @@
+Category,Filename,Purpose,Probable Local Path
+Core Application,main.py,"Flask entrypoint (Shopify, chatbot, analytics integrations)",/Users/pq/AutonomaX_.../app/main.py
+Core Application,commander.py,ExecPack / Commander orchestration logic,/.../AutonomaX_Commander_ExecPack/
+Core Application,server.js,Node.js Commander API server,/.../autonoms_commander_app_fullstack_updated/
+Core Application,analytics_dashboard_fixed.py,Streamlit dashboard,/Users/pq/.../dashboard/
+Config & Deployment,.env,"Tokens, API keys, secrets",project roots (hidden file)
+Config & Deployment,deploy.sh,Automation CLI script,/AutonomaX_Studio/
+Config & Deployment,.github/workflows/deploy.yml,GitHub Actions CI/CD,repo root
+Config & Deployment,cloudbuild.yaml,GCP build config,repo root
+Config & Deployment,firebase.json,Frontend hosting config,repo root
+Config & Deployment,firebase.config.js,Firebase setup,repo root
+Config & Deployment,requirements.txt,Python deps,repo root
+Config & Deployment,package.json,Node deps,repo root
+Product & Sync,shopify_sync.py,CLI product push script,/AutonomaX_Studio/
+Product & Sync,shopify/products.csv,Shopify import feed,/shopify/
+Product & Sync,etsy_commander_bundle.zip,Etsy automation bundle,archive folder
+Product & Sync,commander_import_samples.zip,Sample import data,archive folder
+Product & Sync,autosync/*.py,Amazon/eBay sync scripts,/autosync/
+Product & Sync,flows/*.flow,Shopify Flow automations,/flows/
+Creative & Delivery,/videos/,"Fiverr intro, Lazy Larry, YouTube demo videos",/AutonomaX_Studio/videos/
+Creative & Delivery,/fiverr/gig.md,Fiverr gig description,/fiverr/
+Creative & Delivery,/fiverr/thumbnail.png,Fiverr gig thumbnail,/fiverr/
+Creative & Delivery,LeadMagnet_LazyLarry.pdf,Free lead magnet PDF,/fiverr/
+Creative & Delivery,/landing/index.html,Funnel landing page,/landing/
+Data & Analytics,205_strategies.json,AI Commander monetization strategies,/knowledge_base/
+Data & Analytics,commander_knowledge_base/,Knowledge packs,/.../commander_knowledge_base/
+Data & Analytics,analytics/looker_template.json,Looker Studio connector,/analytics/
+Data & Analytics,scripts/make_products_from_yaml.py,Product generator script,/scripts/
+Data & Analytics,scripts/scheduler_setup.sh,GCP Scheduler setup,/scripts/
+Intelligence Modules,commander_intelligence_server.zip,Intelligence server package,archives
+Intelligence Modules,commander_knowledge_base.zip,Packaged knowledge base,archives
+Intelligence Modules,Brain_modules.zip,Neural/logic modules,archives
+Intelligence Modules,knowldg.zip,Knowledge dump,archives
+Intelligence Modules,Cognosystemized.txt,Conceptual/strategy text,archives

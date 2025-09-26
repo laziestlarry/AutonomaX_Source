@@ -1,0 +1,14 @@
+defaults:
+  provider: openai
+  model: gpt-4o-mini
+  temperature: 0.3
+  max_tokens: 4096
+rules:
+  - match: ["finance","executive","customer_service"]
+    provider: openai
+    model: gpt-4o-mini
+    temperature: 0.2
+  - match: ["draft","brainstorm","bulk"]
+    provider: ollama
+    model: llama3.1
+    temperature: 0.5

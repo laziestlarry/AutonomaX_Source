@@ -1,0 +1,2 @@
+/buy      {{PAYONEER_CHECKOUT_URL}}    302
+/invoice  mailto:{{YOUR_PAYONEER_EMAIL}}   302

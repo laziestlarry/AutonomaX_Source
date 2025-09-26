@@ -1,0 +1,16 @@
+[
+  {
+    "id": "S-001",
+    "name": "Activate Revenue Sprint",
+    "pillar": "Growth",
+    "summary": "Deploy Payoneer lander + fulfillment automation to unlock fast revenue cycles.",
+    "status": "draft"
+  },
+  {
+    "id": "S-002",
+    "name": "Commander Intelligence",
+    "pillar": "Automation",
+    "summary": "Restore knowledge packs and mission agents to accelerate delivery.",
+    "status": "backlog"
+  }
+]

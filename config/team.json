@@ -1,0 +1,29 @@
+{
+  "updated_at": "2025-09-17T08:00:00Z",
+  "members": [
+    {
+      "name": "Avery",
+      "role": "Program Lead",
+      "focus": "Aligns AutonomaX roadmap with client outcomes",
+      "status": "active"
+    },
+    {
+      "name": "Riley",
+      "role": "Engineering",
+      "focus": "Maintains orchestrator + Cloud Run services",
+      "status": "active"
+    },
+    {
+      "name": "Morgan",
+      "role": "Growth",
+      "focus": "Lifecycle automation, partner pilots, revenue sprint",
+      "status": "active"
+    },
+    {
+      "name": "Jordan",
+      "role": "Customer Success",
+      "focus": "Evidence packaging, fulfillment, client comms",
+      "status": "supporting"
+    }
+  ]
+}

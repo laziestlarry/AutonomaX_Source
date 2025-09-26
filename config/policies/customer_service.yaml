@@ -1,0 +1,11 @@
+enabled: true
+use_guardrails_first: true
+blocked_words:
+  - forbidden_term
+blocked_patterns:
+  - "(?i)hack\\s*tool"
+max_input_chars: 4000
+mask_pii: true
+pii_email: true
+pii_phone: true
+violation_response: "Mesajınızda politika ihlali tespit ettim: {violations}"

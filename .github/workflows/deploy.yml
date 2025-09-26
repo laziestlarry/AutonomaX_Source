@@ -1,0 +1,82 @@
+name: Deploy to Cloud Run
+
+on:
+  workflow_dispatch:
+    inputs:
+      project_id:
+        description: GCP Project ID
+        required: true
+        default: propulse-autonomax
+      service_name:
+        description: Cloud Run service name
+        required: true
+        default: autonomax-api
+      region:
+        description: GCP region
+        required: true
+        default: us-central1
+      image:
+        description: Full image name (gcr.io/PROJECT/IMAGE)
+        required: true
+        default: gcr.io/propulse-autonomax/autonomax-api
+      use_wif:
+        description: Use Workload Identity Federation auth (true/false)
+        required: false
+        default: "false"
+
+concurrency:
+  group: deploy-${{ github.ref_name }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  id-token: write # required for WIF if enabled
+
+jobs:
+  deploy:
+    # To run on a self-hosted Mac, replace with: runs-on: self-hosted
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Auth (WIF)
+        if: ${{ inputs.use_wif == 'true' }}
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.WIF_PROVIDER }}
+          service_account: ${{ secrets.WIF_SERVICE_ACCOUNT }}
+
+      - name: Auth (Service Account Key)
+        if: ${{ inputs.use_wif != 'true' }}
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Setup gcloud
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Set project
+        run: gcloud config set project "${{ inputs.project_id }}"
+
+      - name: Deploy via Cloud Build (cost-optimized flags in config)
+        run: |
+          gcloud builds submit \
+            --project="${{ inputs.project_id }}" \
+            --config infra/gcp/cloudbuild.yaml \
+            --substitutions=_SERVICE_NAME="${{ inputs.service_name }}",_REGION="${{ inputs.region }}",_IMAGE="${{ inputs.image }}"
+
+      - name: Resolve service URL
+        id: url
+        run: |
+          URL=$(gcloud run services describe "${{ inputs.service_name }}" --platform=managed --region="${{ inputs.region }}" --format='value(status.url)')
+          echo "service_url=$URL" >> "$GITHUB_OUTPUT"
+
+      - name: Smoke test /health
+        run: curl -fsS "${{ steps.url.outputs.service_url }}/health" | jq .
+
+      - name: Summary
+        run: |
+          echo "Deployed ${{ inputs.service_name }} to ${{ inputs.region }} in ${{ inputs.project_id }}" >> $GITHUB_STEP_SUMMARY
+          echo "URL: ${{ steps.url.outputs.service_url }}" >> $GITHUB_STEP_SUMMARY
+

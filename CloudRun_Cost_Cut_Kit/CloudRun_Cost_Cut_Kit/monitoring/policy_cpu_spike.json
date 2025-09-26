@@ -1,0 +1,17 @@
+{
+  "displayName": "Cloud Run CPU spike \u2014 protect TRY spend",
+  "documentation": {
+    "content": "Alerts when CPU usage spikes above recent baseline. Tune thresholds after 48h.",
+    "mimeType": "text/markdown"
+  },
+  "combiner": "OR",
+  "conditions": [
+    {
+      "displayName": "vCPU usage_time above threshold",
+      "conditionMonitoringQueryLanguage": {
+        "query": "\nfetch cloud_run_revision\n| metric 'run.googleapis.com/container/cpu/usage_time'\n| group_by 1m, [value_usage_time_aggregate: aggregate(value.usage_time)]\n| group_by [resource.project_id, resource.service_name, resource.location], [value_usage_time_aggregate_aggregate: aggregate(value_usage_time_aggregate)]\n| condition gt(val(), 300)    # >300 vCPU-seconds per minute across service; adjust\n"
+      }
+    }
+  ],
+  "notificationChannels": []
+}

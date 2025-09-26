@@ -1,0 +1,22 @@
+# Local-first pipeline configuration (example)
+
+label: repos
+blueprint:
+  top: 20
+  sources:
+    # Explicit files are processed; leave 'dir' empty to prioritize this list
+    files:
+      - repos/AutonomaX_Master_Index.csv
+      - repos/urgent_commercialization.csv
+      - repos/marketing_support.csv
+      - repos/productization_laneA.csv
+    dir: ""
+intake:
+  filelist_glob: 'repos/*.csv'
+  label: repos
+upload:
+  gcs_prefix: gs://YOUR_BUCKET/autonomax
+  paths:
+    - data_room/inventory
+    - data_room/blueprints
+    - revenue_sprint_lite_payoneer/delivery

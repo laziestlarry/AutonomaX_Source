@@ -1,0 +1,18 @@
+{
+  "displayName": "Daily cost anomaly (template) \u2014 TRY",
+  "documentation": {
+    "content": "Requires Billing Export to BigQuery: replace with a Logs-based or BigQuery-based alert.",
+    "mimeType": "text/markdown"
+  },
+  "combiner": "OR",
+  "conditions": [
+    {
+      "displayName": "Cost anomaly placeholder",
+      "conditionAbsent": {
+        "duration": "0s",
+        "filter": "metric.type=\"billing.googleapis.com/cost\""
+      }
+    }
+  ],
+  "notificationChannels": []
+}

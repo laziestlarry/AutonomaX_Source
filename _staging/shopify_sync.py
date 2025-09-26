@@ -1,0 +1,1 @@
+/Users/pq/AutonomaX_AI_Integration_Starter_v11_full/shopify/shopify_sync.py

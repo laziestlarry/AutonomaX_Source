@@ -1,0 +1,42 @@
+# Files/directories to exclude from Cloud Build source upload
+
+# VCS, envs, caches
+.git
+**/__pycache__/
+*.pyc
+.venv
+.env
+.cache/
+
+# Node/build artifacts
+node_modules
+dist
+build
+
+# Local data and evidence (not needed in API image)
+data/**
+data_room/**
+revenue_sprint_lite_payoneer/delivery/**
+
+# Large binaries/media (keep the image small and upload fast)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.flac
+*.psd
+*.ai
+*.sketch
+*.zip
+*.tar
+*.tar.gz
+
+# OS cruft
+.DS_Store
+
+# Local repo intake lists and archives (not needed by API runtime)
+repos/**
+
+# Do NOT ignore source code and config; everything else remains included by default

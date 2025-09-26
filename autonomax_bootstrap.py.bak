@@ -1,0 +1,106 @@
+#!/usr/bin/env python3
+import csv, json, argparse, os, sys, pathlib, shutil
+from typing import List
+
+def read_csv(csv_path: str):
+    rows = []
+    with open(csv_path, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            row = {k.lower().strip(): (v or "") for k, v in r.items()}
+            rows.append(row)
+    return rows
+
+def parse_paths(cell: str) -> List[str]:
+    if not cell:
+        return []
+    parts = [p.strip() for p in cell.split("|")]
+    return [p for p in parts if p]
+
+def ensure_symlink(target: str, link_path: str):
+    try:
+        if os.path.islink(link_path) or os.path.exists(link_path):
+            try:
+                os.remove(link_path)
+            except IsADirectoryError:
+                shutil.rmtree(link_path)
+        os.symlink(target, link_path)
+        return True, ""
+    except Exception as e:
+        return False, str(e)
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--csv", required=True, help="Path to Master Index CSV (found or original)")
+    ap.add_argument("--project-root", required=True, help="Repo root (current project)")
+    ap.add_argument("--no-symlinks", action="store_true", help="Do not create _staging symlinks")
+    args = ap.parse_args()
+
+    project_root = pathlib.Path(args.project_root).resolve()
+    work_dir = project_root / "_autonomax"
+    staging_dir = project_root / "_staging"
+    work_dir.mkdir(parents=True, exist_ok=True)
+    staging_dir.mkdir(parents=True, exist_ok=True)
+
+    rows = read_csv(args.csv)
+
+    manifest = {"project_root": str(project_root), "entries": []}
+
+    for raw in rows:
+        filename = raw.get("filename") or raw.get("file") or raw.get("name") or raw.get("filename / folder") or raw.get("filename/folder") or ""
+        filename = filename.strip()
+        found = (raw.get("found") or "").strip().lower()
+        paths_cell = raw.get("paths") or raw.get("path") or ""
+        probable = raw.get("probable local path") or raw.get("probable_path") or ""
+        p_list = parse_paths(paths_cell)
+
+        entry = {
+            "filename": filename,
+            "found": found if found in ("yes","no") else ("yes" if p_list else "unknown"),
+            "candidate_paths": p_list,
+            "probable_path_hint": probable,
+            "chosen_path": None,
+            "in_repo": False,
+            "symlink": None,
+        }
+
+        # Prefer a path inside project
+        candidate_under_repo = (project_root / filename)
+        if candidate_under_repo.exists():
+            entry["chosen_path"] = str(candidate_under_repo)
+        else:
+            for p in p_list:
+                if os.path.exists(p):
+                    entry["chosen_path"] = p
+                    break
+
+        # Create symlink
+        if entry["chosen_path"] and not args.no_symlinks:
+            safe_name = filename.replace("/", "__").replace("*","_star_")
+            dest = staging_dir / safe_name
+            ok, err = ensure_symlink(entry["chosen_path"], str(dest))
+            entry["symlink"] = str(dest) if ok else f"ERROR: {err}"
+            entry["in_repo"] = str(project_root) in entry["chosen_path"]
+
+        manifest["entries"].append(entry)
+
+    # Write manifest + report
+    manifest_path = work_dir / "manifest.json"
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
+
+    ok = sum(1 for e in manifest["entries"] if e["chosen_path"])
+    miss = [e["filename"] for e in manifest["entries"] if not e["chosen_path"]]
+
+    report_path = work_dir / "report.md"
+    report_path.write_text("\n".join(report_lines), encoding="utf-8")
+
+    print(f"Manifest: {manifest_path}")
+    print(f"Report:   {report_path}")
+    report_path = work_dir / "report.md"
+    report_path.write_text("\n".join(report_lines), encoding="utf-8")
+
+    print(f"Manifest: {manifest_path}")
+    print(f"Report:   {report_path}")
+    if miss:
+        print(f"Missing {len(miss)} entries. See report for details.")

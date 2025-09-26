@@ -1,0 +1,139 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1 class="mb-4">Dashboard</h1>
+
+<!-- Summary cards -->
+<div class="row row-cols-1 row-cols-md-3 g-4 mb-4">
+  <div class="col">
+    <div class="card h-100 text-center border-primary">
+      <div class="card-body">
+        <h5 class="card-title">Total Tasks</h5>
+        <p class="display-5 fw-bold text-primary">{{ total_tasks }}</p>
+        <p class="card-text">Tasks currently in the system.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 text-center border-success">
+      <div class="card-body">
+        <h5 class="card-title">Processed Tasks</h5>
+        <p class="display-5 fw-bold text-success">{{ processed_tasks }}</p>
+        <p class="card-text">Tasks that have been summarised.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 text-center border-warning">
+      <div class="card-body">
+        <h5 class="card-title">Local Files</h5>
+        <p class="display-5 fw-bold text-warning">{{ processed_local }}/{{ total_local }}</p>
+        <p class="card-text">Local files processed/total.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 text-center border-info">
+      <div class="card-body">
+        <h5 class="card-title">Results Generated</h5>
+        <p class="display-5 fw-bold text-info">{{ total_results }}</p>
+        <p class="card-text">AI summaries and recommendations.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 text-center border-secondary">
+      <div class="card-body">
+        <h5 class="card-title">Approved Results</h5>
+        <p class="display-5 fw-bold text-secondary">{{ approved_results }}</p>
+        <p class="card-text">Recommendations accepted by you.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Top tasks -->
+<h2 class="mt-4">Top Unprocessed Tasks</h2>
+{% if top_tasks %}
+  <div class="table-responsive">
+    <table class="table table-striped table-hover">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Title</th>
+          <th>Company</th>
+          <th>Score</th>
+          <th>Added</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for task in top_tasks %}
+          <tr>
+            <td>{{ task.id }}</td>
+            <td>{{ task.title }}</td>
+            <td>{{ task.company }}</td>
+            <td>{{ task.score }}</td>
+            <td>{{ task.created_at.strftime('%Y-%m-%d %H:%M') }}</td>
+            <td><a href="{{ url_for('task_detail', task_id=task.id) }}" class="btn btn-sm btn-outline-primary">View</a></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p>No unprocessed tasks at the moment. Come back later!</p>
+{% endif %}
+
+<!-- Recent results -->
+<h2 class="mt-5">Recent Recommendations</h2>
+{% if recent_results %}
+  <div class="table-responsive">
+    <table class="table table-striped table-hover">
+      <thead>
+        <tr>
+          <th>Task</th>
+          <th>Summary</th>
+          <th>Recommendation</th>
+          <th>Approved</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for res, task in recent_results %}
+          <tr>
+            <td><a href="{{ url_for('task_detail', task_id=task.id) }}">{{ task.title }}</a></td>
+            <td>{{ res.summary[:80] }}{% if res.summary|length > 80 %}…{% endif %}</td>
+            <td>{{ res.recommendation[:80] }}{% if res.recommendation and res.recommendation|length > 80 %}…{% endif %}</td>
+            <td>{% if res.approved %}<span class="badge bg-success">Yes</span>{% else %}<span class="badge bg-secondary">No</span>{% endif %}</td>
+            <td>
+              {% if not res.approved %}
+                <a href="{{ url_for('approve', result_id=res.id) }}" class="btn btn-sm btn-outline-success">Approve</a>
+              {% else %}
+                <a href="{{ url_for('unapprove', result_id=res.id) }}" class="btn btn-sm btn-outline-warning">Unapprove</a>
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p>No recommendations generated yet.</p>
+{% endif %}
+
+<!-- Top Terms from Local Documents -->
+<h2 class="mt-5">Top Terms from Local Documents</h2>
+{% if top_terms %}
+  <ul class="list-group list-group-flush">
+    {% for term, count in top_terms %}
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <span>{{ term }}</span>
+        <span class="badge bg-primary rounded-pill">{{ count }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No processed local documents yet.</p>
+{% endif %}
+
+{% endblock %}

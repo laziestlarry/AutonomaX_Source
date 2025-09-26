@@ -1,0 +1,15 @@
+== TEAM RUN DEMO ==
+Service: https://autonomax-api-lenljbhrqq-uc.a.run.app
+--- /ready ---
+{"status":"ready","checks":{"env":"prod"}}
+--- Trigger backfills (orders/products) ---
+{"ok":true,"job":"orders_backfill_triggered"}
+{"ok":true,"job":"products_backfill_triggered"}
+--- Lifecycle batch (sample users) ---
+{"users":2,"actions_executed":4,"results":[{"user":"demo-user-1","executed":2},{"user":"demo-user-2","executed":2}],"request_id":"d63975c5-0aab-4bbd-a5bd-b024b5ed5dc3"}
+--- BI KPIs ---
+{"date":"2025-09-15","revenue":{"today":0.0,"7d":0.0,"28d":0.0},"orders":{"today":0,"7d":0,"28d":0},"aov":{"today":0.0,"28d":0.0},"retention":{"d30":0.0,"d90":0.0},"conversion_rate":{"28d":0.0}}
+--- Strategy Objectives ---
+{"company":"AutonomaX","quarter":"Q3","objectives":[{"name":"Stabilize data pipelines & SLA","key_results":[{"name":"<1% failed jobs/week","target":0.99},{"name":"P95 < 400ms /health","target":0.4}]},{"name":"Grow recurring revenue","key_results":[{"name":"+20% 28d revenue","target":1.2},{"name":"+10% retention D30","target":1.1}]}]}
+--- Marketing Suggestions ---
+{"suggestions":[{"name":"Email upsell to returning","budget":200.0,"kpi":"revenue","cta":"Bundle & save","copy_hint":"Limited-time bundle offer ends Sunday"},{"name":"UGC push","budget":100.0,"kpi":"engagement","cta":"Share your setup","copy_hint":"Feature customers weekly on IG/TikTok"}]}
