@@ -8,10 +8,13 @@
     "deploy": "npm run build && netlify deploy --prod"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "dotenv": "^17.2.2",
     "drizzle-orm": "^0.44.5",
     "netlify-cli": "^17.0.0",
-    "pg": "^8.16.3"
+    "pg": "^8.16.3",
+    "swr": "^2.2.5",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/pg": "^8.15.5",
