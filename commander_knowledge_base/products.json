@@ -1,0 +1,21 @@
+[
+  {
+    "product_name": "AI Content Starter Pack Service",
+    "Product_Manager": "Commander-1",
+    "launch_year": 2025,
+    "Target_Launch_Date": "2025-05-20",
+    "Actual_Launch_Date": "",
+    "Brand": "Propulse",
+    "Product_Type": "Digital Service",
+    "Budget": 10000,
+    "SKU_Count": 5,
+    "Objective": "Launch Digital Services",
+    "Worth": 25000,
+    "Sales": 0,
+    "Director": "Commander-Board",
+    "approval_status": "approved",
+    "Product_Plan": "Phase 1 Launch",
+    "Percent_Complete": 5,
+    "Notes": "Strategic Priority"
+  }
+]
