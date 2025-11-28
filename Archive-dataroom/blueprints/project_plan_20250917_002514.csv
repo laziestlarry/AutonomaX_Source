@@ -1,0 +1,123 @@
+ts,role,task,phase,priority,ref
+2025-09-17 00:25:14,research,skim + summarize objectives for Payoneer Lander Polishing,P1 – MVP Integration,1,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,analysis,outline value props and risks for Payoneer Lander Polishing,P1 – MVP Integration,1,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,1,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,1,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,1,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,1,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,research,skim + summarize objectives for LaziestLarry Core (placeholder),P0 – Intake & Triage,2,https://github.com/laziestlarry/core
+2025-09-17 00:25:14,analysis,outline value props and risks for LaziestLarry Core (placeholder),P0 – Intake & Triage,2,https://github.com/laziestlarry/core
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P0 – Intake & Triage,2,https://github.com/laziestlarry/core
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P0 – Intake & Triage,2,https://github.com/laziestlarry/core
+2025-09-17 00:25:14,pm,timeline + risk register,P0 – Intake & Triage,2,https://github.com/laziestlarry/core
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P0 – Intake & Triage,2,https://github.com/laziestlarry/core
+2025-09-17 00:25:14,research,skim + summarize objectives for Zen Printables Catalog (placeholder),P1 – MVP Integration,3,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 00:25:14,analysis,outline value props and risks for Zen Printables Catalog (placeholder),P1 – MVP Integration,3,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,3,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,3,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,3,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,3,https://drive.google.com/drive/folders/PRINTABLES-ID
+2025-09-17 00:25:14,research,skim + summarize objectives for Fulfillment Evidence Script,P1 – MVP Integration,4,ops/team_run_demo.sh
+2025-09-17 00:25:14,analysis,outline value props and risks for Fulfillment Evidence Script,P1 – MVP Integration,4,ops/team_run_demo.sh
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,4,ops/team_run_demo.sh
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,4,ops/team_run_demo.sh
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,4,ops/team_run_demo.sh
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,4,ops/team_run_demo.sh
+2025-09-17 00:25:14,research,skim + summarize objectives for Shopify→BQ Orders Backfill,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,analysis,outline value props and risks for Shopify→BQ Orders Backfill,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,dev,wire Shopify backfills to BQ + /bi,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,5,analytics/backfill/orders_bulk.py
+2025-09-17 00:25:14,research,skim + summarize objectives for BI KPIs from BQ,P1 – MVP Integration,6,analytics/bi.py
+2025-09-17 00:25:14,analysis,outline value props and risks for BI KPIs from BQ,P1 – MVP Integration,6,analytics/bi.py
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,6,analytics/bi.py
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,6,analytics/bi.py
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,6,analytics/bi.py
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,6,analytics/bi.py
+2025-09-17 00:25:14,research,skim + summarize objectives for Checkout CTA via Payoneer,P1 – MVP Integration,7,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,analysis,outline value props and risks for Checkout CTA via Payoneer,P1 – MVP Integration,7,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,7,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,7,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,7,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,7,revenue_sprint_lite_payoneer/landing/index.html
+2025-09-17 00:25:14,research,skim + summarize objectives for Deploy + Scheduler Bootstrap,P1 – MVP Integration,8,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 00:25:14,analysis,outline value props and risks for Deploy + Scheduler Bootstrap,P1 – MVP Integration,8,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,8,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,8,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,8,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,8,ops/deploy_ship_and_bootstrap.sh
+2025-09-17 00:25:14,research,skim + summarize objectives for Shopify→BQ Products Backfill,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,analysis,outline value props and risks for Shopify→BQ Products Backfill,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,dev,wire Shopify backfills to BQ + /bi,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,9,analytics/backfill/products_bulk.py
+2025-09-17 00:25:14,research,skim + summarize objectives for LaziestLarry Content (placeholder),P1 – MVP Integration,10,https://github.com/laziestlarry/content
+2025-09-17 00:25:14,analysis,outline value props and risks for LaziestLarry Content (placeholder),P1 – MVP Integration,10,https://github.com/laziestlarry/content
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,10,https://github.com/laziestlarry/content
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,10,https://github.com/laziestlarry/content
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,10,https://github.com/laziestlarry/content
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,10,https://github.com/laziestlarry/content
+2025-09-17 00:25:14,research,skim + summarize objectives for Social Scripts (starter),P1 – MVP Integration,11,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,analysis,outline value props and risks for Social Scripts (starter),P1 – MVP Integration,11,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,11,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,11,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,11,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,11,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,research,skim + summarize objectives for Digital Delivery Evidence,P1 – MVP Integration,12,ops/team_run_demo.sh
+2025-09-17 00:25:14,analysis,outline value props and risks for Digital Delivery Evidence,P1 – MVP Integration,12,ops/team_run_demo.sh
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,12,ops/team_run_demo.sh
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,12,ops/team_run_demo.sh
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,12,ops/team_run_demo.sh
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,12,ops/team_run_demo.sh
+2025-09-17 00:25:14,research,skim + summarize objectives for Dashboard Signals,P1 – MVP Integration,13,apps/dashboard/app.py
+2025-09-17 00:25:14,analysis,outline value props and risks for Dashboard Signals,P1 – MVP Integration,13,apps/dashboard/app.py
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,13,apps/dashboard/app.py
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,13,apps/dashboard/app.py
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,13,apps/dashboard/app.py
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,13,apps/dashboard/app.py
+2025-09-17 00:25:14,research,skim + summarize objectives for YouTube Shorts Pack (placeholder),P1 – MVP Integration,14,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 00:25:14,analysis,outline value props and risks for YouTube Shorts Pack (placeholder),P1 – MVP Integration,14,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,14,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,14,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,14,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,14,https://drive.google.com/drive/folders/YT-SHORTS-ID
+2025-09-17 00:25:14,research,skim + summarize objectives for BI KPIs to Dashboard,P1 – MVP Integration,15,apps/dashboard/app.py
+2025-09-17 00:25:14,analysis,outline value props and risks for BI KPIs to Dashboard,P1 – MVP Integration,15,apps/dashboard/app.py
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,15,apps/dashboard/app.py
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,15,apps/dashboard/app.py
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,15,apps/dashboard/app.py
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,15,apps/dashboard/app.py
+2025-09-17 00:25:14,research,skim + summarize objectives for Brand Kit (placeholder),P1 – MVP Integration,16,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 00:25:14,analysis,outline value props and risks for Brand Kit (placeholder),P1 – MVP Integration,16,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,16,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,16,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,16,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,16,https://drive.google.com/drive/folders/BRAND-KIT-ID
+2025-09-17 00:25:14,research,skim + summarize objectives for Issue Export to Tracker,P1 – MVP Integration,17,ops/export_issues.sh
+2025-09-17 00:25:14,analysis,outline value props and risks for Issue Export to Tracker,P1 – MVP Integration,17,ops/export_issues.sh
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,17,ops/export_issues.sh
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,17,ops/export_issues.sh
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,17,ops/export_issues.sh
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,17,ops/export_issues.sh
+2025-09-17 00:25:14,research,skim + summarize objectives for Fiverr Gigs,P1 – MVP Integration,18,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 00:25:14,analysis,outline value props and risks for Fiverr Gigs,P1 – MVP Integration,18,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,18,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,18,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,18,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,18,revenue_sprint_lite_payoneer/fiverr/gig.md
+2025-09-17 00:25:14,research,skim + summarize objectives for Social Post + DM Pack,P1 – MVP Integration,19,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,analysis,outline value props and risks for Social Post + DM Pack,P1 – MVP Integration,19,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,19,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,19,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,19,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,19,revenue_sprint_lite_payoneer/social/post_and_dm.txt
+2025-09-17 00:25:14,research,skim + summarize objectives for Slack/Jira Issue Export,P1 – MVP Integration,20,ops/export_issues.sh
+2025-09-17 00:25:14,analysis,outline value props and risks for Slack/Jira Issue Export,P1 – MVP Integration,20,ops/export_issues.sh
+2025-09-17 00:25:14,data,define KPIs and freshness for BI,P1 – MVP Integration,20,ops/export_issues.sh
+2025-09-17 00:25:14,growth,prepare 3 posts + 10 DMs plan,P1 – MVP Integration,20,ops/export_issues.sh
+2025-09-17 00:25:14,pm,timeline + risk register,P1 – MVP Integration,20,ops/export_issues.sh
+2025-09-17 00:25:14,advisor,review blueprint and sign-off,P1 – MVP Integration,20,ops/export_issues.sh

@@ -1,0 +1,1067 @@
+{
+  "label": "repos",
+  "generated_at": "2025-09-17 00:25:14",
+  "count_total": 1112,
+  "count_selected": 20,
+  "first_pipeline": {
+    "name": "LaziestLarry Core (placeholder)",
+    "url": "https://github.com/laziestlarry/core",
+    "path": "",
+    "desc": "Core utils/prompts to accelerate agents",
+    "tags": "llm|core",
+    "score": 93.0,
+    "rownum": 10
+  },
+  "phases": [
+    {
+      "name": "P0 \u2013 Intake & Triage",
+      "window": "Day 0\u20131"
+    },
+    {
+      "name": "P1 \u2013 MVP Integration",
+      "window": "Day 1\u20133"
+    },
+    {
+      "name": "P2 \u2013 BI & Growth",
+      "window": "Day 3\u20135"
+    }
+  ],
+  "selected": [
+    {
+      "name": "Payoneer Lander Polishing",
+      "url": "",
+      "path": "revenue_sprint_lite_payoneer/landing/index.html",
+      "desc": "Tighten copy/CTA and placeholders for immediate conversion",
+      "tags": "lander|commercial",
+      "score": 95.0,
+      "rownum": 0
+    },
+    {
+      "name": "LaziestLarry Core (placeholder)",
+      "url": "https://github.com/laziestlarry/core",
+      "path": "",
+      "desc": "Core utils/prompts to accelerate agents",
+      "tags": "llm|core",
+      "score": 93.0,
+      "rownum": 10
+    },
+    {
+      "name": "Zen Printables Catalog (placeholder)",
+      "url": "https://drive.google.com/drive/folders/PRINTABLES-ID",
+      "path": "",
+      "desc": "Select 3\u20135 best SKUs with thumbnails and price",
+      "tags": "product|printable",
+      "score": 92.0,
+      "rownum": 0
+    },
+    {
+      "name": "Fulfillment Evidence Script",
+      "url": "",
+      "path": "ops/team_run_demo.sh",
+      "desc": "One-click proof run for client delivery",
+      "tags": "evidence|ops",
+      "score": 92.0,
+      "rownum": 1
+    },
+    {
+      "name": "Shopify\u2192BQ Orders Backfill",
+      "url": "",
+      "path": "analytics/backfill/orders_bulk.py",
+      "desc": "Enable real orders data for KPIs",
+      "tags": "data|bq|shopify",
+      "score": 92.0,
+      "rownum": 5
+    },
+    {
+      "name": "BI KPIs from BQ",
+      "url": "",
+      "path": "analytics/bi.py",
+      "desc": "Real KPIs for revenue/orders/AOV powering sales narrative",
+      "tags": "bi|kpi|bq",
+      "score": 91.0,
+      "rownum": 7
+    },
+    {
+      "name": "Checkout CTA via Payoneer",
+      "url": "",
+      "path": "revenue_sprint_lite_payoneer/landing/index.html",
+      "desc": "Wire Buy button to send invoice or checkout",
+      "tags": "checkout|lander",
+      "score": 90.0,
+      "rownum": 1
+    },
+    {
+      "name": "Deploy + Scheduler Bootstrap",
+      "url": "",
+      "path": "ops/deploy_ship_and_bootstrap.sh",
+      "desc": "Cost-opt deploy and job upsert for reliable operations",
+      "tags": "devops|cloudrun|scheduler",
+      "score": 90.0,
+      "rownum": 2
+    },
+    {
+      "name": "Shopify\u2192BQ Products Backfill",
+      "url": "",
+      "path": "analytics/backfill/products_bulk.py",
+      "desc": "Enable products catalog for insights and merchandising",
+      "tags": "data|bq|shopify",
+      "score": 90.0,
+      "rownum": 6
+    },
+    {
+      "name": "LaziestLarry Content (placeholder)",
+      "url": "https://github.com/laziestlarry/content",
+      "path": "",
+      "desc": "Content assets (scripts/voiceover/thumbnails) for fast publishing",
+      "tags": "content|video",
+      "score": 89.0,
+      "rownum": 11
+    },
+    {
+      "name": "Social Scripts (starter)",
+      "url": "",
+      "path": "revenue_sprint_lite_payoneer/social/post_and_dm.txt",
+      "desc": "Edit placeholders and post in 3 channels",
+      "tags": "campaign|script",
+      "score": 88.0,
+      "rownum": 0
+    },
+    {
+      "name": "Digital Delivery Evidence",
+      "url": "",
+      "path": "ops/team_run_demo.sh",
+      "desc": "Generate log proof for client/stakeholder trust",
+      "tags": "evidence",
+      "score": 88.0,
+      "rownum": 2
+    },
+    {
+      "name": "Dashboard Signals",
+      "url": "",
+      "path": "apps/dashboard/app.py",
+      "desc": "Add latency signals and evidence tail for transparency",
+      "tags": "dashboard|signals",
+      "score": 88.0,
+      "rownum": 3
+    },
+    {
+      "name": "YouTube Shorts Pack (placeholder)",
+      "url": "https://drive.google.com/drive/folders/YT-SHORTS-ID",
+      "path": "",
+      "desc": "Scripts+voiceovers+thumbnails bundle for 5 shorts",
+      "tags": "video|shorts",
+      "score": 87.0,
+      "rownum": 2
+    },
+    {
+      "name": "BI KPIs to Dashboard",
+      "url": "",
+      "path": "apps/dashboard/app.py",
+      "desc": "Display daily revenue/orders and signals",
+      "tags": "dashboard|bi",
+      "score": 87.0,
+      "rownum": 3
+    },
+    {
+      "name": "Brand Kit (placeholder)",
+      "url": "https://drive.google.com/drive/folders/BRAND-KIT-ID",
+      "path": "",
+      "desc": "Logo/palette/voice to unify materials",
+      "tags": "branding",
+      "score": 86.0,
+      "rownum": 1
+    },
+    {
+      "name": "Issue Export to Tracker",
+      "url": "",
+      "path": "ops/export_issues.sh",
+      "desc": "Create issues for execution; track done",
+      "tags": "pm|issues",
+      "score": 86.0,
+      "rownum": 4
+    },
+    {
+      "name": "Fiverr Gigs",
+      "url": "",
+      "path": "revenue_sprint_lite_payoneer/fiverr/gig.md",
+      "desc": "Productized service offer page",
+      "tags": "gigs|offer",
+      "score": 85.0,
+      "rownum": 3
+    },
+    {
+      "name": "Social Post + DM Pack",
+      "url": "",
+      "path": "revenue_sprint_lite_payoneer/social/post_and_dm.txt",
+      "desc": "Seed outreach and traction",
+      "tags": "campaign|mkt",
+      "score": 85.0,
+      "rownum": 8
+    },
+    {
+      "name": "Slack/Jira Issue Export",
+      "url": "",
+      "path": "ops/export_issues.sh",
+      "desc": "Push tasks into trackers quickly",
+      "tags": "pm|issues",
+      "score": 82.0,
+      "rownum": 9
+    }
+  ],
+  "tasks": [
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Payoneer Lander Polishing",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 1,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Payoneer Lander Polishing",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 1,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 1,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 1,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 1,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 1,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for LaziestLarry Core (placeholder)",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 2,
+      "ref": "https://github.com/laziestlarry/core"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for LaziestLarry Core (placeholder)",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 2,
+      "ref": "https://github.com/laziestlarry/core"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 2,
+      "ref": "https://github.com/laziestlarry/core"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 2,
+      "ref": "https://github.com/laziestlarry/core"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 2,
+      "ref": "https://github.com/laziestlarry/core"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 2,
+      "ref": "https://github.com/laziestlarry/core"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Zen Printables Catalog (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "https://drive.google.com/drive/folders/PRINTABLES-ID"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Zen Printables Catalog (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "https://drive.google.com/drive/folders/PRINTABLES-ID"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "https://drive.google.com/drive/folders/PRINTABLES-ID"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "https://drive.google.com/drive/folders/PRINTABLES-ID"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "https://drive.google.com/drive/folders/PRINTABLES-ID"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "https://drive.google.com/drive/folders/PRINTABLES-ID"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Fulfillment Evidence Script",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Fulfillment Evidence Script",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Shopify\u2192BQ Orders Backfill",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Shopify\u2192BQ Orders Backfill",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "dev",
+      "task": "wire Shopify backfills to BQ + /bi",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "analytics/backfill/orders_bulk.py"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for BI KPIs from BQ",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "analytics/bi.py"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for BI KPIs from BQ",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "analytics/bi.py"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "analytics/bi.py"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "analytics/bi.py"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "analytics/bi.py"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "analytics/bi.py"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Checkout CTA via Payoneer",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Checkout CTA via Payoneer",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "revenue_sprint_lite_payoneer/landing/index.html"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Deploy + Scheduler Bootstrap",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "ops/deploy_ship_and_bootstrap.sh"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Deploy + Scheduler Bootstrap",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "ops/deploy_ship_and_bootstrap.sh"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "ops/deploy_ship_and_bootstrap.sh"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "ops/deploy_ship_and_bootstrap.sh"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "ops/deploy_ship_and_bootstrap.sh"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "ops/deploy_ship_and_bootstrap.sh"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Shopify\u2192BQ Products Backfill",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Shopify\u2192BQ Products Backfill",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "dev",
+      "task": "wire Shopify backfills to BQ + /bi",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "analytics/backfill/products_bulk.py"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for LaziestLarry Content (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "https://github.com/laziestlarry/content"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for LaziestLarry Content (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "https://github.com/laziestlarry/content"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "https://github.com/laziestlarry/content"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "https://github.com/laziestlarry/content"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "https://github.com/laziestlarry/content"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "https://github.com/laziestlarry/content"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Social Scripts (starter)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Social Scripts (starter)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Digital Delivery Evidence",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Digital Delivery Evidence",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "ops/team_run_demo.sh"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Dashboard Signals",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Dashboard Signals",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for YouTube Shorts Pack (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "https://drive.google.com/drive/folders/YT-SHORTS-ID"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for YouTube Shorts Pack (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "https://drive.google.com/drive/folders/YT-SHORTS-ID"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "https://drive.google.com/drive/folders/YT-SHORTS-ID"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "https://drive.google.com/drive/folders/YT-SHORTS-ID"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "https://drive.google.com/drive/folders/YT-SHORTS-ID"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "https://drive.google.com/drive/folders/YT-SHORTS-ID"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for BI KPIs to Dashboard",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for BI KPIs to Dashboard",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "apps/dashboard/app.py"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Brand Kit (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "https://drive.google.com/drive/folders/BRAND-KIT-ID"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Brand Kit (placeholder)",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "https://drive.google.com/drive/folders/BRAND-KIT-ID"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "https://drive.google.com/drive/folders/BRAND-KIT-ID"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "https://drive.google.com/drive/folders/BRAND-KIT-ID"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "https://drive.google.com/drive/folders/BRAND-KIT-ID"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "https://drive.google.com/drive/folders/BRAND-KIT-ID"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Issue Export to Tracker",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Issue Export to Tracker",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Fiverr Gigs",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "revenue_sprint_lite_payoneer/fiverr/gig.md"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Fiverr Gigs",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "revenue_sprint_lite_payoneer/fiverr/gig.md"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "revenue_sprint_lite_payoneer/fiverr/gig.md"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "revenue_sprint_lite_payoneer/fiverr/gig.md"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "revenue_sprint_lite_payoneer/fiverr/gig.md"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "revenue_sprint_lite_payoneer/fiverr/gig.md"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Social Post + DM Pack",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Social Post + DM Pack",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "revenue_sprint_lite_payoneer/social/post_and_dm.txt"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for Slack/Jira Issue Export",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for Slack/Jira Issue Export",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "ops/export_issues.sh"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "ops/export_issues.sh"
+    }
+  ]
+}
