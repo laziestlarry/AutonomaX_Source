@@ -1,0 +1,1716 @@
+{
+  "label": "master",
+  "generated_at": "2025-09-17 02:57:01",
+  "count_total": 33,
+  "count_selected": 33,
+  "first_pipeline": {
+    "name": "item_1",
+    "url": "",
+    "path": "",
+    "desc": "",
+    "tags": "",
+    "score": 0.0,
+    "rownum": 0
+  },
+  "phases": [
+    {
+      "name": "P0 \u2013 Intake & Triage",
+      "window": "Day 0\u20131"
+    },
+    {
+      "name": "P1 \u2013 MVP Integration",
+      "window": "Day 1\u20133"
+    },
+    {
+      "name": "P2 \u2013 BI & Growth",
+      "window": "Day 3\u20135"
+    }
+  ],
+  "selected": [
+    {
+      "name": "item_1",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 0
+    },
+    {
+      "name": "item_2",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 1
+    },
+    {
+      "name": "item_3",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 2
+    },
+    {
+      "name": "item_4",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 3
+    },
+    {
+      "name": "item_5",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 4
+    },
+    {
+      "name": "item_6",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 5
+    },
+    {
+      "name": "item_7",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 6
+    },
+    {
+      "name": "item_8",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 7
+    },
+    {
+      "name": "item_9",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 8
+    },
+    {
+      "name": "item_10",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 9
+    },
+    {
+      "name": "item_11",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 10
+    },
+    {
+      "name": "item_12",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 11
+    },
+    {
+      "name": "item_13",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 12
+    },
+    {
+      "name": "item_14",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 13
+    },
+    {
+      "name": "item_15",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 14
+    },
+    {
+      "name": "item_16",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 15
+    },
+    {
+      "name": "item_17",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 16
+    },
+    {
+      "name": "item_18",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 17
+    },
+    {
+      "name": "item_19",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 18
+    },
+    {
+      "name": "item_20",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 19
+    },
+    {
+      "name": "item_21",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 20
+    },
+    {
+      "name": "item_22",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 21
+    },
+    {
+      "name": "item_23",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 22
+    },
+    {
+      "name": "item_24",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 23
+    },
+    {
+      "name": "item_25",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 24
+    },
+    {
+      "name": "item_26",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 25
+    },
+    {
+      "name": "item_27",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 26
+    },
+    {
+      "name": "item_28",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 27
+    },
+    {
+      "name": "item_29",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 28
+    },
+    {
+      "name": "item_30",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 29
+    },
+    {
+      "name": "item_31",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 30
+    },
+    {
+      "name": "item_32",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 31
+    },
+    {
+      "name": "item_33",
+      "url": "",
+      "path": "",
+      "desc": "",
+      "tags": "",
+      "score": 0.0,
+      "rownum": 32
+    }
+  ],
+  "tasks": [
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_1",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 1,
+      "ref": "item_1"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_1",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 1,
+      "ref": "item_1"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 1,
+      "ref": "item_1"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 1,
+      "ref": "item_1"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 1,
+      "ref": "item_1"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P0 \u2013 Intake & Triage",
+      "priority": 1,
+      "ref": "item_1"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_2",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 2,
+      "ref": "item_2"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_2",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 2,
+      "ref": "item_2"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 2,
+      "ref": "item_2"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 2,
+      "ref": "item_2"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 2,
+      "ref": "item_2"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 2,
+      "ref": "item_2"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_3",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "item_3"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_3",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "item_3"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "item_3"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "item_3"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "item_3"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 3,
+      "ref": "item_3"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_4",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "item_4"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_4",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "item_4"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "item_4"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "item_4"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "item_4"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 4,
+      "ref": "item_4"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_5",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "item_5"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_5",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "item_5"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "item_5"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "item_5"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "item_5"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 5,
+      "ref": "item_5"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_6",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "item_6"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_6",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "item_6"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "item_6"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "item_6"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "item_6"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 6,
+      "ref": "item_6"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_7",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "item_7"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_7",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "item_7"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "item_7"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "item_7"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "item_7"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 7,
+      "ref": "item_7"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_8",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "item_8"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_8",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "item_8"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "item_8"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "item_8"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "item_8"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 8,
+      "ref": "item_8"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_9",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "item_9"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_9",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "item_9"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "item_9"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "item_9"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "item_9"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 9,
+      "ref": "item_9"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_10",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "item_10"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_10",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "item_10"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "item_10"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "item_10"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "item_10"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 10,
+      "ref": "item_10"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_11",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "item_11"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_11",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "item_11"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "item_11"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "item_11"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "item_11"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 11,
+      "ref": "item_11"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_12",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "item_12"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_12",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "item_12"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "item_12"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "item_12"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "item_12"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 12,
+      "ref": "item_12"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_13",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "item_13"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_13",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "item_13"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "item_13"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "item_13"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "item_13"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 13,
+      "ref": "item_13"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_14",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "item_14"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_14",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "item_14"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "item_14"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "item_14"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "item_14"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 14,
+      "ref": "item_14"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_15",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "item_15"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_15",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "item_15"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "item_15"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "item_15"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "item_15"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 15,
+      "ref": "item_15"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_16",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "item_16"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_16",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "item_16"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "item_16"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "item_16"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "item_16"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 16,
+      "ref": "item_16"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_17",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "item_17"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_17",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "item_17"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "item_17"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "item_17"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "item_17"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 17,
+      "ref": "item_17"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_18",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "item_18"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_18",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "item_18"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "item_18"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "item_18"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "item_18"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 18,
+      "ref": "item_18"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_19",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "item_19"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_19",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "item_19"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "item_19"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "item_19"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "item_19"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 19,
+      "ref": "item_19"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_20",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "item_20"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_20",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "item_20"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "item_20"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "item_20"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "item_20"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 20,
+      "ref": "item_20"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_21",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 21,
+      "ref": "item_21"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_21",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 21,
+      "ref": "item_21"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 21,
+      "ref": "item_21"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 21,
+      "ref": "item_21"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 21,
+      "ref": "item_21"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 21,
+      "ref": "item_21"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_22",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 22,
+      "ref": "item_22"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_22",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 22,
+      "ref": "item_22"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 22,
+      "ref": "item_22"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 22,
+      "ref": "item_22"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 22,
+      "ref": "item_22"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 22,
+      "ref": "item_22"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_23",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 23,
+      "ref": "item_23"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_23",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 23,
+      "ref": "item_23"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 23,
+      "ref": "item_23"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 23,
+      "ref": "item_23"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 23,
+      "ref": "item_23"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 23,
+      "ref": "item_23"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_24",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 24,
+      "ref": "item_24"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_24",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 24,
+      "ref": "item_24"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 24,
+      "ref": "item_24"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 24,
+      "ref": "item_24"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 24,
+      "ref": "item_24"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 24,
+      "ref": "item_24"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_25",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 25,
+      "ref": "item_25"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_25",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 25,
+      "ref": "item_25"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 25,
+      "ref": "item_25"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 25,
+      "ref": "item_25"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 25,
+      "ref": "item_25"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 25,
+      "ref": "item_25"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_26",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 26,
+      "ref": "item_26"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_26",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 26,
+      "ref": "item_26"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 26,
+      "ref": "item_26"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 26,
+      "ref": "item_26"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 26,
+      "ref": "item_26"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 26,
+      "ref": "item_26"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_27",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 27,
+      "ref": "item_27"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_27",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 27,
+      "ref": "item_27"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 27,
+      "ref": "item_27"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 27,
+      "ref": "item_27"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 27,
+      "ref": "item_27"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 27,
+      "ref": "item_27"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_28",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 28,
+      "ref": "item_28"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_28",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 28,
+      "ref": "item_28"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 28,
+      "ref": "item_28"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 28,
+      "ref": "item_28"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 28,
+      "ref": "item_28"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 28,
+      "ref": "item_28"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_29",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 29,
+      "ref": "item_29"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_29",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 29,
+      "ref": "item_29"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 29,
+      "ref": "item_29"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 29,
+      "ref": "item_29"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 29,
+      "ref": "item_29"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 29,
+      "ref": "item_29"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_30",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 30,
+      "ref": "item_30"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_30",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 30,
+      "ref": "item_30"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 30,
+      "ref": "item_30"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 30,
+      "ref": "item_30"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 30,
+      "ref": "item_30"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 30,
+      "ref": "item_30"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_31",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 31,
+      "ref": "item_31"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_31",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 31,
+      "ref": "item_31"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 31,
+      "ref": "item_31"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 31,
+      "ref": "item_31"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 31,
+      "ref": "item_31"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 31,
+      "ref": "item_31"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_32",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 32,
+      "ref": "item_32"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_32",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 32,
+      "ref": "item_32"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 32,
+      "ref": "item_32"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 32,
+      "ref": "item_32"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 32,
+      "ref": "item_32"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 32,
+      "ref": "item_32"
+    },
+    {
+      "role": "research",
+      "task": "skim + summarize objectives for item_33",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 33,
+      "ref": "item_33"
+    },
+    {
+      "role": "analysis",
+      "task": "outline value props and risks for item_33",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 33,
+      "ref": "item_33"
+    },
+    {
+      "role": "data",
+      "task": "define KPIs and freshness for BI",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 33,
+      "ref": "item_33"
+    },
+    {
+      "role": "growth",
+      "task": "prepare 3 posts + 10 DMs plan",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 33,
+      "ref": "item_33"
+    },
+    {
+      "role": "pm",
+      "task": "timeline + risk register",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 33,
+      "ref": "item_33"
+    },
+    {
+      "role": "advisor",
+      "task": "review blueprint and sign-off",
+      "phase": "P1 \u2013 MVP Integration",
+      "priority": 33,
+      "ref": "item_33"
+    }
+  ]
+}

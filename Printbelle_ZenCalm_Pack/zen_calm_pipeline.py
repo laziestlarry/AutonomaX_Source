@@ -12,7 +12,7 @@ Requirements:
   pip install pillow numpy requests python-dotenv
 
 Env (for API modes):
-  SHOP_DOMAIN=autonomax.myshopify.com
+  SHOP_DOMAIN=autonoma-x.myshopify.com
   SHOPIFY_ADMIN_TOKEN=shpat_xxx
   SHOPIFY_API_VERSION=2024-04
 """

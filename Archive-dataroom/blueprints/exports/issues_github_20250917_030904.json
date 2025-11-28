@@ -1,0 +1,5738 @@
+[
+  {
+    "title": "[dev] wire BI KPIs",
+    "body": "Ref: <none>\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "dev"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Payoneer Lander Polishing",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Payoneer Lander Polishing",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for LaziestLarry Core (placeholder)",
+    "body": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for LaziestLarry Core (placeholder)",
+    "body": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: https://github.com/laziestlarry/core\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Zen Printables Catalog (placeholder)",
+    "body": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Zen Printables Catalog (placeholder)",
+    "body": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: https://drive.google.com/drive/folders/PRINTABLES-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Fulfillment Evidence Script",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Fulfillment Evidence Script",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Shopify\u2192BQ Orders Backfill",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Shopify\u2192BQ Orders Backfill",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[dev] wire Shopify backfills to BQ + /bi",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "dev"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: analytics/backfill/orders_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for BI KPIs from BQ",
+    "body": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for BI KPIs from BQ",
+    "body": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: analytics/bi.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Checkout CTA via Payoneer",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Checkout CTA via Payoneer",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: revenue_sprint_lite_payoneer/landing/index.html\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Deploy + Scheduler Bootstrap",
+    "body": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Deploy + Scheduler Bootstrap",
+    "body": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: ops/deploy_ship_and_bootstrap.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Shopify\u2192BQ Products Backfill",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Shopify\u2192BQ Products Backfill",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[dev] wire Shopify backfills to BQ + /bi",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "dev"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: analytics/backfill/products_bulk.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for LaziestLarry Content (placeholder)",
+    "body": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for LaziestLarry Content (placeholder)",
+    "body": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: https://github.com/laziestlarry/content\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Social Scripts (starter)",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Social Scripts (starter)",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Digital Delivery Evidence",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Digital Delivery Evidence",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: ops/team_run_demo.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Dashboard Signals",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Dashboard Signals",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for YouTube Shorts Pack (placeholder)",
+    "body": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for YouTube Shorts Pack (placeholder)",
+    "body": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: https://drive.google.com/drive/folders/YT-SHORTS-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for BI KPIs to Dashboard",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for BI KPIs to Dashboard",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: apps/dashboard/app.py\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Brand Kit (placeholder)",
+    "body": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Brand Kit (placeholder)",
+    "body": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: https://drive.google.com/drive/folders/BRAND-KIT-ID\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Issue Export to Tracker",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Issue Export to Tracker",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Fiverr Gigs",
+    "body": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Fiverr Gigs",
+    "body": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: revenue_sprint_lite_payoneer/fiverr/gig.md\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Social Post + DM Pack",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Social Post + DM Pack",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: revenue_sprint_lite_payoneer/social/post_and_dm.txt\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for Slack/Jira Issue Export",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for Slack/Jira Issue Export",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: ops/export_issues.sh\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_1",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_1",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_2",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_2",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_3",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_3",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_4",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_4",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_5",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_5",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_6",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_6",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_7",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_7",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_8",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_8",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_9",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_9",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_10",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_10",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_11",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_11",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_12",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_12",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_13",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_13",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_14",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_14",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_15",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_15",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_16",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_16",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_17",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_17",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_18",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_18",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_19",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_19",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_20",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_20",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_21",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_21",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_22",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_22",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_23",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_23",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_24",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_24",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_25",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_25",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_26",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_26",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_27",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_27",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_28",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_28",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_29",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_29",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_30",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_30",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_31",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_31",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_32",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_32",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_33",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_33",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_1",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_1",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_2",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_2",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_3",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_3",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_4",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_4",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_5",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_5",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_6",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_6",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_7",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_7",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_8",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_8",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_9",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_9",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_10",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_10",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_11",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_11",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_12",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_12",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_13",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_13",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_14",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_14",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_15",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_15",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_16",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_16",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_17",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_17",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_18",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_18",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_19",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_19",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_20",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_20",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_21",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_21",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_22",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_22",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_23",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_23",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_24",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_24",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_25",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_25",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_26",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_26",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_27",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_27",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_28",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_28",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_29",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_29",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_30",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_30",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_31",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_31",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_32",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_32",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_33",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_33",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_1",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_1",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_1\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_2",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_2",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_2\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_3",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_3",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_3\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_4",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_4",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_4\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_5",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_5",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_5\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_6",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_6",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_6\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_7",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_7",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_7\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_8",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_8",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_8\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_9",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_9",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_9\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_10",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_10",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_10\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_11",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_11",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_11\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_12",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_12",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_12\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_13",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_13",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_13\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_14",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_14",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_14\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_15",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_15",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_15\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_16",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_16",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_16\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_17",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_17",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_17\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_18",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_18",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_18\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_19",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_19",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_19\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_20",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_20",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_20\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_21",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_21",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_21\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_22",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_22",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_22\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_23",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_23",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_23\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_24",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_24",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_24\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_25",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_25",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_25\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_26",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_26",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_26\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_27",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_27",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_27\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_28",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_28",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_28\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_29",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_29",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_29\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_30",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_30",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_30\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_31",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_31",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_31\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_32",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_32",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_32\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[research] skim + summarize objectives for item_33",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "research"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[analysis] outline value props and risks for item_33",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "analysis"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[data] define KPIs and freshness for BI",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "data"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[growth] prepare 3 posts + 10 DMs plan",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "growth"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[pm] timeline + risk register",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "pm"
+    ],
+    "assignees": []
+  },
+  {
+    "title": "[advisor] review blueprint and sign-off",
+    "body": "Ref: item_33\nGenerated: 2025-09-17 03:09:04\n",
+    "labels": [
+      "advisor"
+    ],
+    "assignees": []
+  }
+]
