@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os, csv, base64, json, time, requests
 
-SHOP_DOMAIN = os.environ.get("SHOP_DOMAIN", "autonomax.myshopify.com")
+SHOP_DOMAIN = os.environ.get("SHOP_DOMAIN", "autonoma-x.myshopify.com")
 ADMIN_TOKEN = os.environ.get("SHOPIFY_ADMIN_TOKEN")
 API_VERSION = os.environ.get("SHOPIFY_API_VERSION", "2024-04")
 CSV_FILE = os.environ.get("PRODUCT_CSV", "products.csv")
